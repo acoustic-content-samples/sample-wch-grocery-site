@@ -1,0 +1,19 @@
+#main-section {
+    background: #ffffff;
+
+    .search-bar {
+        margin: 0 0 20px 0;
+
+        > div {
+            padding: 0;
+        }
+
+        input {
+            background: #ffffff;
+        }
+    }
+
+    .search-results {
+        display: block;
+    }
+}

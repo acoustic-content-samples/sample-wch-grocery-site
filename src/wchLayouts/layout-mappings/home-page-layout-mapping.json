@@ -1,0 +1,21 @@
+{
+  "id": "home-page-layout-mapping",
+  "rev": "2-de2016218ec7e86efc3986a1e2b8eb03",
+  "name": "homePageLayoutMapping",
+  "classification": "layout-mapping",
+  "type": {
+    "id": "5f0f7d24-df1b-4467-b70b-dfdb17002f44"
+  },
+  "mappings": [
+    {
+      "defaultLayout": {
+        "id": "home-page-layout"
+      },
+      "layouts": [
+        {
+          "id": "home-page-layout"
+        }
+      ]
+    }
+  ]
+}

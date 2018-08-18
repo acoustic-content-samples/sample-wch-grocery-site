@@ -1,0 +1,9 @@
+<section id="breadcrumb-section" class="wrapper style2">
+    <ol class="breadcrumb inner">
+        <li class="breadcrumb-item"><a href [routerLink]="getRouteURL('/home')">Home</a></li>
+        <li *ngFor="let page of rContext?.context?.breadcrumb; first as isFirst; last as isLast" class="breadcrumb-item">
+            <a *ngIf="isClickableLink(isFirst, isLast)" href [routerLink]="getRouteURL(page.route)">{{page.name}}</a>
+            <span *ngIf="!isClickableLink(isFirst, isLast)">{{page.name}}</span>
+        </li>
+    </ol>
+</section>

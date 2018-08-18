@@ -1,0 +1,17 @@
+<wch-banner [renderingContext]='onRenderingContext|async'></wch-banner>
+<wch-breadcrumb [renderingContext]='onRenderingContext|async'></wch-breadcrumb>
+<section id="main-section" class="wrapper style2">
+    <div class="inner">
+        <div class="search-bar row">
+            <div class="12u">
+                <input #searchBox (keyup)="search(searchBox.value)" type="text" name="query" id="query" value="" placeholder="Search" autocomplete="off"/>
+            </div>
+        </div>
+        <wch-contentquery class="search-results row" [query]='queryString' #q>
+            <wch-contentref class="3u 6u(medium) 12u(small)"
+                            *ngFor="let eventDetailPage of q.onRenderingContexts | async| dateFilter:sortField:dateFilterStr | itemSort:sortField:sortOrderStr"
+                            [layoutMode]="constants.SUMMARY" [renderingContext]="eventDetailPage">
+            </wch-contentref>
+        </wch-contentquery>
+    </div>
+</section>

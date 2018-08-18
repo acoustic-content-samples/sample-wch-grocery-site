@@ -1,0 +1,52 @@
+#main-section {
+    display: flex;
+    flex-flow: column nowrap;
+    flex: 1 1 auto;
+    background: #ffffff;
+
+    .inner {
+        display: flex;
+        flex-flow: column nowrap;
+        flex: 1 1 auto;
+        max-width: 1040px;
+
+        .recipe-info {
+            .recipe-image {
+                cursor: unset;
+
+                &:hover .recipe-image-bg {
+                    transition: unset;
+                    opacity: initial;
+                }
+            }
+
+            .recipe-summary {
+                header h2 + p {
+                    font-size: 1rem;
+                    margin-bottom: 0;
+                }
+
+                h2 {
+                    font-weight: 400;
+                }
+
+                > p {
+                    color: #444;
+                    margin: 0;
+                }
+            }
+        }
+    }
+}
+
+#secondary-section h2.special {
+    text-transform: none;
+}
+
+.image-link:hover {
+    opacity: 0.8;
+}
+
+.image.fit {
+    margin: 0;
+}

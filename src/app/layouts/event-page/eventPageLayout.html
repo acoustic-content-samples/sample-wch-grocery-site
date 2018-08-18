@@ -1,0 +1,43 @@
+<div [ngSwitch]="layoutMode">
+    <div *ngSwitchCase="constants.SUMMARY" class="box">
+        <div class="image fit">
+            <a href [routerLink]="navLink()" class="image-link">
+                <div class="event-image-bg" [style.background-image]="'url(' + getEventImageUrl('medium') +')'"></div>
+            </a>
+        </div>
+        <div class="content">
+            <header class="align-center">
+                <p wchEditable="startDate">{{startDate | date:'yMMMMd'}}</p>
+                <h2 wchEditable="title">{{onTitle | async}}</h2>
+            </header>
+            <p wchEditable="description" [innerHTML]="onDescription | async | formattedText:'html'"></p>
+            <footer class="align-center">
+                <a href [routerLink]="navLink()" class="button special">Details</a>
+            </footer>
+        </div>
+    </div>
+    <div *ngSwitchCase="constants.DETAIL">
+        <wch-breadcrumb [renderingContext]='onRenderingContext|async'></wch-breadcrumb>
+        <section id="main-section" class="wrapper style2">
+            <div class="inner">
+                <div class="recipe-info row">
+                    <div class="6u 12u(medium)">
+                        <div class="recipe-card">
+                            <div class="recipe-image">
+                                <div class="recipe-image-bg" [style.background-image]="'url(' + getEventImageUrl('large') +')'"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="recipe-summary 6u 12u(medium)">
+                        <header>
+                            <h2 wchEditable="title">{{onTitle | async}}</h2>
+                            <p wchEditable="startDate">{{startDate | date:'EEEE, MMMM d y, h:mm a'}}</p>
+                            <p wchEditable="address" [innerHTML]="onAddress | async | formattedText:'html'"></p>
+                        </header>
+                        <p wchEditable="description" [innerHTML]="onDescription | async | formattedText:'html'"></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+</div>

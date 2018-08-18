@@ -1,0 +1,12 @@
+{
+  "id": "about-layout",
+  "rev": "2-25713baa146279869f62b500e6293588",
+  "name": "aboutLayout",
+  "classification": "layout",
+  "prerender": false,
+  "thumbnail": {
+    "path": "/layouts/thumbnails/about-layout.jpg"
+  },
+  "template": "about-layout",
+  "templateType": "angular"
+}

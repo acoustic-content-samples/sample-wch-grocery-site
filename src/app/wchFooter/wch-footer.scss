@@ -1,0 +1,144 @@
+#footer {
+    padding: 32px 0;
+    background: #000;
+    text-align: center;
+    flex: 0 1 auto;
+
+    .icons {
+        margin: 0 0 30px 0;
+    }
+
+    .copyright, .creator {
+        color: #bbb;
+        font-size: 14px;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+
+    a {
+        color: rgba(255, 255, 255, 0.5);
+        text-decoration: none;
+
+        &:hover {
+            color: #FFF;
+            cursor: pointer;
+            text-decoration: underline;
+        }
+
+        &.creator-link {
+            color: #bbb;
+        }
+
+        &.icon:hover {
+            text-decoration: none;
+        }
+    }
+}
+
+.modal {
+    position: fixed;
+    z-index: 10000;
+    top: 0;
+    left: 0;
+    visibility: hidden;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    &.is-visible {
+        visibility: visible;
+
+        .modal-overlay {
+            opacity: 1;
+            visibility: visible;
+            transition-delay: 0s;
+        }
+
+        .modal-transition {
+            opacity: 1;
+        }
+    }
+
+    .modal-overlay {
+        position: fixed;
+        z-index: 10;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: hsla(0, 0%, 0%, 0.5);
+        visibility: hidden;
+        opacity: 0;
+        transition: visibility 0s linear 0.3s, opacity 0.3s;
+    }
+
+    .modal-wrapper {
+        position: absolute;
+        z-index: 9999;
+        width: 32em;
+        background-color: #fff;
+        box-shadow: 0 0 1.5em hsla(0, 0%, 0%, 0.35);
+    }
+
+    .modal-transition {
+        transition: all 0.3s 0.12s;
+        opacity: 0;
+    }
+
+    .modal-body {
+        position: relative;
+        padding: 30px;
+        border: 2px solid #60bb4e;
+        background: #f2f2f2;
+
+        .modal-content {
+            &.wrapper.style2 {
+                background-color: #ffffff;
+                padding: 4rem 3rem;
+
+                h2 {
+                    margin: 0 0 2.5rem 0;
+                }
+
+                h3 {
+                    margin: 0;
+                }
+
+                p:last-child {
+                    margin: 0;
+                }
+            }
+
+            a {
+                text-decoration: none;
+
+                &:hover {
+                    cursor: pointer;
+                    text-decoration: underline;
+                }
+            }
+        }
+    }
+
+    .modal-close {
+        position: absolute;
+        top: 0;
+        right: 0;
+        color: #aaa;
+        background: none;
+        border: 0;
+        cursor: pointer;
+        text-decoration: none;
+        font-size: 20px;
+        display: flex;
+        margin: 7px;
+
+        &:hover, &:focus {
+            color: #777;
+        }
+    }
+}
+

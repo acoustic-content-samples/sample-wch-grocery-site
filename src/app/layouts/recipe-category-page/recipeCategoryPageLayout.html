@@ -1,0 +1,37 @@
+<div [ngSwitch]="layoutMode">
+    <div *ngSwitchCase="constants.SUMMARY">
+        <a class="read-category-link" href [routerLink]="navLink()">
+            <div class="">
+                <div class="recipe-card">
+                    <div class="recipe-image">
+                        <div class="recipe-image-bg" [style.background-image]="'url(' + getRecipeCategoryImageUrl('medium') +')'"></div>
+                        <div wchEditable="bannerText" class="recipe-title category">{{onBannerText | async}}</div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+    <div *ngSwitchCase="constants.DETAIL">
+        <wch-banner [renderingContext]='onRenderingContext|async'></wch-banner>
+        <wch-breadcrumb [renderingContext]='onRenderingContext|async'></wch-breadcrumb>
+        <section id="main-section" class="wrapper style2">
+            <div class="inner">
+                <div class="search-bar row">
+                    <div class="12u">
+                        <input #searchBox (keyup)="search(searchBox.value)" type="text" name="query" id="query" value="" placeholder="Search" autocomplete="off"/>
+                    </div>
+                </div>
+                <wch-contentquery class="search-results row" [query]='queryString' #q>
+                    <wch-contentref class="3u 6u(medium) 12u(small)"
+                                    *ngFor="let recipeDetailPage of q.onRenderingContexts | async"
+                                    [layoutMode]="constants.SUMMARY"
+                                    [renderingContext]="recipeDetailPage">
+                    </wch-contentref>
+                </wch-contentquery>
+                <!--<div *ngIf="(q.onRenderingContexts | async)?.length" class="row">-->
+                <!--<wch-contentref class="3u 6u(medium) 12u(small)" *ngFor="let recipeDetailPage of q.onRenderingContexts | async" [layoutMode]="constants.SUMMARY" [renderingContext]="recipeDetailPage"></wch-contentref>-->
+                <!--</div>-->
+            </div>
+        </section>
+    </div>
+</div>

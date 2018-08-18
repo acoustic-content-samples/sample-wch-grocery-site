@@ -1,0 +1,21 @@
+{
+  "id": "list-layout-mapping",
+  "rev": "2-ac70e0f32804214e00ba6d3c4403bc52",
+  "name": "listLayoutMapping",
+  "classification": "layout-mapping",
+  "type": {
+    "id": "7f8606a0-eead-4728-8cd2-ed24705412c0"
+  },
+  "mappings": [
+    {
+      "defaultLayout": {
+        "id": "list-layout"
+      },
+      "layouts": [
+        {
+          "id": "list-layout"
+        }
+      ]
+    }
+  ]
+}

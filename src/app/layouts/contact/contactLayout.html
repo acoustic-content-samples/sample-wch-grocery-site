@@ -1,0 +1,34 @@
+<div class="row">
+    <div class="contact-info 4u">
+        <header>
+            <h3>Address</h3>
+        </header>
+        <p wchEditable="address" [innerHTML]="onAddress | async | formattedText:'html'"></p>
+        <header>
+            <h3>Phone</h3>
+        </header>
+        <p wchEditable="phone">{{onPhone | async}}</p>
+        <header>
+            <h3>Email</h3>
+        </header>
+        <p>
+            <a wchEditable="email" href="mailto:{{onEmail | async}}">{{onEmail | async}}</a>
+        </p>
+        <header>
+            <h3>Opening Hours</h3>
+        </header>
+        <p wchEditable="openingHours" [innerHTML]="onOpeningHours | async | formattedText:'html'"></p>
+    </div>
+    <div class="contact-form 8u">
+        <div class="row">
+            <header class="form-heading 12u">
+                <h3 wchEditable="formHeading">{{onFormHeading | async}}</h3>
+            </header>
+            <input class="name 6u" type="text" name="name" id="name" value="" placeholder="Name" autocomplete="off"/>
+            <input class="email 6u$" type="email" name="email" id="email" value="" placeholder="Email" autocomplete="off"/>
+            <textarea class="message 12u$" name="message" id="message" placeholder="Enter your message" rows="6"></textarea>
+            <a href="" class="button special">Submit</a>
+        </div>
+    </div>
+    <div class="12u" id="store-map"></div>
+</div>

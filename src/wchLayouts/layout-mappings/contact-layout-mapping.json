@@ -1,0 +1,21 @@
+{
+  "id": "contact-layout-mapping",
+  "rev": "2-1d4a2a23ba869d8fbfa7525b26f17b90",
+  "name": "contactLayoutMapping",
+  "classification": "layout-mapping",
+  "type": {
+    "id": "a0827940-d345-4e9c-be0e-fa6bd7d8b63d"
+  },
+  "mappings": [
+    {
+      "defaultLayout": {
+        "id": "contact-layout"
+      },
+      "layouts": [
+        {
+          "id": "contact-layout"
+        }
+      ]
+    }
+  ]
+}

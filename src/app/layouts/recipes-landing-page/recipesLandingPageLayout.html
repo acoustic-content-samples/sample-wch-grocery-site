@@ -1,0 +1,12 @@
+<wch-banner [renderingContext]='onRenderingContext|async'></wch-banner>
+<wch-breadcrumb [renderingContext]='onRenderingContext|async'></wch-breadcrumb>
+<section id="main-section" class="wrapper style2">
+    <div class="inner">
+        <wch-contentquery class="categories row" [query]='queryString' #q>
+            <wch-contentref class="3u 6u(medium) 12u(small)"
+                            *ngFor="let categoryPage of q.onRenderingContexts | async"
+                            [layoutMode]="constants.SUMMARY" [renderingContext]="categoryPage">
+            </wch-contentref>
+        </wch-contentquery>
+    </div>
+</section>

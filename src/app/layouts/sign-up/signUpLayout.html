@@ -1,0 +1,9 @@
+<section class="sign-up wrapper style3" [style.background-image]="'url(' + getBackgroundImageUrl() +')'">
+    <div class="inner">
+        <header class="align-center row">
+            <h2 wchEditable="headline" class="4u">{{onHeadline | async}}</h2>
+            <input wchEditable="textInputPlaceholder" class="4u" type="email" name="email" id="email" value="" [attr.placeholder]="textInputPlaceholder" autocomplete="off"/>
+            <a wchEditable="actionLabel" class="4u" href="" class="button special">{{onActionLabel | async}}</a>
+        </header>
+    </div>
+</section>

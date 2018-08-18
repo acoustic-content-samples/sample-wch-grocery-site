@@ -1,0 +1,12 @@
+{
+  "id": "home-page-layout",
+  "rev": "2-dcb739be781a1ae3c6cde93ac75b8946",
+  "name": "homePageLayout",
+  "classification": "layout",
+  "prerender": false,
+  "thumbnail": {
+    "path": "/layouts/thumbnails/home-page-layout.jpg"
+  },
+  "template": "home-page-layout",
+  "templateType": "angular"
+}

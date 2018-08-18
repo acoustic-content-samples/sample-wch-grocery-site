@@ -1,0 +1,21 @@
+{
+  "id": "dynamic-list-layout-mapping",
+  "rev": "2-3569b18cc6158e99832b1e36a531ad1f",
+  "name": "dynamicListLayoutMapping",
+  "classification": "layout-mapping",
+  "type": {
+    "id": "367908ac-e711-4662-a531-91d3ada05508"
+  },
+  "mappings": [
+    {
+      "defaultLayout": {
+        "id": "dynamic-list-layout"
+      },
+      "layouts": [
+        {
+          "id": "dynamic-list-layout"
+        }
+      ]
+    }
+  ]
+}

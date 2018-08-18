@@ -1,0 +1,5 @@
+<section #slideshow class="slideshow full is-loading">
+    <article *ngFor="let slide of slides">
+        <wch-contentref [renderingContext]="slide"></wch-contentref>
+    </article>
+</section>

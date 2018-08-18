@@ -1,0 +1,12 @@
+#main-section {
+    display: flex;
+    flex-flow: column nowrap;
+    flex: 1 1 auto;
+    background: #ffffff;
+
+    .inner {
+        display: flex;
+        flex-flow: column nowrap;
+        flex: 1 1 auto;
+    }
+}

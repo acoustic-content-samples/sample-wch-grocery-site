@@ -1,0 +1,21 @@
+{
+  "id": "slideshow-layout-mapping",
+  "rev": "2-4c2b67181b4d878ccaf9413926eda102",
+  "name": "slideshowLayoutMapping",
+  "classification": "layout-mapping",
+  "type": {
+    "id": "02a19c37-22b6-4543-a67b-a09c83f51864"
+  },
+  "mappings": [
+    {
+      "defaultLayout": {
+        "id": "slideshow-layout"
+      },
+      "layouts": [
+        {
+          "id": "slideshow-layout"
+        }
+      ]
+    }
+  ]
+}

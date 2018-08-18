@@ -1,0 +1,5 @@
+<div id="page-wrapper">
+	<wch-header [renderingContext]='onRenderingContext|async'></wch-header>
+	<router-outlet (activate)='onActivate($event)'></router-outlet>
+	<wch-footer [renderingContext]='onRenderingContext|async'></wch-footer>
+</div>

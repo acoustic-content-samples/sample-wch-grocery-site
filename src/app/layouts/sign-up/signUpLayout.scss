@@ -1,0 +1,26 @@
+.sign-up {
+    background-attachment: fixed;
+
+    &.wrapper.style3:before {
+        opacity: 0.75;
+    }
+
+    header {
+        margin: 0;
+
+        h2 {
+            margin: 0 20px 0 0;
+        }
+
+        input {
+            background: #ffffff;
+            margin: 0 10px 0 0;
+            max-width: 50%;
+            height: 45px;
+        }
+        .button {
+            text-transform: initial;
+            height: 45px;
+        }
+    }
+}

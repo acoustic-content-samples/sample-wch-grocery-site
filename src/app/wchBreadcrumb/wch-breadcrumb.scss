@@ -1,0 +1,53 @@
+#breadcrumb-section {
+    margin: 0;
+    background: #f2f2f2;
+    padding: 10px 0;
+    display: flex;
+    flex-flow: column nowrap;
+    flex: 0 0 auto;
+
+    .breadcrumb {
+        list-style: none;
+        background: #f2f2f2;
+        padding: 0;
+        font-size: 14px;
+
+        display: flex;
+        flex-flow: row wrap;
+        flex: 1 1 auto;
+
+        a {
+            float: left;
+            color: #60bb4e;
+            text-decoration: none;
+
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+
+        .breadcrumb-item {
+            float: left;
+            padding: 0;
+
+            &.active {
+                color: #636c72;
+            }
+        }
+
+        .breadcrumb-item + .breadcrumb-item::before {
+            display: inline-block;
+            float: left;
+            padding-right: .5rem;
+            padding-left: .5rem;
+            color: #636c72;
+            content: "/";
+        }
+    }
+}
+
+
+
+
+
+

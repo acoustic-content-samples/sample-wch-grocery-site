@@ -1,0 +1,23 @@
+<section class="wrapper style2">
+    <div class="inner">
+        <header class="align-center">
+            <h2 wchEditable="heading" class="special">{{onHeading | async}}</h2>
+            <p wchEditable="subheading" class="special">{{onSubheading | async}}
+                <span *ngIf="isButtonLinkSet()">
+                    <a *ngIf="!rContext.elements.viewAllLink.linkURL.startsWith('http')" href [routerLink]="rContext.elements.viewAllLink.linkURL" class="view-all-link">
+                        {{rContext.elements.viewAllLink.linkText}}
+                    </a>
+                    <a *ngIf="rContext.elements.viewAllLink.linkURL.startsWith('http')" [href]="rContext.elements.viewAllLink.linkURL" class="view-all-link">
+                        {{rContext.elements.viewAllLink.linkText}}
+                    </a>
+				</span>
+            </p>
+        </header>
+        <div class="row">
+            <wch-contentref class="4u 6u(medium) 12u(small)" *ngFor="let item of items"
+                            [layoutMode]="constants.SUMMARY"
+                            [renderingContext]="item">
+            </wch-contentref>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,8 @@
+<div class="box">
+    <div class="content">
+        <header class="align-center">
+            <h2 wchEditable="heading">{{onHeading | async}}</h2>
+        </header>
+        <div wchEditable="body" [innerHTML]="onBody | async | formattedText:'html'"></div>
+    </div>
+</div>

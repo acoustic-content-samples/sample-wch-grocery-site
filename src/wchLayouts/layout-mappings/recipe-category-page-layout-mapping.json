@@ -1,0 +1,21 @@
+{
+  "id": "recipe-category-page-layout-mapping",
+  "rev": "2-e4a06cb0b8ac9e0fc1fd035aeda6e6f0",
+  "name": "recipeCategoryPageLayoutMapping",
+  "classification": "layout-mapping",
+  "type": {
+    "id": "3c38285d-e8fd-499e-9f4e-3f40d7bec023"
+  },
+  "mappings": [
+    {
+      "defaultLayout": {
+        "id": "recipe-category-page-layout"
+      },
+      "layouts": [
+        {
+          "id": "recipe-category-page-layout"
+        }
+      ]
+    }
+  ]
+}

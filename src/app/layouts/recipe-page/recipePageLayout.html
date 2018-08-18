@@ -1,0 +1,66 @@
+<div [ngSwitch]="layoutMode">
+    <div *ngSwitchCase="constants.SUMMARY">
+        <a class="read-recipe-link" href [routerLink]="navLink()">
+            <div class="recipe-card">
+                <div class="recipe-image">
+                    <div class="recipe-image-bg" [style.background-image]="'url(' + getRecipeImageUrl('medium') +')'"></div>
+                    <div wchEditable="title" class="recipe-title">{{onTitle | async}}</div>
+                    <!--<img *ngIf="watsonChefLink?.linkURL!==undefined" class="recipe-watson" src="https://my10.digitalexperience.ibm.com/e9981a09-7c9a-418c-9e6b-dbe274f1be39/dxdam/94/948a889c-d8d0-4feb-a4f6-c7663b82ed2b/chef_icon.png">-->
+                </div>
+            </div>
+        </a>
+    </div>
+    <div *ngSwitchCase="constants.DETAIL">
+        <wch-breadcrumb [renderingContext]='onRenderingContext|async'></wch-breadcrumb>
+        <section id="main-section" class="wrapper style2">
+            <div class="inner">
+                <div class="recipe-info row">
+                    <div class="6u 12u(medium)">
+                        <div class="recipe-card">
+                            <div class="recipe-image">
+                                <div class="recipe-image-bg" [style.background-image]="'url(' + getRecipeImageUrl('large') +')'"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="recipe-summary 6u 12u(medium)">
+                        <header>
+                            <h2 wchEditable="title">{{onTitle | async}}</h2>
+                            <p>by <span wchEditable="author">{{onAuthor | async}}</span>, <span wchEditable="date">{{ date | date:'yMMMMd'}}</span></p>
+                        </header>
+                        <!--<p *ngIf="watsonChefLink?.linkURL!==undefined">-->
+                        <!--<a class="watson-link" target="_blank" href="{{watsonChefLink.linkURL}}">-->
+                        <!--<img src="https://my10.digitalexperience.ibm.com/e9981a09-7c9a-418c-9e6b-dbe274f1be39/dxdam/94/948a889c-d8d0-4feb-a4f6-c7663b82ed2b/chef_icon.png">-->
+                        <!--IBM Watson Chef recipe-->
+                        <!--</a>-->
+                        <!--</p>-->
+                        <p wchEditable="description" [innerHTML]="onDescription | async | formattedText:'html'"></p>
+                    </div>
+                </div>
+                <div class="recipe-details row">
+                    <div class="recipe-ingredients 6u 12u(small)">
+                        <h3>Ingredients</h3>
+                        <div wchEditable="ingredients" [innerHTML]="onIngredients | async | formattedText:'html'"></div>
+                    </div>
+                    <div class="recipe-method 6u 12u(small)">
+                        <h3>Method</h3>
+                        <div wchEditable="method" [innerHTML]="onMethod | async | formattedText:'html'"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="secondary-section" class="wrapper style2">
+            <div class="inner">
+                <header class="align-center">
+                    <h2 class="special">Suggested Recipes</h2>
+                    <p class="special"></p>
+                </header>
+                <wch-contentquery class="row" [query]='suggestedRecipesQuery' #q>
+                    <wch-contentref class="3u 6u(medium) 12u(small)"
+                                    *ngFor="let recipePage of q.onRenderingContexts | async"
+                                    [layoutMode]="constants.SUMMARY" [renderingContext]="recipePage">
+                    </wch-contentref>
+                </wch-contentquery>
+            </div>
+        </section>
+    </div>
+</div>

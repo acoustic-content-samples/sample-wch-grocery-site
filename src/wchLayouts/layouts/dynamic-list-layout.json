@@ -1,0 +1,12 @@
+{
+  "id": "dynamic-list-layout",
+  "rev": "2-af9c795970f3c48230bea95db399af7a",
+  "name": "dynamicListLayout",
+  "classification": "layout",
+  "prerender": false,
+  "thumbnail": {
+    "path": "/layouts/thumbnails/dynamic-list-layout.jpg"
+  },
+  "template": "dynamic-list-layout",
+  "templateType": "angular"
+}

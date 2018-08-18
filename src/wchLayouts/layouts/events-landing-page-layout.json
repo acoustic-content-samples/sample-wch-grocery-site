@@ -1,0 +1,12 @@
+{
+  "id": "events-landing-page-layout",
+  "rev": "2-0ff9f3a6f0cbb07758ca576b64b259bc",
+  "name": "eventsLandingPageLayout",
+  "classification": "layout",
+  "prerender": false,
+  "thumbnail": {
+    "path": "/layouts/thumbnails/events-landing-page-layout.jpg"
+  },
+  "template": "events-landing-page-layout",
+  "templateType": "angular"
+}

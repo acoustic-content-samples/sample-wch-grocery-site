@@ -1,0 +1,17 @@
+<header id="header">
+	<h1 class="logo">
+		<a href [routerLink]="getRouteURL('/home')">Freshery<i class="fa fa-leaf" aria-hidden="true"></i></a>
+	</h1>
+	<nav id="nav">
+		<ul #navigationMenu>
+			<li *ngFor="let page of rc?.context?.site.pages" [ngClass]="{'submenu' : showChildPages(page)}" routerLinkActive="current">
+				<a *ngIf="page" href [routerLink]="getRouteURL(page.route)">{{page.name}}</a>
+				<ul *ngIf="showChildPages(page)">
+					<li *ngFor="let child of page.children" routerLinkActive="current">
+						<a href [routerLink]="getRouteURL(child.route)">{{child.name}}</a>
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</nav>
+</header>

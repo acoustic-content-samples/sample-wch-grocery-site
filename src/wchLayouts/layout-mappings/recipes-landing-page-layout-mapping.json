@@ -1,0 +1,21 @@
+{
+  "id": "recipes-landing-page-layout-mapping",
+  "rev": "2-5009d4326f8ffb5dc0d2650c8c50c279",
+  "name": "recipesLandingPageLayoutMapping",
+  "classification": "layout-mapping",
+  "type": {
+    "id": "ea6e3333-d6b7-43ec-be90-8a6784506eb5"
+  },
+  "mappings": [
+    {
+      "defaultLayout": {
+        "id": "recipes-landing-page-layout"
+      },
+      "layouts": [
+        {
+          "id": "recipes-landing-page-layout"
+        }
+      ]
+    }
+  ]
+}
