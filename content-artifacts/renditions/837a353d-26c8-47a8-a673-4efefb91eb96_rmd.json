@@ -1,0 +1,20 @@
+{
+  "scale": 0.5966587112171837,
+  "locationY": 0,
+  "height": 500,
+  "locationX": 82,
+  "id": "837a353d-26c8-47a8-a673-4efefb91eb96",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 838,
+    "fileName": "grape-cocktail.jpeg",
+    "id": "01cffab7-d708-4158-a1de-0b81d968c960",
+    "resource": "a81fb48d-48c5-488e-acf8-4d5e73895789",
+    "fileSize": 153056,
+    "width": 1280
+  },
+  "width": 600,
+  "created": "2018-08-18T10:51:32.010Z",
+  "rev": "1-59bb107613b79bd3e3c18bc61b9136dd"
+}

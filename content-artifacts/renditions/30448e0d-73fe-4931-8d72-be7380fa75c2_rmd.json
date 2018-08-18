@@ -1,0 +1,20 @@
+{
+  "scale": 0.0992063492063492,
+  "locationY": 0,
+  "height": 300,
+  "locationX": 0,
+  "id": "30448e0d-73fe-4931-8d72-be7380fa75c2",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 3024,
+    "fileName": "salad-ingredients.jpg",
+    "id": "33568ce8-a09a-4c72-a303-fc74004a6c1e",
+    "resource": "2e25caa2-0b64-4df7-905b-38091661c8b6",
+    "fileSize": 3060790,
+    "width": 4032
+  },
+  "width": 400,
+  "created": "2018-08-18T10:51:27.630Z",
+  "rev": "1-71e8c8d7bac2e347033de4499878d781"
+}

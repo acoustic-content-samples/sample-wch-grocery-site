@@ -1,0 +1,20 @@
+{
+  "scale": 0.390625,
+  "locationY": 0,
+  "height": 500,
+  "locationX": 75,
+  "id": "383a313f-2dd9-4435-893e-07976b058bb4",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 1280,
+    "fileName": "dumplings.jpeg",
+    "id": "db2041d5-c586-4d44-9ac4-cdd56ae7c4f8",
+    "resource": "3237377b-9261-483d-855b-f646f143db89",
+    "fileSize": 403443,
+    "width": 1920
+  },
+  "width": 600,
+  "created": "2018-08-18T10:51:28.451Z",
+  "rev": "1-7bc024b9a2e72a05eba0c861a153102e"
+}

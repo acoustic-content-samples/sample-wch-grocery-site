@@ -1,0 +1,20 @@
+{
+  "scale": 0.3516998827667057,
+  "locationY": 0,
+  "height": 300,
+  "locationX": 25,
+  "id": "8586a863-8ad3-4661-8363-e5767bc988a6",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 853,
+    "fileName": "quinoa-salad.jpg",
+    "id": "98fe6aa9-183b-41af-b8c6-e193c27313dd",
+    "resource": "a8ed8677-083f-4f06-b01e-76feb1bf48d5",
+    "fileSize": 240736,
+    "width": 1280
+  },
+  "width": 400,
+  "created": "2018-08-18T10:51:32.397Z",
+  "rev": "1-d115e7dcdc9ed561101a08594a13566d"
+}

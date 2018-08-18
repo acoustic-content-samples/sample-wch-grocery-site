@@ -1,0 +1,20 @@
+{
+  "scale": 0.379746835443038,
+  "locationY": 0,
+  "height": 300,
+  "locationX": 43,
+  "id": "5ed91782-b059-4274-a833-caa6cd804949",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 790,
+    "fileName": "grain-bread.jpeg",
+    "id": "fa495b0d-56f7-4b31-9cc1-785b5ba1c668",
+    "resource": "0b607f76-2763-445a-a29a-c22d973d3e6f",
+    "fileSize": 342710,
+    "width": 1280
+  },
+  "width": 400,
+  "created": "2018-08-18T10:51:30.130Z",
+  "rev": "1-f098913f15f06686b582920c86a8d7a1"
+}

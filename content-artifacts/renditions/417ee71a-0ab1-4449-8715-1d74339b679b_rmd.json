@@ -1,0 +1,20 @@
+{
+  "scale": 0.20833333333333334,
+  "locationY": 50,
+  "height": 300,
+  "locationX": 0,
+  "id": "417ee71a-0ab1-4449-8715-1d74339b679b",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 1920,
+    "fileName": "blueberry-cake.jpeg",
+    "id": "7ed40aa8-fc72-4ecd-9ef4-94386a071e0c",
+    "resource": "2eba02fe-d995-4941-81a5-acd66e270136",
+    "fileSize": 600218,
+    "width": 1920
+  },
+  "width": 400,
+  "created": "2018-08-18T10:51:28.494Z",
+  "rev": "1-064fbb08c838919000255ccdc14c08fc"
+}

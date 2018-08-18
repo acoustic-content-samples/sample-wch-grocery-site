@@ -1,0 +1,20 @@
+{
+  "scale": 0.5861664712778429,
+  "locationY": 0,
+  "height": 500,
+  "locationX": 75,
+  "id": "962b63d4-b48c-40b4-913c-1edb9dfdf8a2",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 853,
+    "fileName": "fruit-salad.jpg",
+    "id": "1f8c0a68-5d16-40af-b55f-32ff9ef41e6d",
+    "resource": "5e18588b-ad9a-4da2-b16c-b01bd417fdab",
+    "fileSize": 210579,
+    "width": 1280
+  },
+  "width": 600,
+  "created": "2018-08-18T10:51:33.721Z",
+  "rev": "1-72e7350be355286afff479c0278e9a48"
+}

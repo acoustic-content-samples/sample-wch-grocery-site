@@ -1,0 +1,20 @@
+{
+  "scale": 0.075,
+  "locationY": 0,
+  "height": 300,
+  "locationX": 25,
+  "id": "74f7d723-409b-4e10-b399-a47e99718dc9",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 4000,
+    "fileName": "waffles.jpg",
+    "id": "d6434b46-be07-4bb1-bc4f-089241a02041",
+    "resource": "49fab47c-33ed-4926-a92f-c6c067209c32",
+    "fileSize": 5117056,
+    "width": 6000
+  },
+  "width": 400,
+  "created": "2018-08-18T10:51:31.611Z",
+  "rev": "1-cc003e71c282273c255e388b895bb926"
+}

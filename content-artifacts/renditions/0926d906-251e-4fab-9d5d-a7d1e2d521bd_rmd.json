@@ -1,0 +1,20 @@
+{
+  "scale": 0.43410314290675467,
+  "locationY": 233,
+  "height": 1200,
+  "locationX": 0,
+  "id": "0926d906-251e-4fab-9d5d-a7d1e2d521bd",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 3839,
+    "fileName": "strawberry-drink.jpg",
+    "id": "ed0a5ef0-c456-4ed1-b901-07b1c2ea98e6",
+    "resource": "ae16f56c-af2b-435e-954b-e7a8e5949812",
+    "fileSize": 3368749,
+    "width": 5759
+  },
+  "width": 2500,
+  "created": "2018-08-18T10:51:24.778Z",
+  "rev": "1-a57bb33bffb54d91ab6d1114309dbe77"
+}

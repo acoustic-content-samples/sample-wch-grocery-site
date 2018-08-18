@@ -1,0 +1,20 @@
+{
+  "scale": 0.6887052341597796,
+  "locationY": 1275,
+  "height": 1200,
+  "locationX": 0,
+  "id": "1b6774f4-a4ca-439c-a03d-58ee905ce2f9",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 5445,
+    "fileName": "soups.jpg",
+    "id": "f744f13e-65a8-442f-a3c8-dec31e8891c3",
+    "resource": "762e8944-fcfd-49d3-9bbb-40b8a600c42a",
+    "fileSize": 3613916,
+    "width": 3630
+  },
+  "width": 2500,
+  "created": "2018-08-18T10:51:26.720Z",
+  "rev": "1-35d49e24435ddf5f0d218c361cb23948"
+}

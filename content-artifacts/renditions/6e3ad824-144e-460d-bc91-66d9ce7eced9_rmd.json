@@ -1,0 +1,20 @@
+{
+  "scale": 0.5073051948051948,
+  "locationY": 228,
+  "height": 1200,
+  "locationX": 0,
+  "id": "6e3ad824-144e-460d-bc91-66d9ce7eced9",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 3264,
+    "fileName": "steak.jpg",
+    "id": "82ce8bbb-765f-4b90-a904-ae3fd032e007",
+    "resource": "bac500a1-1504-45ea-bbe6-a19587cec84a",
+    "fileSize": 2819752,
+    "width": 4928
+  },
+  "width": 2500,
+  "created": "2018-08-18T10:51:31.044Z",
+  "rev": "1-1ff668580dfdd6167e868b55234d4100"
+}

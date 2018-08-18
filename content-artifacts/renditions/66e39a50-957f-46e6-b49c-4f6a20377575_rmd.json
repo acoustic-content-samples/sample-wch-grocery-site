@@ -1,0 +1,20 @@
+{
+  "scale": 0.16633399866932802,
+  "locationY": 0,
+  "height": 500,
+  "locationX": 33,
+  "id": "66e39a50-957f-46e6-b49c-4f6a20377575",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 3006,
+    "fileName": "oysters.jpg",
+    "id": "91a45244-0ed0-4e75-b19e-fe6168d52704",
+    "resource": "97c88b87-1dff-48f7-9c7a-3899deb6fdd7",
+    "fileSize": 1808834,
+    "width": 4008
+  },
+  "width": 600,
+  "created": "2018-08-18T10:51:30.687Z",
+  "rev": "1-a0546e713783bd078f4d567ab5653645"
+}

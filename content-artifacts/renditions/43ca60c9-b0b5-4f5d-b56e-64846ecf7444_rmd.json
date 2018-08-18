@@ -1,0 +1,20 @@
+{
+  "scale": 0.1404494382022472,
+  "locationY": 0,
+  "height": 300,
+  "locationX": 26,
+  "id": "43ca60c9-b0b5-4f5d-b56e-64846ecf7444",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 2136,
+    "fileName": "ravioli.jpg",
+    "id": "a46afc1d-44d3-4e52-ab12-a5734c69f35d",
+    "resource": "21a9fe9a-d8fd-489e-9110-04f2152a3bae",
+    "fileSize": 1931307,
+    "width": 3216
+  },
+  "width": 400,
+  "created": "2018-08-18T10:51:28.918Z",
+  "rev": "1-b77970494d23a18cc1a7c8cac57f88b9"
+}

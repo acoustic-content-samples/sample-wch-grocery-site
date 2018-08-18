@@ -1,0 +1,20 @@
+{
+  "scale": 0.4166666666666667,
+  "locationY": 0,
+  "height": 300,
+  "locationX": 67,
+  "id": "2861213a-78df-4a85-9b72-db014777e1b0",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 720,
+    "fileName": "pea-soup.jpg",
+    "id": "14028561-6ba5-4106-9cb4-d7a16b6a51dc",
+    "resource": "09ebfdd1-57cb-47ad-be90-d3ac49eb04ea",
+    "fileSize": 222912,
+    "width": 1280
+  },
+  "width": 400,
+  "created": "2018-08-18T10:51:27.621Z",
+  "rev": "1-04b1507ef0c526d3014b9839a68dcbb4"
+}

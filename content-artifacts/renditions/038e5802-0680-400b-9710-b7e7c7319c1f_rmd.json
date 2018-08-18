@@ -1,0 +1,20 @@
+{
+  "scale": 0.5861664712778429,
+  "locationY": 0,
+  "height": 500,
+  "locationX": 75,
+  "id": "038e5802-0680-400b-9710-b7e7c7319c1f",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 853,
+    "fileName": "pastry-orange.jpg",
+    "id": "d52992be-d428-4ac2-8246-082c68747c6f",
+    "resource": "de00aa3b-98cd-4088-b3b5-2e2100fb8c6f",
+    "fileSize": 154481,
+    "width": 1280
+  },
+  "width": 600,
+  "created": "2018-08-18T10:51:24.855Z",
+  "rev": "1-5c936de8746d8594aeb818ecb6490899"
+}

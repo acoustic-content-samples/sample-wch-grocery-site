@@ -1,0 +1,20 @@
+{
+  "scale": 0.3516998827667057,
+  "locationY": 0,
+  "height": 300,
+  "locationX": 25,
+  "id": "4477de64-bd6b-4ed1-b58f-20908405bf5f",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 853,
+    "fileName": "pumpkin-soup.jpg",
+    "id": "b900ceff-eefc-44ba-8716-9414de11cba1",
+    "resource": "51f62c9a-de36-402f-abbe-10eec790c865",
+    "fileSize": 250386,
+    "width": 1280
+  },
+  "width": 400,
+  "created": "2018-08-18T10:51:28.953Z",
+  "rev": "1-6f9c017caab157bf6010962d4c763bdd"
+}

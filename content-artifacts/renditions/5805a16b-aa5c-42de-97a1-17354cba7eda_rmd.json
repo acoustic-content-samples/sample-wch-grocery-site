@@ -1,0 +1,20 @@
+{
+  "scale": 0.6944444444444444,
+  "locationY": 0,
+  "height": 500,
+  "locationX": 144,
+  "id": "5805a16b-aa5c-42de-97a1-17354cba7eda",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 720,
+    "fileName": "shrimp-spaghetti.jpg",
+    "id": "3308f5ce-030a-4709-ae75-83b513a3812b",
+    "resource": "4b21820c-c9fb-4fd3-978c-cf1fd5a6cfad",
+    "fileSize": 168940,
+    "width": 1280
+  },
+  "width": 600,
+  "created": "2018-08-18T10:51:29.328Z",
+  "rev": "1-9696887ab48f2be7bfb598e833438ed5"
+}

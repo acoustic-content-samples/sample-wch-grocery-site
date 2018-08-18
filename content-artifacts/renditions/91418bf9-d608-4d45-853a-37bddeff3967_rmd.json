@@ -1,0 +1,20 @@
+{
+  "scale": 0.3843197540353574,
+  "locationY": 0,
+  "height": 500,
+  "locationX": 75,
+  "id": "91418bf9-d608-4d45-853a-37bddeff3967",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 1301,
+    "fileName": "coffee-beans.jpeg",
+    "id": "29e83756-2c24-4c9f-b253-aa0e7ac10677",
+    "resource": "c39c028e-0e63-4553-9278-8bfaa71c8e3f",
+    "fileSize": 315937,
+    "width": 1949
+  },
+  "width": 600,
+  "created": "2018-08-18T10:51:32.773Z",
+  "rev": "1-0c5e4e8907d24afdee9b356f61d59290"
+}

@@ -1,0 +1,20 @@
+{
+  "scale": 0.5861664712778429,
+  "locationY": 0,
+  "height": 500,
+  "locationX": 75,
+  "id": "041456ec-fc25-4efc-a03b-050edd61dcb5",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 853,
+    "fileName": "seafood-salad.jpg",
+    "id": "2fe802b6-bfff-4023-9184-88d4680d5261",
+    "resource": "55599bd1-294c-4c28-bc5d-ea6f7c6922d7",
+    "fileSize": 253160,
+    "width": 1280
+  },
+  "width": 600,
+  "created": "2018-08-18T10:51:24.853Z",
+  "rev": "1-65038aa66027dce953f5c466bd7ddbe2"
+}
