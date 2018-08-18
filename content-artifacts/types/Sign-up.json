@@ -1,0 +1,50 @@
+{
+  "id": "ba37daaf-7e67-4825-b45e-307b1761d3d7",
+  "rev": "2-7c2e7991010b81444c3c38d35c33665b",
+  "name": "Sign up",
+  "classification": "content-type",
+  "kind": [
+    "standalone"
+  ],
+  "contentThumbnail": {
+    "imageElement": "backgroundImage",
+    "source": "imageElementOrType"
+  },
+  "description": "",
+  "status": "ready",
+  "tags": [],
+  "elements": [
+    {
+      "elementType": "image",
+      "label": "Background image",
+      "key": "backgroundImage",
+      "imageProfileId": "815bc1bf-80d9-4bc7-9635-b98f319ed15e",
+      "acceptType": [
+        "jpg",
+        "jpeg",
+        "png",
+        "gif"
+      ]
+    },
+    {
+      "elementType": "text",
+      "label": "Headline",
+      "key": "headline"
+    },
+    {
+      "elementType": "text",
+      "label": "Text input placeholder",
+      "key": "textInputPlaceholder"
+    },
+    {
+      "elementType": "text",
+      "label": "Action label",
+      "key": "actionLabel"
+    },
+    {
+      "elementType": "formattedtext",
+      "label": "Confirmation message",
+      "key": "confirmationMessage"
+    }
+  ]
+}

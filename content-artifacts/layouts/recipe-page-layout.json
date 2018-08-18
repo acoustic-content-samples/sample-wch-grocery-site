@@ -1,0 +1,12 @@
+{
+  "id": "recipe-page-layout",
+  "rev": "2-fdbed3dee2eae982a28a8eb8fbbca8ee",
+  "name": "recipePageLayout",
+  "classification": "layout",
+  "prerender": false,
+  "thumbnail": {
+    "path": "/layouts/thumbnails/recipe-page-layout.jpg"
+  },
+  "template": "recipe-page-layout",
+  "templateType": "angular"
+}

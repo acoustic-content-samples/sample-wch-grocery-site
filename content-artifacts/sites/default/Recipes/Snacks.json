@@ -1,0 +1,16 @@
+{
+  "name": "Snacks",
+  "segment": "snacks",
+  "layoutId": "recipe-category-page-layout",
+  "description": "",
+  "contentTypeId": "3c38285d-e8fd-499e-9f4e-3f40d7bec023",
+  "title": "Snack Recipes | Freshery",
+  "contentId": "1e0ad544-b30e-4a34-9d3c-d0506c7f4c9f",
+  "hideFromNavigation": false,
+  "contentStatus": "ready",
+  "classification": "page",
+  "position": 6,
+  "id": "c532613f-57ee-4cbf-8c21-8d2e824d142c",
+  "rev": "7-85082c0705223de536a6f4e5f5d749fe",
+  "parentId": "7ee0834e-e6f8-48bc-89b3-09ac6e78c452"
+}

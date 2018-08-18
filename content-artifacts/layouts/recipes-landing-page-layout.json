@@ -1,0 +1,12 @@
+{
+  "id": "recipes-landing-page-layout",
+  "rev": "2-7d414a4185b24bbc1ca138421f72ed93",
+  "name": "recipesLandingPageLayout",
+  "classification": "layout",
+  "prerender": false,
+  "thumbnail": {
+    "path": "/layouts/thumbnails/recipes-landing-page-layout.jpg"
+  },
+  "template": "recipes-landing-page-layout",
+  "templateType": "angular"
+}

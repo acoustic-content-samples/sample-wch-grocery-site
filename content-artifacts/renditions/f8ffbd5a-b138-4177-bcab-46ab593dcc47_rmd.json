@@ -1,0 +1,20 @@
+{
+  "scale": 0.08680555555555555,
+  "locationY": 0,
+  "height": 300,
+  "locationX": 16,
+  "rev": "1-0e603d697d690557f8f0eb6cf63025c0",
+  "id": "f8ffbd5a-b138-4177-bcab-46ab593dcc47",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 3456,
+    "fileName": "salad.jpg",
+    "id": "8f853e88-c647-4edb-bcf8-e222bb680320",
+    "resource": "01dea1bf-d354-4379-ac2e-c24550caea6f",
+    "fileSize": 2749853,
+    "width": 4979
+  },
+  "width": 400,
+  "created": "2018-07-23T13:28:22.960Z"
+}

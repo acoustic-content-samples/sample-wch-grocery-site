@@ -1,0 +1,103 @@
+{
+  "rev": "3-767d30f3358ab91d05ecd61358508cc5",
+  "id": "806b149b-d354-422e-aee6-85ac63581cf7",
+  "mediaType": "image/jpeg",
+  "name": "truffles.jpg",
+  "path": "/dxdam/80/806b149b-d354-422e-aee6-85ac63581cf7/truffles.jpg",
+  "digest": "ITB1rF195x0pAyOltWN9mQ==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-23T13:30:14.194Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:litchi",
+      "classification:fruit",
+      "classification:truffle",
+      "classification:candy",
+      "classification:sweet",
+      "classification:delicacy",
+      "classification:nutrition",
+      "classification:food",
+      "classification:croquette",
+      "classification:dish",
+      "classification:food product",
+      "classification:light brown color",
+      "classification:chocolate color"
+    ],
+    "declined": [],
+    "suggested": [
+      "classification:litchi",
+      "classification:fruit",
+      "classification:truffle",
+      "classification:candy",
+      "classification:sweet",
+      "classification:delicacy",
+      "classification:nutrition",
+      "classification:food",
+      "classification:croquette",
+      "classification:dish",
+      "classification:food product",
+      "classification:light brown color",
+      "classification:chocolate color"
+    ],
+    "analysis": "complete"
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "truffles.jpg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:14.194Z",
+  "cognitive": {
+    "classifications": [
+      "litchi",
+      "fruit",
+      "truffle",
+      "candy",
+      "sweet",
+      "delicacy",
+      "nutrition",
+      "food",
+      "croquette",
+      "dish",
+      "food product",
+      "light brown color",
+      "chocolate color"
+    ],
+    "faces": [],
+    "colors": {
+      "lightMuted": "#d4aca4",
+      "lightVibrant": "#fcdc9c",
+      "vibrant": "#c55d2f",
+      "muted": "#ac6464",
+      "darkVibrant": "#7a1d08"
+    },
+    "status": "complete"
+  },
+  "resource": "4b8f4ebf-202b-459e-9113-df75e99d7af8",
+  "fileSize": 144175,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=4b8f4ebf-202b-459e-9113-df75e99d7af8&a=806b149b-d354-422e-aee6-85ac63581cf7",
+      "source": "/authoring/v1/resources/4b8f4ebf-202b-459e-9113-df75e99d7af8"
+    }
+  },
+  "metadata": {
+    "width": 1280,
+    "height": 853,
+    "camera": {
+      "shutterSpeed": "1/25",
+      "model": "Canon EOS 7D",
+      "aperture": 7.1,
+      "make": "Canon",
+      "focalLength": 85
+    }
+  },
+  "classification": "asset",
+  "created": "2018-07-23T13:27:22.885Z",
+  "isManaged": true
+}

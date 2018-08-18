@@ -1,0 +1,16 @@
+{
+  "name": "Avocado Poached Egg",
+  "segment": "avocado-poached-egg",
+  "layoutId": "recipe-page-layout",
+  "description": "",
+  "contentTypeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "title": "Avocado Poached Egg | Freshery",
+  "contentId": "27306e12-2c92-426f-86e2-68e5b5ae1d3d",
+  "hideFromNavigation": false,
+  "contentStatus": "ready",
+  "classification": "page",
+  "position": 0,
+  "id": "318fef4e-97cb-4344-ac1a-045f6bbf6293",
+  "rev": "4-9be112d9d39a1cb0046474a164bae54a",
+  "parentId": "d9286b1d-d203-4ed3-98c2-5d12447781fb"
+}

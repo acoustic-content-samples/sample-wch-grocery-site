@@ -1,0 +1,51 @@
+{
+  "id": "a5fbe9fe-384b-4cbd-8c53-15e741901ac9",
+  "rev": "1-ecbde13c222312c16530bf3f5b464e4b",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "5f0f7d24-df1b-4467-b70b-dfdb17002f44",
+  "name": "Home",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:30:33.764Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-23T13:30:33.764Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:33.764Z",
+  "elements": {
+    "featuredListTwo": {
+      "elementType": "reference",
+      "value": {
+        "id": "2238f4c0-ffc7-4808-9720-aec021089ae5"
+      }
+    },
+    "heroSlideshow": {
+      "elementType": "reference",
+      "value": {
+        "id": "7a2919d4-ec8e-4dd6-a521-a29af9f9471a"
+      }
+    },
+    "newsletterSection": {
+      "elementType": "reference",
+      "value": {
+        "id": "db9e4e05-e4b2-4741-9b6d-80f6b4a1adc8"
+      }
+    },
+    "featuredListOne": {
+      "elementType": "reference",
+      "value": {
+        "id": "779247f6-ed0f-4b14-b6ee-dc021a13ffac"
+      }
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "home-page-layout"
+      }
+    }
+  ]
+}

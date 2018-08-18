@@ -1,0 +1,44 @@
+{
+  "id": "a0827940-d345-4e9c-be0e-fa6bd7d8b63d",
+  "rev": "2-5f5810b2526253fa60e6dc66b49016cc",
+  "name": "Contact",
+  "classification": "content-type",
+  "kind": [
+    "standalone"
+  ],
+  "description": "",
+  "status": "ready",
+  "tags": [],
+  "elements": [
+    {
+      "elementType": "formattedtext",
+      "label": "Address",
+      "key": "address"
+    },
+    {
+      "elementType": "location",
+      "label": "Location",
+      "key": "location"
+    },
+    {
+      "elementType": "text",
+      "label": "Phone",
+      "key": "phone"
+    },
+    {
+      "elementType": "text",
+      "label": "Email",
+      "key": "email"
+    },
+    {
+      "elementType": "formattedtext",
+      "label": "Opening hours",
+      "key": "openingHours"
+    },
+    {
+      "elementType": "text",
+      "label": "Form heading",
+      "key": "formHeading"
+    }
+  ]
+}

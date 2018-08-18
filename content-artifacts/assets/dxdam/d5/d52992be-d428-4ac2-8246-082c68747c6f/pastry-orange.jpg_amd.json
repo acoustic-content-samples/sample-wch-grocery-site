@@ -1,0 +1,89 @@
+{
+  "rev": "3-4098ec1b4340bd04436274d14c5e0ed1",
+  "id": "d52992be-d428-4ac2-8246-082c68747c6f",
+  "mediaType": "image/jpeg",
+  "name": "pastry-orange.jpg",
+  "path": "/dxdam/d5/d52992be-d428-4ac2-8246-082c68747c6f/pastry-orange.jpg",
+  "digest": "FPZdkGBIBgdiGuQNtJejvA==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-23T13:30:16.729Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:trifle",
+      "classification:pudding",
+      "classification:dessert",
+      "classification:nutrition",
+      "classification:food",
+      "classification:parfait",
+      "classification:lemon yellow color",
+      "classification:chocolate color"
+    ],
+    "declined": [],
+    "suggested": [
+      "classification:trifle",
+      "classification:pudding",
+      "classification:dessert",
+      "classification:nutrition",
+      "classification:food",
+      "classification:parfait",
+      "classification:lemon yellow color",
+      "classification:chocolate color"
+    ],
+    "analysis": "complete"
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "pastry-orange.jpg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:16.729Z",
+  "cognitive": {
+    "classifications": [
+      "trifle",
+      "pudding",
+      "dessert",
+      "nutrition",
+      "food",
+      "parfait",
+      "lemon yellow color",
+      "chocolate color"
+    ],
+    "faces": [],
+    "colors": {
+      "lightMuted": "#d5c1a8",
+      "darkMuted": "#44342b",
+      "lightVibrant": "#d4b591",
+      "vibrant": "#ec9405",
+      "muted": "#848d83",
+      "darkVibrant": "#0e8a77"
+    },
+    "status": "complete"
+  },
+  "resource": "de00aa3b-98cd-4088-b3b5-2e2100fb8c6f",
+  "fileSize": 154481,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=de00aa3b-98cd-4088-b3b5-2e2100fb8c6f&a=d52992be-d428-4ac2-8246-082c68747c6f",
+      "source": "/authoring/v1/resources/de00aa3b-98cd-4088-b3b5-2e2100fb8c6f"
+    }
+  },
+  "metadata": {
+    "width": 1280,
+    "height": 853,
+    "camera": {
+      "shutterSpeed": "1/320",
+      "model": "Canon EOS 70D",
+      "aperture": 2.5,
+      "make": "Canon",
+      "focalLength": 50
+    }
+  },
+  "classification": "asset",
+  "created": "2018-07-23T13:27:44.453Z",
+  "isManaged": true
+}

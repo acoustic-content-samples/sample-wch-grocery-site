@@ -1,0 +1,88 @@
+{
+  "rev": "3-ca92704497614fc41c38d3878afc7cc7",
+  "id": "a46afc1d-44d3-4e52-ab12-a5734c69f35d",
+  "mediaType": "image/jpeg",
+  "name": "ravioli.jpg",
+  "path": "/dxdam/a4/a46afc1d-44d3-4e52-ab12-a5734c69f35d/ravioli.jpg",
+  "digest": "QbkbkkShfYwLbRQrjEMdhw==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-23T13:30:16.545Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:Frost",
+      "classification:nature",
+      "classification:geartrain",
+      "classification:mechanical device",
+      "classification:maguey",
+      "classification:desert plant",
+      "classification:plant",
+      "classification:animal",
+      "classification:shellfish",
+      "classification:ivory color"
+    ],
+    "declined": [],
+    "suggested": [
+      "classification:Frost",
+      "classification:nature",
+      "classification:geartrain",
+      "classification:mechanical device",
+      "classification:maguey",
+      "classification:desert plant",
+      "classification:plant",
+      "classification:animal",
+      "classification:shellfish",
+      "classification:ivory color"
+    ],
+    "analysis": "complete"
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "ravioli.jpg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:16.545Z",
+  "cognitive": {
+    "classifications": [
+      "Frost",
+      "nature",
+      "geartrain",
+      "mechanical device",
+      "maguey",
+      "desert plant",
+      "plant",
+      "animal",
+      "shellfish",
+      "ivory color"
+    ],
+    "faces": [],
+    "colors": {
+      "lightMuted": "#d0c8ac",
+      "darkMuted": "#554837",
+      "lightVibrant": "#dccca4",
+      "vibrant": "#ccb47c",
+      "muted": "#948367",
+      "darkVibrant": "#4d3825"
+    },
+    "status": "complete"
+  },
+  "resource": "21a9fe9a-d8fd-489e-9110-04f2152a3bae",
+  "fileSize": 1931307,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=21a9fe9a-d8fd-489e-9110-04f2152a3bae&a=a46afc1d-44d3-4e52-ab12-a5734c69f35d",
+      "source": "/authoring/v1/resources/21a9fe9a-d8fd-489e-9110-04f2152a3bae"
+    }
+  },
+  "metadata": {
+    "width": 3216,
+    "height": 2136
+  },
+  "classification": "asset",
+  "created": "2018-07-23T13:27:51.052Z",
+  "isManaged": true
+}

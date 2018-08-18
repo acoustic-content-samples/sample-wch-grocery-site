@@ -1,0 +1,94 @@
+{
+  "rev": "3-82d8057aec0de2c721b268f5cefd5c85",
+  "id": "82ce8bbb-765f-4b90-a904-ae3fd032e007",
+  "mediaType": "image/jpeg",
+  "name": "steak.jpg",
+  "path": "/dxdam/82/82ce8bbb-765f-4b90-a904-ae3fd032e007/steak.jpg",
+  "digest": "UIRWdFZyxboHoS2R4v50CQ==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-23T13:30:14.191Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:stuffed mushroom",
+      "classification:appetizer",
+      "classification:nutrition",
+      "classification:food",
+      "classification:marrow",
+      "classification:delicacy",
+      "classification:viand",
+      "classification:dish",
+      "classification:oyster stuffing",
+      "classification:food product",
+      "classification:teriyaki",
+      "classification:greenishness color"
+    ],
+    "declined": [],
+    "suggested": [
+      "classification:stuffed mushroom",
+      "classification:appetizer",
+      "classification:nutrition",
+      "classification:food",
+      "classification:marrow",
+      "classification:delicacy",
+      "classification:viand",
+      "classification:dish",
+      "classification:oyster stuffing",
+      "classification:food product",
+      "classification:teriyaki",
+      "classification:greenishness color"
+    ],
+    "analysis": "complete"
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "steak.jpg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:14.191Z",
+  "cognitive": {
+    "classifications": [
+      "stuffed mushroom",
+      "appetizer",
+      "nutrition",
+      "food",
+      "marrow",
+      "delicacy",
+      "viand",
+      "dish",
+      "oyster stuffing",
+      "food product",
+      "teriyaki",
+      "greenishness color"
+    ],
+    "faces": [],
+    "colors": {
+      "lightMuted": "#b4b2b9",
+      "darkMuted": "#896747",
+      "lightVibrant": "#d5cd91",
+      "vibrant": "#c08a2c",
+      "muted": "#977d59",
+      "darkVibrant": "#6b3c1b"
+    },
+    "status": "complete"
+  },
+  "resource": "bac500a1-1504-45ea-bbe6-a19587cec84a",
+  "fileSize": 2819752,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=bac500a1-1504-45ea-bbe6-a19587cec84a&a=82ce8bbb-765f-4b90-a904-ae3fd032e007",
+      "source": "/authoring/v1/resources/bac500a1-1504-45ea-bbe6-a19587cec84a"
+    }
+  },
+  "metadata": {
+    "width": 4928,
+    "height": 3264
+  },
+  "classification": "asset",
+  "created": "2018-07-23T13:27:40.335Z",
+  "isManaged": true
+}

@@ -1,0 +1,66 @@
+{
+  "id": "f94fb339-cc9e-42d8-a479-d211de2f341c",
+  "rev": "2-c6b90bf366ece7af3624bec2a9e87af5",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "3c38285d-e8fd-499e-9f4e-3f40d7bec023",
+  "name": "All Recipes",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:41.982Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-23T13:30:34.357Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:34.357Z",
+  "elements": {
+    "bannerImage": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=49fab47c-33ed-4926-a92f-c6c067209c32&a=d6434b46-be07-4bb1-bc4f-089241a02041",
+          "source": "/authoring/v1/resources/49fab47c-33ed-4926-a92f-c6c067209c32",
+          "width": 6000,
+          "height": 4000
+        },
+        "large": {
+          "renditionId": "e4ae31ec-c48d-4121-9c60-362d72007853",
+          "source": "/authoring/v1/resources/49fab47c-33ed-4926-a92f-c6c067209c32?resize=2500px:1667px&crop=2500:1200;0,233",
+          "width": 2500,
+          "height": 1200
+        },
+        "medium": {
+          "renditionId": "1a4b9f97-a336-4200-938d-9b33bc91a3c3",
+          "source": "/authoring/v1/resources/49fab47c-33ed-4926-a92f-c6c067209c32?resize=450px:300px&crop=400:300;25,0",
+          "width": 400,
+          "height": 300
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 4000,
+        "fileName": "waffles.jpg",
+        "id": "d6434b46-be07-4bb1-bc4f-089241a02041",
+        "fileSize": 5117056,
+        "resourceUri": "/authoring/v1/resources/49fab47c-33ed-4926-a92f-c6c067209c32",
+        "width": 6000
+      }
+    },
+    "bannerText": {
+      "elementType": "text",
+      "value": "All Recipes"
+    },
+    "category": {
+      "elementType": "category"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "recipe-category-page-layout"
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "210c2bd6-20d5-461a-aeca-2a5a022ad493",
+  "rev": "2-e98831253a1de4a14eddc1296f68eabd",
+  "name": "Recipe page",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "creator": "Bruce Wayne",
+  "classification": "category",
+  "taxonomy": "1a244a32-4e74-4654-9a85-856afffa1a0e",
+  "parent": "68c0e0de-4893-4f55-9a16-800faf7c6baf",
+  "ancestorIds": [
+    "1a244a32-4e74-4654-9a85-856afffa1a0e",
+    "68c0e0de-4893-4f55-9a16-800faf7c6baf"
+  ],
+  "namePath": [
+    "Dynamic list criteria",
+    "Item types",
+    "Recipe page"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/1a244a32-4e74-4654-9a85-856afffa1a0e"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/210c2bd6-20d5-461a-aeca-2a5a022ad493"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/68c0e0de-4893-4f55-9a16-800faf7c6baf"
+    }
+  },
+  "created": "2018-07-23T13:26:32.008Z",
+  "lastModified": "2018-07-23T13:30:01.120Z"
+}

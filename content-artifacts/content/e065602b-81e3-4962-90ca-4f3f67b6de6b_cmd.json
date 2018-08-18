@@ -1,0 +1,99 @@
+{
+  "id": "e065602b-81e3-4962-90ca-4f3f67b6de6b",
+  "rev": "3-18020aa82679c6ecfdcf83791c1b28dc",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "name": "Shrimp Spaghetti",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:40.987Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-29T08:27:32.117Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-29T08:27:32.117Z",
+  "elements": {
+    "method": {
+      "elementType": "formattedtext",
+      "value": "<ol>\n\t<li>Cook the spaghetti in a large pot of boiling salted water, according to package instructions. While it is simmering, make the shrimp and sauce.</li>\n\t<li>Season shrimp with salt and pepper.</li>\n\t<li>Add olive oil and 1 tablespoon of butter in a frying pan over medium high heat. Add minced garlic and cook for about 2 minutes, and then add parsley.</li>\n\t<li>Add shrimp and cook for about 2 to 3 minutes until evenly cooked and pink on each side.</li>\n\t<li>Melt remaining 2 tablespoons of butter and stir a little of the water from pasta that is cooking. Keep warm until spaghetti is ready.</li>\n\t<li>Drain the spaghetti and serve in bowls with shrimp and sauce on top. Enjoy!</li>\n</ol>\n"
+    },
+    "author": {
+      "elementType": "text",
+      "value": "Linda Hou"
+    },
+    "image": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=4b21820c-c9fb-4fd3-978c-cf1fd5a6cfad&a=3308f5ce-030a-4709-ae75-83b513a3812b",
+          "source": "/authoring/v1/resources/4b21820c-c9fb-4fd3-978c-cf1fd5a6cfad",
+          "width": 1280,
+          "height": 720
+        },
+        "large": {
+          "renditionId": "5805a16b-aa5c-42de-97a1-17354cba7eda",
+          "source": "/authoring/v1/resources/4b21820c-c9fb-4fd3-978c-cf1fd5a6cfad?resize=889px:500px&crop=600:500;144,0",
+          "width": 600,
+          "height": 500
+        },
+        "medium": {
+          "renditionId": "a0c4cb1c-f232-4bb1-9cd3-d6912f86a477",
+          "source": "/authoring/v1/resources/4b21820c-c9fb-4fd3-978c-cf1fd5a6cfad?resize=533px:300px&crop=400:300;67,0",
+          "width": 400,
+          "height": 300
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 720,
+        "fileName": "shrimp-spaghetti.jpg",
+        "id": "3308f5ce-030a-4709-ae75-83b513a3812b",
+        "fileSize": 168940,
+        "resourceUri": "/authoring/v1/resources/4b21820c-c9fb-4fd3-978c-cf1fd5a6cfad",
+        "width": 1280
+      }
+    },
+    "description": {
+      "elementType": "formattedtext",
+      "value": "<p>The easiest and most delicious shrimp pasta that even the pickiest eater likes, quick, easy and takes 20 mins.</p>\n"
+    },
+    "date": {
+      "elementType": "datetime",
+      "value": "2017-11-04T13:00:00Z"
+    },
+    "nutritionalFeatures": {
+      "elementType": "category",
+      "categoryIds": [
+        "e2b0aebf-78d5-4057-a303-a02132b81657",
+        "720dfca3-e078-4761-966d-00a3ce878b80"
+      ]
+    },
+    "link": {
+      "elementType": "link"
+    },
+    "ingredients": {
+      "elementType": "formattedtext",
+      "value": "<p>500g spaghetti<br />\n500g fresh shrimp (peeled and deveined)<br />\n2 tbsp extra virgin olive oil<br />\n3 tbsp butter<br />\n3 to 5 cloves of garlic, minced<br />\n1 tbsp finely chopped parsley<br />\nsalt and pepper</p>\n"
+    },
+    "category": {
+      "elementType": "category",
+      "categoryIds": [
+        "5a665c19-18d2-4a46-b377-571e0161541c"
+      ]
+    },
+    "title": {
+      "elementType": "text",
+      "value": "Shrimp Spaghetti"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "recipe-page-layout"
+      }
+    }
+  ]
+}

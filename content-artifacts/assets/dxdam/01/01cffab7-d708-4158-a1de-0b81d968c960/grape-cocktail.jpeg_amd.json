@@ -1,0 +1,82 @@
+{
+  "rev": "3-e24503a2c0e292ddae0e0208e9ca5956",
+  "id": "01cffab7-d708-4158-a1de-0b81d968c960",
+  "mediaType": "image/jpeg",
+  "name": "grape-cocktail.jpeg",
+  "path": "/dxdam/01/01cffab7-d708-4158-a1de-0b81d968c960/grape-cocktail.jpeg",
+  "digest": "BXiygp54j7OqUscQHeSkAQ==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-23T13:30:10.838Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:Bloody Mary",
+      "classification:cocktail",
+      "classification:mixed drink",
+      "classification:alcoholic beverage",
+      "classification:beverage",
+      "classification:food",
+      "classification:food product",
+      "classification:reddish orange color"
+    ],
+    "declined": [],
+    "suggested": [
+      "classification:Bloody Mary",
+      "classification:cocktail",
+      "classification:mixed drink",
+      "classification:alcoholic beverage",
+      "classification:beverage",
+      "classification:food",
+      "classification:food product",
+      "classification:reddish orange color"
+    ],
+    "analysis": "complete"
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "grape-cocktail.jpeg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:10.838Z",
+  "cognitive": {
+    "classifications": [
+      "Bloody Mary",
+      "cocktail",
+      "mixed drink",
+      "alcoholic beverage",
+      "beverage",
+      "food",
+      "food product",
+      "reddish orange color"
+    ],
+    "faces": [],
+    "colors": {
+      "lightMuted": "#bad9db",
+      "darkMuted": "#2d4454",
+      "lightVibrant": "#eca888",
+      "vibrant": "#f1862f",
+      "muted": "#6e9495",
+      "darkVibrant": "#265073"
+    },
+    "status": "complete"
+  },
+  "resource": "a81fb48d-48c5-488e-acf8-4d5e73895789",
+  "fileSize": 153056,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=a81fb48d-48c5-488e-acf8-4d5e73895789&a=01cffab7-d708-4158-a1de-0b81d968c960",
+      "source": "/authoring/v1/resources/a81fb48d-48c5-488e-acf8-4d5e73895789"
+    }
+  },
+  "metadata": {
+    "width": 1280,
+    "height": 838
+  },
+  "classification": "asset",
+  "created": "2018-07-23T13:26:49.388Z",
+  "isManaged": true
+}

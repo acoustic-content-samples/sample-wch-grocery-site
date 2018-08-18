@@ -1,0 +1,20 @@
+{
+  "scale": 0.4166666666666667,
+  "locationY": 233,
+  "height": 1200,
+  "locationX": 0,
+  "rev": "1-d205fa1d1417eea390bbf4697dd18cf5",
+  "id": "a5981ef4-20a9-4498-9019-17ecd7ae87c3",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 4000,
+    "fileName": "breakfast.jpg",
+    "id": "4b76a9ab-4c16-408c-9823-3f8d7f2c3b42",
+    "resource": "c4309895-be3d-4f2a-a790-e2ef15f2f05b",
+    "fileSize": 5239371,
+    "width": 6000
+  },
+  "width": 2500,
+  "created": "2018-07-23T13:28:17.580Z"
+}

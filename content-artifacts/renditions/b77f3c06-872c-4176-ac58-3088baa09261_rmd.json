@@ -1,0 +1,20 @@
+{
+  "scale": 0.5235602094240838,
+  "locationY": 0,
+  "height": 500,
+  "locationX": 35,
+  "rev": "1-29d95d6b4fc9fd075c140a7983ea770e",
+  "id": "b77f3c06-872c-4176-ac58-3088baa09261",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 955,
+    "fileName": "fried-rice.jpg",
+    "id": "e633cb79-791b-4a58-8c15-02218e34bb73",
+    "resource": "5ad796ca-2e89-41ad-b05f-caabd66df805",
+    "fileSize": 343224,
+    "width": 1280
+  },
+  "width": 600,
+  "created": "2018-07-23T13:28:18.357Z"
+}

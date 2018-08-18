@@ -1,0 +1,30 @@
+{
+  "id": "5a665c19-18d2-4a46-b377-571e0161541c",
+  "rev": "2-608e777059b6d02e0fc3e722f4cf0529",
+  "name": "Mains",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "creator": "Bruce Wayne",
+  "classification": "category",
+  "taxonomy": "4659fda4-92bd-4172-9cc9-6fb763c07b8c",
+  "parent": "4659fda4-92bd-4172-9cc9-6fb763c07b8c",
+  "ancestorIds": [
+    "4659fda4-92bd-4172-9cc9-6fb763c07b8c"
+  ],
+  "namePath": [
+    "Recipe Categories",
+    "Mains"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/4659fda4-92bd-4172-9cc9-6fb763c07b8c"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/5a665c19-18d2-4a46-b377-571e0161541c"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/4659fda4-92bd-4172-9cc9-6fb763c07b8c"
+    }
+  },
+  "created": "2018-07-23T13:26:29.260Z",
+  "lastModified": "2018-07-23T13:29:59.709Z"
+}

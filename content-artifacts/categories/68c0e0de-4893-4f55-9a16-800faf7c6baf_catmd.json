@@ -1,0 +1,30 @@
+{
+  "id": "68c0e0de-4893-4f55-9a16-800faf7c6baf",
+  "rev": "2-81a26e524bfc209023e88864525effad",
+  "name": "Item types",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "creator": "Bruce Wayne",
+  "classification": "category",
+  "taxonomy": "1a244a32-4e74-4654-9a85-856afffa1a0e",
+  "parent": "1a244a32-4e74-4654-9a85-856afffa1a0e",
+  "ancestorIds": [
+    "1a244a32-4e74-4654-9a85-856afffa1a0e"
+  ],
+  "namePath": [
+    "Dynamic list criteria",
+    "Item types"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/1a244a32-4e74-4654-9a85-856afffa1a0e"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/68c0e0de-4893-4f55-9a16-800faf7c6baf"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/1a244a32-4e74-4654-9a85-856afffa1a0e"
+    }
+  },
+  "created": "2018-07-23T13:26:29.288Z",
+  "lastModified": "2018-07-23T13:29:59.757Z"
+}

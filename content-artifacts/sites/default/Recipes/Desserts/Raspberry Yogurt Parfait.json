@@ -1,0 +1,16 @@
+{
+  "name": "Raspberry Yogurt Parfait",
+  "hideFromNavigation": false,
+  "segment": "raspberry-yogurt-parfait",
+  "layoutId": "recipe-page-layout",
+  "description": "Raspberry Yogurt Parfait | Freshery",
+  "contentTypeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "title": "Raspberry Yogurt Parfait",
+  "classification": "page",
+  "contentId": "5e800281-c5fd-44c0-a5c0-874cef961ec2",
+  "contentStatus": "ready",
+  "position": 2,
+  "id": "3eed64a3-7c3b-43af-8046-4d7e23921e94",
+  "rev": "3-e8ed74cd71ec1aefac7d57edf51e1329",
+  "parentId": "acee0ab9-e7ef-4eca-b2a4-0010de068d4b"
+}

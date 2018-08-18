@@ -1,0 +1,63 @@
+{
+  "id": "3d684ede-d5dd-4298-939e-c35e4a75b7fa",
+  "rev": "2-049e81833774b4f7075873efe5fe0e9d",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "ea6e3333-d6b7-43ec-be90-8a6784506eb5",
+  "name": "Recipes",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:35.290Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-23T13:30:31.235Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:31.235Z",
+  "elements": {
+    "bannerImage": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=49fab47c-33ed-4926-a92f-c6c067209c32&a=d6434b46-be07-4bb1-bc4f-089241a02041",
+          "source": "/authoring/v1/resources/49fab47c-33ed-4926-a92f-c6c067209c32",
+          "width": 6000,
+          "height": 4000
+        },
+        "large": {
+          "renditionId": "9b3b244c-3aef-4ac5-8259-f35c7035df45",
+          "source": "/authoring/v1/resources/49fab47c-33ed-4926-a92f-c6c067209c32?resize=2500px:1667px&crop=2500:1200;0,233",
+          "width": 2500,
+          "height": 1200
+        },
+        "medium": {
+          "renditionId": "5a560d33-7bc1-4387-a683-d1c3453f78c3",
+          "source": "/authoring/v1/resources/49fab47c-33ed-4926-a92f-c6c067209c32?resize=450px:300px&crop=400:300;25,0",
+          "width": 400,
+          "height": 300
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 4000,
+        "fileName": "waffles.jpg",
+        "id": "d6434b46-be07-4bb1-bc4f-089241a02041",
+        "fileSize": 5117056,
+        "resourceUri": "/authoring/v1/resources/49fab47c-33ed-4926-a92f-c6c067209c32",
+        "width": 6000
+      }
+    },
+    "bannerText": {
+      "elementType": "text",
+      "value": "Recipes"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "recipes-landing-page-layout"
+      }
+    }
+  ]
+}

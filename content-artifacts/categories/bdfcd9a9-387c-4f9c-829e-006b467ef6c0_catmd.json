@@ -1,0 +1,30 @@
+{
+  "id": "bdfcd9a9-387c-4f9c-829e-006b467ef6c0",
+  "rev": "2-ca2e58718236aa330fd6630322922399",
+  "name": "Vegan",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "creator": "Bruce Wayne",
+  "classification": "category",
+  "taxonomy": "32588fc6-c8e5-4d3c-b117-266b1f1e4546",
+  "parent": "32588fc6-c8e5-4d3c-b117-266b1f1e4546",
+  "ancestorIds": [
+    "32588fc6-c8e5-4d3c-b117-266b1f1e4546"
+  ],
+  "namePath": [
+    "Nutritional Features",
+    "Vegan"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/32588fc6-c8e5-4d3c-b117-266b1f1e4546"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/bdfcd9a9-387c-4f9c-829e-006b467ef6c0"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/32588fc6-c8e5-4d3c-b117-266b1f1e4546"
+    }
+  },
+  "created": "2018-07-23T13:26:30.616Z",
+  "lastModified": "2018-07-23T13:30:00.419Z"
+}

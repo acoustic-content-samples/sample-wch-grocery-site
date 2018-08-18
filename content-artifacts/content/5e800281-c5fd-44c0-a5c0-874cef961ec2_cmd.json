@@ -1,0 +1,100 @@
+{
+  "id": "5e800281-c5fd-44c0-a5c0-874cef961ec2",
+  "rev": "24-899bb0f90c89d4b1bdac5168f0a98a70",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "name": "Raspberry Yogurt Parfait",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-29T07:45:29.042Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-29T08:27:32.614Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-29T08:27:32.614Z",
+  "elements": {
+    "method": {
+      "elementType": "formattedtext",
+      "value": "<ol>\n\t<li>Wash and hull the raspberries.</li>\n\t<li>Spoon one layer of granola at the bottom of a cup.</li>\n\t<li>Add a layer of Greek yogurt and raspberries.</li>\n\t<li>Repeat the layering until cup is full.</li>\n\t<li>Store in refrigerator until ready to serve.</li>\n</ol>\n"
+    },
+    "author": {
+      "elementType": "text",
+      "value": "Linda Hou"
+    },
+    "image": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=e3ae6b97-2bdb-434c-833e-7545908da8db&a=0f218b75-9184-4b0d-8d81-7ec0a64c3dca",
+          "source": "/authoring/v1/resources/e3ae6b97-2bdb-434c-833e-7545908da8db",
+          "width": 1440,
+          "height": 1920
+        },
+        "medium": {
+          "renditionId": "ffa2a8e4-f026-4cf8-beeb-89851990b5fd",
+          "source": "/authoring/v1/resources/e3ae6b97-2bdb-434c-833e-7545908da8db?resize=400px:533px&crop=400:300;0,117",
+          "width": 400,
+          "height": 300
+        },
+        "large": {
+          "renditionId": "6e620f61-b862-4a31-b629-5a53fafeaa06",
+          "source": "/authoring/v1/resources/e3ae6b97-2bdb-434c-833e-7545908da8db?resize=600px:800px&crop=600:500;0,150",
+          "width": 600,
+          "height": 500
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 1920,
+        "fileName": "parfait.jpg",
+        "id": "0f218b75-9184-4b0d-8d81-7ec0a64c3dca",
+        "fileSize": 399725,
+        "resourceUri": "/authoring/v1/resources/e3ae6b97-2bdb-434c-833e-7545908da8db",
+        "width": 1440
+      }
+    },
+    "description": {
+      "elementType": "formattedtext",
+      "value": "<p>This raspberry yogurt parfait is easy to make and will give you long-lasting energy!</p>\n"
+    },
+    "date": {
+      "elementType": "datetime",
+      "value": "2018-07-29T10:00:00Z"
+    },
+    "nutritionalFeatures": {
+      "elementType": "category",
+      "categoryIds": [
+        "19302a65-34ad-45db-a7bb-d834a19437da",
+        "720dfca3-e078-4761-966d-00a3ce878b80",
+        "89239282-65d0-42ea-b824-e72f90356b8c"
+      ]
+    },
+    "link": {
+      "elementType": "link"
+    },
+    "ingredients": {
+      "elementType": "formattedtext",
+      "value": "<p>2 cups Greek yogurt<br />\n1 cup granola<br />\n1 cup raspberries</p>\n"
+    },
+    "category": {
+      "elementType": "category",
+      "categoryIds": [
+        "ebd0bdcb-c3ba-4d39-99a2-9e421e33ec3d"
+      ]
+    },
+    "title": {
+      "elementType": "text",
+      "value": "Raspberry Yogurt Parfait"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "recipe-page-layout"
+      }
+    }
+  ]
+}

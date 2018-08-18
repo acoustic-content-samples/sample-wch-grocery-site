@@ -1,0 +1,84 @@
+{
+  "rev": "3-6029345a90d7e35d5018813bd3494702",
+  "id": "42d21cfd-6c01-4188-beae-f77aeb83a010",
+  "mediaType": "image/jpeg",
+  "name": "salami.jpg",
+  "path": "/dxdam/42/42d21cfd-6c01-4188-beae-f77aeb83a010/salami.jpg",
+  "digest": "NN3YA5vLm67gkDdv/68mgQ==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-23T13:30:11.954Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:abattoir",
+      "classification:building",
+      "classification:butcher shop",
+      "classification:shop",
+      "classification:retail store",
+      "classification:vegetable",
+      "classification:Indian red color",
+      "classification:pink color"
+    ],
+    "declined": [
+      "face:65+"
+    ],
+    "suggested": [
+      "classification:abattoir",
+      "classification:building",
+      "classification:butcher shop",
+      "classification:shop",
+      "classification:retail store",
+      "classification:vegetable",
+      "classification:Indian red color",
+      "classification:pink color"
+    ],
+    "analysis": "complete"
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "salami.jpg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:11.954Z",
+  "cognitive": {
+    "classifications": [
+      "abattoir",
+      "building",
+      "butcher shop",
+      "shop",
+      "retail store",
+      "vegetable",
+      "Indian red color",
+      "pink color"
+    ],
+    "faces": [],
+    "colors": {
+      "lightMuted": "#c6bca4",
+      "darkMuted": "#524428",
+      "lightVibrant": "#efb786",
+      "vibrant": "#a44c0c",
+      "muted": "#a46454",
+      "darkVibrant": "#843c04"
+    },
+    "status": "complete"
+  },
+  "resource": "20b88e72-10db-4575-8942-40415363d2f8",
+  "fileSize": 3383960,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=20b88e72-10db-4575-8942-40415363d2f8&a=42d21cfd-6c01-4188-beae-f77aeb83a010",
+      "source": "/authoring/v1/resources/20b88e72-10db-4575-8942-40415363d2f8"
+    }
+  },
+  "metadata": {
+    "width": 5760,
+    "height": 3840
+  },
+  "classification": "asset",
+  "created": "2018-07-23T13:27:11.272Z",
+  "isManaged": true
+}

@@ -1,0 +1,20 @@
+{
+  "scale": 0.42662116040955633,
+  "locationY": 0,
+  "height": 500,
+  "locationX": 110,
+  "rev": "1-e9aeaf40786a0979cee04f9b1d7198ef",
+  "id": "b185dc4a-1e17-44b8-a1e8-5637eaf736d5",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 1172,
+    "fileName": "pancake.jpeg",
+    "id": "3413e72d-9da9-4e3b-af57-5b96fc039bb9",
+    "resource": "4f036ce8-69e7-4c82-a433-7872c7625b0c",
+    "fileSize": 365149,
+    "width": 1920
+  },
+  "width": 600,
+  "created": "2018-07-29T07:27:09.501Z"
+}

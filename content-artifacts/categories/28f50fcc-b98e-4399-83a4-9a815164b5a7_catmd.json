@@ -1,0 +1,30 @@
+{
+  "id": "28f50fcc-b98e-4399-83a4-9a815164b5a7",
+  "rev": "2-42985e16d194d6558f0c9fd00602e97d",
+  "name": "Low Fat",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "creator": "Bruce Wayne",
+  "classification": "category",
+  "taxonomy": "32588fc6-c8e5-4d3c-b117-266b1f1e4546",
+  "parent": "32588fc6-c8e5-4d3c-b117-266b1f1e4546",
+  "ancestorIds": [
+    "32588fc6-c8e5-4d3c-b117-266b1f1e4546"
+  ],
+  "namePath": [
+    "Nutritional Features",
+    "Low Fat"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/32588fc6-c8e5-4d3c-b117-266b1f1e4546"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/28f50fcc-b98e-4399-83a4-9a815164b5a7"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/32588fc6-c8e5-4d3c-b117-266b1f1e4546"
+    }
+  },
+  "created": "2018-07-23T13:26:32.752Z",
+  "lastModified": "2018-07-23T13:29:59.024Z"
+}

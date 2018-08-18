@@ -1,0 +1,24 @@
+{
+  "id": "e220d67e-b774-4570-952b-60f1e57b793b",
+  "rev": "2-5710df9a850cd1480a4fd63a21760f51",
+  "name": "Profile for event",
+  "classification": "image-profile",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "created": "2017-11-05T12:49:16.763Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-23T13:29:58.260Z",
+  "dimensions": [
+    {
+      "label": "Large",
+      "key": "large",
+      "width": 600,
+      "height": 500
+    },
+    {
+      "label": "Medium",
+      "key": "medium",
+      "width": 400,
+      "height": 300
+    }
+  ]
+}

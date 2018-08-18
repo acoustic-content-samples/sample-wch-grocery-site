@@ -1,0 +1,27 @@
+{
+  "id": "02a19c37-22b6-4543-a67b-a09c83f51864",
+  "rev": "2-53f9efa3731cae91d77b4944c1871212",
+  "name": "Slideshow",
+  "classification": "content-type",
+  "kind": [
+    "standalone"
+  ],
+  "description": "",
+  "status": "ready",
+  "tags": [],
+  "elements": [
+    {
+      "elementType": "reference",
+      "label": "Slides",
+      "key": "slides",
+      "restrictTypes": [
+        {
+          "id": "2215421a-042e-424e-9544-c2993ca1b0d9"
+        }
+      ],
+      "allowMultipleValues": true,
+      "minimumValues": 0,
+      "fieldLabel": "Slide"
+    }
+  ]
+}

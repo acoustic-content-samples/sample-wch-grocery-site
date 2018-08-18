@@ -1,0 +1,71 @@
+{
+  "id": "cc460f6d-de84-4046-b950-a21e04b106b1",
+  "rev": "2-bd5f4406651cf326f4603b26f4aa2f53",
+  "kind": [],
+  "classification": "content",
+  "typeId": "2215421a-042e-424e-9544-c2993ca1b0d9",
+  "name": "Welcome slide",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:40.424Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-23T13:30:33.546Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:33.546Z",
+  "elements": {
+    "heading": {
+      "elementType": "text",
+      "value": "Healthy food, healthy cooking"
+    },
+    "subheading": {
+      "elementType": "text",
+      "value": "Welcome to Freshery"
+    },
+    "image": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=76696404-9a73-4e23-8859-3b050875be7e&a=60f4eeaa-bbb2-46ac-b702-3fca9a327ee7",
+          "source": "/authoring/v1/resources/76696404-9a73-4e23-8859-3b050875be7e",
+          "width": 5472,
+          "height": 3648
+        },
+        "large": {
+          "renditionId": "f7548c98-959b-4254-9f97-5f1594143aeb",
+          "source": "/authoring/v1/resources/76696404-9a73-4e23-8859-3b050875be7e?resize=2500px:1667px&crop=2500:1200;0,233",
+          "width": 2500,
+          "height": 1200
+        },
+        "medium": {
+          "renditionId": "22f81ae5-a2b5-4abf-bbc8-fa880d498d6a",
+          "source": "/authoring/v1/resources/76696404-9a73-4e23-8859-3b050875be7e?resize=450px:300px&crop=400:300;25,0",
+          "width": 400,
+          "height": 300
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 3648,
+        "fileName": "ingredients.jpg",
+        "id": "60f4eeaa-bbb2-46ac-b702-3fca9a327ee7",
+        "fileSize": 3652027,
+        "resourceUri": "/authoring/v1/resources/76696404-9a73-4e23-8859-3b050875be7e",
+        "width": 5472
+      }
+    },
+    "actionLink": {
+      "elementType": "link",
+      "linkURL": "/about",
+      "linkText": "Learn more"
+    }
+  },
+  "keywords": [],
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "slide-layout"
+      }
+    }
+  ]
+}

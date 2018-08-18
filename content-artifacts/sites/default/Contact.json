@@ -1,0 +1,15 @@
+{
+  "name": "Contact",
+  "segment": "contact",
+  "layoutId": "custom-page-layout",
+  "description": "",
+  "contentTypeId": "f35a691d-7ca7-4106-9c80-e1e617f68e12",
+  "title": "Contact | Freshery",
+  "contentId": "1af16c1a-be3b-4d4c-ab06-3b7f6b36a3a2",
+  "hideFromNavigation": false,
+  "contentStatus": "ready",
+  "classification": "page",
+  "position": 4,
+  "id": "02cf11d6-705b-4914-b796-b9ebd7a5ba51",
+  "rev": "2-bb9d2f0d976f0bce5fbb320473a33b63"
+}

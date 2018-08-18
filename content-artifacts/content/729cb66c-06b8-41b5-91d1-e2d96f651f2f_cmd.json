@@ -1,0 +1,100 @@
+{
+  "id": "729cb66c-06b8-41b5-91d1-e2d96f651f2f",
+  "rev": "3-77520a5e1bba4d5681c83f1b1320a10d",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "name": "Multi Grain Bread Crostini",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:37.394Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-29T08:27:32.119Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-29T08:27:32.119Z",
+  "elements": {
+    "method": {
+      "elementType": "formattedtext",
+      "value": "<ol>\n\t<li>Preheat oven to 375&deg;F (190&deg;C).</li>\n\t<li>Cut bread diagonally into thick slices.</li>\n\t<li>Brush each slice with a thin layer of olive oil on both sides and place on baking sheet.</li>\n\t<li>Bake the slices of bread 5-7 minutes on each side until golden brown.</li>\n\t<li>Remove from oven and sprinkle with pepper jack cheese. Serve warm.</li>\n</ol>\n"
+    },
+    "author": {
+      "elementType": "text",
+      "value": "Linda Hou"
+    },
+    "image": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=0b607f76-2763-445a-a29a-c22d973d3e6f&a=fa495b0d-56f7-4b31-9cc1-785b5ba1c668",
+          "source": "/authoring/v1/resources/0b607f76-2763-445a-a29a-c22d973d3e6f",
+          "width": 1280,
+          "height": 790
+        },
+        "medium": {
+          "renditionId": "5ed91782-b059-4274-a833-caa6cd804949",
+          "source": "/authoring/v1/resources/0b607f76-2763-445a-a29a-c22d973d3e6f?resize=486px:300px&crop=400:300;43,0",
+          "width": 400,
+          "height": 300
+        },
+        "large": {
+          "renditionId": "3aa6beaf-02f7-481c-adb7-2da850c91b99",
+          "source": "/authoring/v1/resources/0b607f76-2763-445a-a29a-c22d973d3e6f?resize=810px:500px&crop=600:500;105,0",
+          "width": 600,
+          "height": 500
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 790,
+        "fileName": "grain-bread.jpeg",
+        "id": "fa495b0d-56f7-4b31-9cc1-785b5ba1c668",
+        "fileSize": 342710,
+        "resourceUri": "/authoring/v1/resources/0b607f76-2763-445a-a29a-c22d973d3e6f",
+        "width": 1280
+      }
+    },
+    "description": {
+      "elementType": "formattedtext",
+      "value": "<p>Bake plenty of these crostini - your guests will keep coming back for more.</p>\n"
+    },
+    "date": {
+      "elementType": "datetime",
+      "value": "2017-11-05T13:00:00Z"
+    },
+    "nutritionalFeatures": {
+      "elementType": "category",
+      "categoryIds": [
+        "13a525e8-c365-4df4-8ace-70bdd0202cb0",
+        "28f50fcc-b98e-4399-83a4-9a815164b5a7",
+        "ab376187-afd9-44b3-81a4-71fd3ece1c62"
+      ]
+    },
+    "link": {
+      "elementType": "link"
+    },
+    "ingredients": {
+      "elementType": "formattedtext",
+      "value": "<p>1 multi grain baguette<br />\n1/4 cup extra virgin olive oil<br />\n2 cups shredded pepper jack cheese</p>\n"
+    },
+    "category": {
+      "elementType": "category",
+      "categoryIds": [
+        "d9ea5c56-70e2-49e0-881d-cebbf8f6c575"
+      ]
+    },
+    "title": {
+      "elementType": "text",
+      "value": "Multi Grain Bread Crostini"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "recipe-page-layout"
+      }
+    }
+  ]
+}

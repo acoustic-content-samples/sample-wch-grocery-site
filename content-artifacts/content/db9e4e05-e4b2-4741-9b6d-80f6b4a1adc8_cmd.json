@@ -1,0 +1,73 @@
+{
+  "id": "db9e4e05-e4b2-4741-9b6d-80f6b4a1adc8",
+  "rev": "2-d6ccd5ff0c4674e2eef432561d4663d5",
+  "kind": [],
+  "classification": "content",
+  "typeId": "ba37daaf-7e67-4825-b45e-307b1761d3d7",
+  "name": "Newsletter subscription",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:40.461Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-23T13:30:33.714Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:33.714Z",
+  "elements": {
+    "headline": {
+      "elementType": "text",
+      "value": "Subscribe to our newsletter"
+    },
+    "backgroundImage": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=411c23db-c617-48d0-ad70-82f98d0d9ae3&a=2e18188c-c216-48ec-9e7d-082354e20d58",
+          "source": "/authoring/v1/resources/411c23db-c617-48d0-ad70-82f98d0d9ae3",
+          "width": 5512,
+          "height": 3675
+        },
+        "medium": {
+          "renditionId": "cef84e73-d212-468e-9ae6-b6c0d667ce05",
+          "source": "/authoring/v1/resources/411c23db-c617-48d0-ad70-82f98d0d9ae3?resize=450px:300px&crop=400:300;25,0",
+          "width": 400,
+          "height": 300
+        },
+        "large": {
+          "renditionId": "333db212-f182-4e06-8cf9-fdeb5dea2e9b",
+          "source": "/authoring/v1/resources/411c23db-c617-48d0-ad70-82f98d0d9ae3?resize=2500px:1667px&crop=2500:1200;0,233",
+          "width": 2500,
+          "height": 1200
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 3675,
+        "fileName": "vegetables.jpg",
+        "id": "2e18188c-c216-48ec-9e7d-082354e20d58",
+        "fileSize": 4926947,
+        "resourceUri": "/authoring/v1/resources/411c23db-c617-48d0-ad70-82f98d0d9ae3",
+        "width": 5512
+      }
+    },
+    "actionLabel": {
+      "elementType": "text",
+      "value": "Subscribe"
+    },
+    "textInputPlaceholder": {
+      "elementType": "text",
+      "value": "Enter your email"
+    },
+    "confirmationMessage": {
+      "elementType": "formattedtext"
+    }
+  },
+  "keywords": [],
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "sign-up-layout"
+      }
+    }
+  ]
+}

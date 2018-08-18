@@ -1,0 +1,85 @@
+{
+  "rev": "3-482f84046e8cf35cc30b804d983b0ef6",
+  "id": "91a45244-0ed0-4e75-b19e-fe6168d52704",
+  "mediaType": "image/jpeg",
+  "name": "oysters.jpg",
+  "path": "/dxdam/91/91a45244-0ed0-4e75-b19e-fe6168d52704/oysters.jpg",
+  "digest": "kL1Ww8w8w5E4QhZjKI1wlQ==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-23T13:30:14.422Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:soft-shell clam",
+      "classification:clam",
+      "classification:bivalve (animal with shell)",
+      "classification:shellfish",
+      "classification:invertebrate",
+      "classification:animal",
+      "classification:spat (animal with shell)",
+      "classification:young",
+      "classification:ultramarine color",
+      "classification:alabaster color"
+    ],
+    "declined": [],
+    "suggested": [
+      "classification:soft-shell clam",
+      "classification:clam",
+      "classification:bivalve (animal with shell)",
+      "classification:shellfish",
+      "classification:invertebrate",
+      "classification:animal",
+      "classification:spat (animal with shell)",
+      "classification:young",
+      "classification:ultramarine color",
+      "classification:alabaster color"
+    ],
+    "analysis": "complete"
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "oysters.jpg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:14.422Z",
+  "cognitive": {
+    "classifications": [
+      "soft-shell clam",
+      "clam",
+      "bivalve (animal with shell)",
+      "shellfish",
+      "invertebrate",
+      "animal",
+      "spat (animal with shell)",
+      "young",
+      "ultramarine color",
+      "alabaster color"
+    ],
+    "faces": [],
+    "colors": {
+      "muted": "#ac8c64",
+      "darkMuted": "#2c3c54",
+      "lightMuted": "#bac8d6"
+    },
+    "status": "complete"
+  },
+  "resource": "97c88b87-1dff-48f7-9c7a-3899deb6fdd7",
+  "fileSize": 1808834,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=97c88b87-1dff-48f7-9c7a-3899deb6fdd7&a=91a45244-0ed0-4e75-b19e-fe6168d52704",
+      "source": "/authoring/v1/resources/97c88b87-1dff-48f7-9c7a-3899deb6fdd7"
+    }
+  },
+  "metadata": {
+    "width": 4008,
+    "height": 3006
+  },
+  "classification": "asset",
+  "created": "2018-07-23T13:27:38.472Z",
+  "isManaged": true
+}

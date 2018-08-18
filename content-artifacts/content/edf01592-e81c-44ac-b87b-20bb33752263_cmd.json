@@ -1,0 +1,71 @@
+{
+  "id": "edf01592-e81c-44ac-b87b-20bb33752263",
+  "rev": "2-cf22f8fa89e2471685887b28cd476ed6",
+  "kind": [],
+  "classification": "content",
+  "typeId": "2215421a-042e-424e-9544-c2993ca1b0d9",
+  "name": "Recipes slide",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:41.098Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-23T13:30:33.934Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:33.934Z",
+  "elements": {
+    "heading": {
+      "elementType": "text",
+      "value": "Delicious recipes"
+    },
+    "subheading": {
+      "elementType": "text",
+      "value": "Try our fresh and organic ingredients"
+    },
+    "image": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=49fab47c-33ed-4926-a92f-c6c067209c32&a=d6434b46-be07-4bb1-bc4f-089241a02041",
+          "source": "/authoring/v1/resources/49fab47c-33ed-4926-a92f-c6c067209c32",
+          "width": 6000,
+          "height": 4000
+        },
+        "medium": {
+          "renditionId": "08979025-b65e-4d4b-aa33-1153533e5c46",
+          "source": "/authoring/v1/resources/49fab47c-33ed-4926-a92f-c6c067209c32?resize=450px:300px&crop=400:300;25,0",
+          "width": 400,
+          "height": 300
+        },
+        "large": {
+          "renditionId": "17fce6f5-9bb2-4a33-946d-e5ae494d7b8e",
+          "source": "/authoring/v1/resources/49fab47c-33ed-4926-a92f-c6c067209c32?resize=2500px:1667px&crop=2500:1200;0,233",
+          "width": 2500,
+          "height": 1200
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 4000,
+        "fileName": "waffles.jpg",
+        "id": "d6434b46-be07-4bb1-bc4f-089241a02041",
+        "fileSize": 5117056,
+        "resourceUri": "/authoring/v1/resources/49fab47c-33ed-4926-a92f-c6c067209c32",
+        "width": 6000
+      }
+    },
+    "actionLink": {
+      "elementType": "link",
+      "linkURL": "/recipes",
+      "linkText": "Explore now"
+    }
+  },
+  "keywords": [],
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "slide-layout"
+      }
+    }
+  ]
+}

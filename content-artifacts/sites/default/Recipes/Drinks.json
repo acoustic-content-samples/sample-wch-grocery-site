@@ -1,0 +1,16 @@
+{
+  "name": "Drinks",
+  "segment": "drinks",
+  "layoutId": "recipe-category-page-layout",
+  "description": "",
+  "contentTypeId": "3c38285d-e8fd-499e-9f4e-3f40d7bec023",
+  "title": "Drink Recipes | Freshery",
+  "contentId": "6a8c50bc-b08e-46e8-b75b-29d563533447",
+  "hideFromNavigation": false,
+  "contentStatus": "ready",
+  "classification": "page",
+  "position": 3,
+  "id": "c387503a-2cc3-4141-aaaf-a10ad1a8bb5b",
+  "rev": "8-f0792c134a65a7b5f87c2ae846c68aa7",
+  "parentId": "7ee0834e-e6f8-48bc-89b3-09ac6e78c452"
+}

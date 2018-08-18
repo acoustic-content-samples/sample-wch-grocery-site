@@ -1,0 +1,69 @@
+{
+  "id": "f1b6c3d0-2c0a-4cb3-85a6-5afc43b857cc",
+  "rev": "2-65e69951ffb8d629b51e0fe2cf7f2cd1",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "3c38285d-e8fd-499e-9f4e-3f40d7bec023",
+  "name": "Mains",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:41.676Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-23T13:30:34.318Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:34.318Z",
+  "elements": {
+    "bannerImage": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=bac500a1-1504-45ea-bbe6-a19587cec84a&a=82ce8bbb-765f-4b90-a904-ae3fd032e007",
+          "source": "/authoring/v1/resources/bac500a1-1504-45ea-bbe6-a19587cec84a",
+          "width": 4928,
+          "height": 3264
+        },
+        "large": {
+          "renditionId": "6e3ad824-144e-460d-bc91-66d9ce7eced9",
+          "source": "/authoring/v1/resources/bac500a1-1504-45ea-bbe6-a19587cec84a?resize=2500px:1656px&crop=2500:1200;0,228",
+          "width": 2500,
+          "height": 1200
+        },
+        "medium": {
+          "renditionId": "e2ac01ef-2601-4189-b019-cdc6fd4ca744",
+          "source": "/authoring/v1/resources/bac500a1-1504-45ea-bbe6-a19587cec84a?resize=453px:300px&crop=400:300;26,0",
+          "width": 400,
+          "height": 300
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 3264,
+        "fileName": "steak.jpg",
+        "id": "82ce8bbb-765f-4b90-a904-ae3fd032e007",
+        "fileSize": 2819752,
+        "resourceUri": "/authoring/v1/resources/bac500a1-1504-45ea-bbe6-a19587cec84a",
+        "width": 4928
+      }
+    },
+    "bannerText": {
+      "elementType": "text",
+      "value": "Mains"
+    },
+    "category": {
+      "elementType": "category",
+      "categoryIds": [
+        "5a665c19-18d2-4a46-b377-571e0161541c"
+      ]
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "recipe-category-page-layout"
+      }
+    }
+  ]
+}

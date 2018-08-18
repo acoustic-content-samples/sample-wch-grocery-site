@@ -1,0 +1,16 @@
+{
+  "name": "Pork Dumplings",
+  "hideFromNavigation": false,
+  "segment": "pork-dumplings",
+  "layoutId": "recipe-page-layout",
+  "description": "Pork Dumplings | Freshery",
+  "contentTypeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "title": "Pork Dumplings",
+  "classification": "page",
+  "contentId": "59abc917-be60-4169-b7a6-6584973c41db",
+  "contentStatus": "ready",
+  "position": 2,
+  "id": "79bbe6fe-ca4d-4523-b47e-1293b03c170d",
+  "rev": "3-1f998c757bf7582cac7516894c08e53f",
+  "parentId": "c532613f-57ee-4cbf-8c21-8d2e824d142c"
+}

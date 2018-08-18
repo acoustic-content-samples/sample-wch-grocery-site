@@ -1,0 +1,87 @@
+{
+  "id": "3fc3cb42-bdbb-43e1-aea2-5781688264ee",
+  "rev": "2-df90b1afb5afb20eeb9a71d4f8f589d5",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "d16d1ad4-3709-4092-85ea-a8875562475b",
+  "name": "Spaghetti Workshop",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:36.307Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-23T13:30:31.280Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:31.280Z",
+  "elements": {
+    "location": {
+      "elementType": "location",
+      "latitude": -33.82316,
+      "longitude": 151.19676
+    },
+    "endDate": {
+      "elementType": "datetime",
+      "value": "2027-12-14T06:00:00Z"
+    },
+    "image": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=903ce6fb-69d8-484f-8f76-5d34a5a1831c&a=739536f7-40ca-42db-914e-9ae400e8cec1",
+          "source": "/authoring/v1/resources/903ce6fb-69d8-484f-8f76-5d34a5a1831c",
+          "width": 6000,
+          "height": 4000
+        },
+        "medium": {
+          "renditionId": "cd92a8b0-1c4d-4a49-9d02-181879ef2167",
+          "source": "/authoring/v1/resources/903ce6fb-69d8-484f-8f76-5d34a5a1831c?resize=450px:300px&crop=400:300;25,0",
+          "width": 400,
+          "height": 300
+        },
+        "large": {
+          "renditionId": "7da2d8c0-675e-4b92-9094-f7a63e434fd9",
+          "source": "/authoring/v1/resources/903ce6fb-69d8-484f-8f76-5d34a5a1831c?resize=750px:500px&crop=600:500;75,0",
+          "width": 600,
+          "height": 500
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 4000,
+        "fileName": "spaghetti.jpg",
+        "id": "739536f7-40ca-42db-914e-9ae400e8cec1",
+        "fileSize": 7093595,
+        "resourceUri": "/authoring/v1/resources/903ce6fb-69d8-484f-8f76-5d34a5a1831c",
+        "width": 6000
+      }
+    },
+    "description": {
+      "elementType": "formattedtext",
+      "value": "<p>Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada.</p>\n"
+    },
+    "link": {
+      "elementType": "link"
+    },
+    "address": {
+      "elementType": "formattedtext",
+      "value": "<p>Freshery,<br />\n601 Pacific Highway<br />\nSt Leonards, NSW 2065</p>\n"
+    },
+    "title": {
+      "elementType": "text",
+      "value": "Spaghetti Workshop"
+    },
+    "startDate": {
+      "elementType": "datetime",
+      "value": "2027-12-14T04:00:00Z"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "event-page-layout"
+      }
+    }
+  ]
+}

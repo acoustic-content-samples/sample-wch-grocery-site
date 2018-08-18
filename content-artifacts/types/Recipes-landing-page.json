@@ -1,0 +1,36 @@
+{
+  "id": "ea6e3333-d6b7-43ec-be90-8a6784506eb5",
+  "rev": "2-531b2033fa0e6902d49a28ffb5bb0884",
+  "name": "Recipes landing page",
+  "classification": "content-type",
+  "kind": [
+    "standalone",
+    "page"
+  ],
+  "contentThumbnail": {
+    "imageElement": "bannerImage",
+    "source": "imageElementOrType"
+  },
+  "description": "",
+  "status": "ready",
+  "tags": [],
+  "elements": [
+    {
+      "elementType": "image",
+      "label": "Banner image",
+      "key": "bannerImage",
+      "imageProfileId": "815bc1bf-80d9-4bc7-9635-b98f319ed15e",
+      "acceptType": [
+        "jpg",
+        "jpeg",
+        "png",
+        "gif"
+      ]
+    },
+    {
+      "elementType": "text",
+      "label": "Banner Text",
+      "key": "bannerText"
+    }
+  ]
+}

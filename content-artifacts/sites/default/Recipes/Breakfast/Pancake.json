@@ -1,0 +1,16 @@
+{
+  "name": "Pancake",
+  "hideFromNavigation": false,
+  "segment": "pancake",
+  "layoutId": "recipe-page-layout",
+  "description": "Pancake | Freshery",
+  "contentTypeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "title": "Pancake",
+  "classification": "page",
+  "contentId": "e0f2fb4d-1694-46ae-aec0-a867662fba13",
+  "contentStatus": "ready",
+  "position": 2,
+  "id": "f8e373ed-17e9-48cf-ae67-92fff00c90f1",
+  "rev": "3-19423ddcffa71bafa1d51e0d3457fa7a",
+  "parentId": "d9286b1d-d203-4ed3-98c2-5d12447781fb"
+}

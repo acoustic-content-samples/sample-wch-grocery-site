@@ -1,0 +1,62 @@
+{
+  "id": "5f0f7d24-df1b-4467-b70b-dfdb17002f44",
+  "rev": "2-a4b1bde60244598ca4da082f84edc57b",
+  "name": "Home page",
+  "classification": "content-type",
+  "kind": [
+    "standalone",
+    "page"
+  ],
+  "description": "",
+  "status": "ready",
+  "tags": [],
+  "elements": [
+    {
+      "elementType": "reference",
+      "label": "Hero slideshow",
+      "key": "heroSlideshow",
+      "allowMultipleValues": false,
+      "restrictTypes": [
+        {
+          "id": "02a19c37-22b6-4543-a67b-a09c83f51864"
+        }
+      ]
+    },
+    {
+      "elementType": "reference",
+      "label": "Featured list one",
+      "key": "featuredListOne",
+      "restrictTypes": [
+        {
+          "id": "367908ac-e711-4662-a531-91d3ada05508"
+        },
+        {
+          "id": "7f8606a0-eead-4728-8cd2-ed24705412c0"
+        }
+      ]
+    },
+    {
+      "elementType": "reference",
+      "label": "Featured list two",
+      "key": "featuredListTwo",
+      "restrictTypes": [
+        {
+          "id": "367908ac-e711-4662-a531-91d3ada05508"
+        },
+        {
+          "id": "7f8606a0-eead-4728-8cd2-ed24705412c0"
+        }
+      ]
+    },
+    {
+      "elementType": "reference",
+      "label": "Newsletter section",
+      "key": "newsletterSection",
+      "restrictTypes": [
+        {
+          "id": "ba37daaf-7e67-4825-b45e-307b1761d3d7"
+        }
+      ]
+    }
+  ]
+}

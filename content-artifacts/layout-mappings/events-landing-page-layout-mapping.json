@@ -1,0 +1,21 @@
+{
+  "id": "events-landing-page-layout-mapping",
+  "rev": "2-760a9cb6eb812bdc79e7099d13a6eeb5",
+  "name": "eventsLandingPageLayoutMapping",
+  "classification": "layout-mapping",
+  "type": {
+    "id": "1bd0a2e7-4b14-404a-a117-79147aee560b"
+  },
+  "mappings": [
+    {
+      "defaultLayout": {
+        "id": "events-landing-page-layout"
+      },
+      "layouts": [
+        {
+          "id": "events-landing-page-layout"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "rev": "3-593f36a2997e1efb1c36247bf116d52d",
+  "id": "fa495b0d-56f7-4b31-9cc1-785b5ba1c668",
+  "mediaType": "image/jpeg",
+  "name": "grain-bread.jpeg",
+  "path": "/dxdam/fa/fa495b0d-56f7-4b31-9cc1-785b5ba1c668/grain-bread.jpeg",
+  "digest": "0PUPKz3N3fQiAX8XvgqaOw==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-23T13:30:18.581Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:French loaf",
+      "classification:bread",
+      "classification:food product",
+      "classification:food",
+      "classification:cracked-wheat bread",
+      "classification:rye bread",
+      "classification:French bread",
+      "classification:hard roll",
+      "classification:bun",
+      "classification:light brown color"
+    ],
+    "declined": [],
+    "suggested": [
+      "classification:French loaf",
+      "classification:bread",
+      "classification:food product",
+      "classification:food",
+      "classification:cracked-wheat bread",
+      "classification:rye bread",
+      "classification:French bread",
+      "classification:hard roll",
+      "classification:bun",
+      "classification:light brown color"
+    ],
+    "analysis": "complete"
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "grain-bread.jpeg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:18.581Z",
+  "cognitive": {
+    "classifications": [
+      "French loaf",
+      "bread",
+      "food product",
+      "food",
+      "cracked-wheat bread",
+      "rye bread",
+      "French bread",
+      "hard roll",
+      "bun",
+      "light brown color"
+    ],
+    "faces": [],
+    "colors": {
+      "lightMuted": "#d3c2a8",
+      "darkMuted": "#5f432c",
+      "lightVibrant": "#c69f6a",
+      "vibrant": "#bc7c34",
+      "muted": "#906d49",
+      "darkVibrant": "#7c3c11"
+    },
+    "status": "complete"
+  },
+  "resource": "0b607f76-2763-445a-a29a-c22d973d3e6f",
+  "fileSize": 342710,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=0b607f76-2763-445a-a29a-c22d973d3e6f&a=fa495b0d-56f7-4b31-9cc1-785b5ba1c668",
+      "source": "/authoring/v1/resources/0b607f76-2763-445a-a29a-c22d973d3e6f"
+    }
+  },
+  "metadata": {
+    "width": 1280,
+    "height": 790
+  },
+  "classification": "asset",
+  "created": "2018-07-23T13:27:54.182Z",
+  "isManaged": true
+}

@@ -1,0 +1,69 @@
+{
+  "id": "aa07cf0d-4fb4-4989-ad05-0b5e6b885352",
+  "rev": "2-d2a51f1abaa03ca496b32afcad02c367",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "f35a691d-7ca7-4106-9c80-e1e617f68e12",
+  "name": "About",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:39.026Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-23T13:30:32.949Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:32.949Z",
+  "elements": {
+    "bannerImage": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=76696404-9a73-4e23-8859-3b050875be7e&a=60f4eeaa-bbb2-46ac-b702-3fca9a327ee7",
+          "source": "/authoring/v1/resources/76696404-9a73-4e23-8859-3b050875be7e",
+          "width": 5472,
+          "height": 3648
+        },
+        "large": {
+          "renditionId": "671c9dd5-7a51-417f-ac18-52d6520ddd4d",
+          "source": "/authoring/v1/resources/76696404-9a73-4e23-8859-3b050875be7e?resize=2500px:1667px&crop=2500:1200;0,233",
+          "width": 2500,
+          "height": 1200
+        },
+        "medium": {
+          "renditionId": "f3895c9c-c813-4374-9cd1-72253b0afe57",
+          "source": "/authoring/v1/resources/76696404-9a73-4e23-8859-3b050875be7e?resize=450px:300px&crop=400:300;25,0",
+          "width": 400,
+          "height": 300
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 3648,
+        "fileName": "ingredients.jpg",
+        "id": "60f4eeaa-bbb2-46ac-b702-3fca9a327ee7",
+        "fileSize": 3652027,
+        "resourceUri": "/authoring/v1/resources/76696404-9a73-4e23-8859-3b050875be7e",
+        "width": 5472
+      }
+    },
+    "bannerText": {
+      "elementType": "text",
+      "value": "About"
+    },
+    "pageContent": {
+      "elementType": "reference",
+      "value": {
+        "id": "5baa6fff-ce0b-4fd2-8ab0-809cd1a21082"
+      }
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "custom-page-layout"
+      }
+    }
+  ]
+}

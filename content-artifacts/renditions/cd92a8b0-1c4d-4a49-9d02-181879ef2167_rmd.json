@@ -1,0 +1,20 @@
+{
+  "scale": 0.075,
+  "locationY": 0,
+  "height": 300,
+  "locationX": 25,
+  "rev": "1-1312aa7f2ea9816f6b65dfc922e7603b",
+  "id": "cd92a8b0-1c4d-4a49-9d02-181879ef2167",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 4000,
+    "fileName": "spaghetti.jpg",
+    "id": "739536f7-40ca-42db-914e-9ae400e8cec1",
+    "resource": "903ce6fb-69d8-484f-8f76-5d34a5a1831c",
+    "fileSize": 7093595,
+    "width": 6000
+  },
+  "width": 400,
+  "created": "2018-07-23T13:28:19.388Z"
+}

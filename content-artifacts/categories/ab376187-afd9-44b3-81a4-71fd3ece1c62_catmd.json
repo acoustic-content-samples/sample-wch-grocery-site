@@ -1,0 +1,30 @@
+{
+  "id": "ab376187-afd9-44b3-81a4-71fd3ece1c62",
+  "rev": "2-245b83a545e4a37dad4b4414c88edb81",
+  "name": "Vegeterian",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "creator": "Bruce Wayne",
+  "classification": "category",
+  "taxonomy": "32588fc6-c8e5-4d3c-b117-266b1f1e4546",
+  "parent": "32588fc6-c8e5-4d3c-b117-266b1f1e4546",
+  "ancestorIds": [
+    "32588fc6-c8e5-4d3c-b117-266b1f1e4546"
+  ],
+  "namePath": [
+    "Nutritional Features",
+    "Vegeterian"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/32588fc6-c8e5-4d3c-b117-266b1f1e4546"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/ab376187-afd9-44b3-81a4-71fd3ece1c62"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/32588fc6-c8e5-4d3c-b117-266b1f1e4546"
+    }
+  },
+  "created": "2018-07-23T13:26:30.702Z",
+  "lastModified": "2018-07-23T13:30:00.415Z"
+}

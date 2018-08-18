@@ -1,0 +1,32 @@
+{
+  "id": "42f1be10-b11b-43cd-9745-e088c81e9e22",
+  "rev": "1-91e77e633816716eee9c51393c1cae36",
+  "name": "Event page",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "creator": "Bruce Wayne",
+  "classification": "category",
+  "taxonomy": "1a244a32-4e74-4654-9a85-856afffa1a0e",
+  "parent": "68c0e0de-4893-4f55-9a16-800faf7c6baf",
+  "ancestorIds": [
+    "1a244a32-4e74-4654-9a85-856afffa1a0e",
+    "68c0e0de-4893-4f55-9a16-800faf7c6baf"
+  ],
+  "namePath": [
+    "Dynamic list criteria",
+    "Item types",
+    "Event page"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/1a244a32-4e74-4654-9a85-856afffa1a0e"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/42f1be10-b11b-43cd-9745-e088c81e9e22"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/68c0e0de-4893-4f55-9a16-800faf7c6baf"
+    }
+  },
+  "created": "2018-07-23T13:30:01.863Z",
+  "lastModified": "2018-07-23T13:30:01.863Z"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "b9752c75-b39e-4015-8d0c-6a899c062ad7",
+  "rev": "2-30dc1bff1d29d14e7392d60f8e78f87d",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "3c38285d-e8fd-499e-9f4e-3f40d7bec023",
+  "name": "Breakfast",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:39.988Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-23T13:30:33.370Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:33.370Z",
+  "elements": {
+    "bannerImage": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=c4309895-be3d-4f2a-a790-e2ef15f2f05b&a=4b76a9ab-4c16-408c-9823-3f8d7f2c3b42",
+          "source": "/authoring/v1/resources/c4309895-be3d-4f2a-a790-e2ef15f2f05b",
+          "width": 6000,
+          "height": 4000
+        },
+        "medium": {
+          "renditionId": "486539f4-1804-4ce8-96af-4d06ce3f55e9",
+          "source": "/authoring/v1/resources/c4309895-be3d-4f2a-a790-e2ef15f2f05b?resize=450px:300px&crop=400:300;25,0",
+          "width": 400,
+          "height": 300
+        },
+        "large": {
+          "renditionId": "da35fcbb-13db-49bf-b591-cb2e91ffb154",
+          "source": "/authoring/v1/resources/c4309895-be3d-4f2a-a790-e2ef15f2f05b?resize=2500px:1667px&crop=2500:1200;0,233",
+          "width": 2500,
+          "height": 1200
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 4000,
+        "fileName": "breakfast.jpg",
+        "id": "4b76a9ab-4c16-408c-9823-3f8d7f2c3b42",
+        "fileSize": 5239371,
+        "resourceUri": "/authoring/v1/resources/c4309895-be3d-4f2a-a790-e2ef15f2f05b",
+        "width": 6000
+      }
+    },
+    "bannerText": {
+      "elementType": "text",
+      "value": "Breakfast"
+    },
+    "category": {
+      "elementType": "category",
+      "categoryIds": [
+        "d9ea5c56-70e2-49e0-881d-cebbf8f6c575"
+      ]
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "recipe-category-page-layout"
+      }
+    }
+  ]
+}

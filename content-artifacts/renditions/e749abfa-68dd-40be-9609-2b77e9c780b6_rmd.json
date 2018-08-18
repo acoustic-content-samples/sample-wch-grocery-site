@@ -1,0 +1,20 @@
+{
+  "scale": 0.3516998827667057,
+  "locationY": 0,
+  "height": 300,
+  "locationX": 25,
+  "rev": "1-c99c5725c6405c49afed55c5de356881",
+  "id": "e749abfa-68dd-40be-9609-2b77e9c780b6",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 853,
+    "fileName": "grilled-chicken.jpeg",
+    "id": "c88a5162-23e7-4f93-8016-a7fdea3d7f26",
+    "resource": "b3353dc7-2220-4392-a250-c06c0ee89873",
+    "fileSize": 207231,
+    "width": 1280
+  },
+  "width": 400,
+  "created": "2018-07-23T13:28:22.057Z"
+}

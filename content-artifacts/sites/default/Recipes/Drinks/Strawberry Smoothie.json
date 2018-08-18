@@ -1,0 +1,16 @@
+{
+  "name": "Strawberry Smoothie",
+  "segment": "strawberry-smoothie",
+  "layoutId": "recipe-page-layout",
+  "description": "",
+  "contentTypeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "title": "Strawberry Smoothie | Freshery",
+  "contentId": "a41f279e-b93f-4de2-b0d0-c55b2ed4cbc1",
+  "hideFromNavigation": false,
+  "contentStatus": "ready",
+  "classification": "page",
+  "position": 1,
+  "id": "b81ccc0e-5657-4aa5-818c-05d26ee69aa6",
+  "rev": "4-303703cdb5bcb5fea9b4305cb1acc935",
+  "parentId": "c387503a-2cc3-4141-aaaf-a10ad1a8bb5b"
+}

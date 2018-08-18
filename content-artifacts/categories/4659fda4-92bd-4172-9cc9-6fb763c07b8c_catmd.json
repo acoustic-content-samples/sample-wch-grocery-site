@@ -1,0 +1,21 @@
+{
+  "id": "4659fda4-92bd-4172-9cc9-6fb763c07b8c",
+  "rev": "2-43645f66d26bcf52c33b208f59cb9a7c",
+  "name": "Recipe Categories",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "creator": "Bruce Wayne",
+  "classification": "taxonomy",
+  "firstClassFor": [
+    ""
+  ],
+  "namePath": [
+    "Recipe Categories"
+  ],
+  "links": {
+    "self": {
+      "href": "/authoring/v1/categories/4659fda4-92bd-4172-9cc9-6fb763c07b8c"
+    }
+  },
+  "created": "2018-07-23T13:26:28.935Z",
+  "lastModified": "2018-07-23T13:29:59.010Z"
+}

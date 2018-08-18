@@ -1,0 +1,85 @@
+{
+  "rev": "3-aa2bb85412078a07b47688db264015e1",
+  "id": "d6434b46-be07-4bb1-bc4f-089241a02041",
+  "mediaType": "image/jpeg",
+  "name": "waffles.jpg",
+  "path": "/dxdam/d6/d6434b46-be07-4bb1-bc4f-089241a02041/waffles.jpg",
+  "digest": "6ipfYx4l7bL4g9KcII2BPQ==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-23T13:30:17.767Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:banquet",
+      "classification:meal",
+      "classification:nutrition",
+      "classification:food",
+      "classification:bone china",
+      "classification:porcelain",
+      "classification:utensil",
+      "classification:tableware",
+      "classification:pale yellow color"
+    ],
+    "declined": [],
+    "suggested": [
+      "classification:banquet",
+      "classification:meal",
+      "classification:nutrition",
+      "classification:food",
+      "classification:bone china",
+      "classification:porcelain",
+      "classification:utensil",
+      "classification:tableware",
+      "classification:pale yellow color"
+    ],
+    "analysis": "complete"
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "waffles.jpg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:17.767Z",
+  "cognitive": {
+    "classifications": [
+      "banquet",
+      "meal",
+      "nutrition",
+      "food",
+      "bone china",
+      "porcelain",
+      "utensil",
+      "tableware",
+      "pale yellow color"
+    ],
+    "faces": [],
+    "colors": {
+      "lightMuted": "#d4bbab",
+      "darkMuted": "#41586a",
+      "lightVibrant": "#f1cda1",
+      "vibrant": "#da7f25",
+      "muted": "#987f5b",
+      "darkVibrant": "#7d4818"
+    },
+    "status": "complete"
+  },
+  "resource": "49fab47c-33ed-4926-a92f-c6c067209c32",
+  "fileSize": 5117056,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=49fab47c-33ed-4926-a92f-c6c067209c32&a=d6434b46-be07-4bb1-bc4f-089241a02041",
+      "source": "/authoring/v1/resources/49fab47c-33ed-4926-a92f-c6c067209c32"
+    }
+  },
+  "metadata": {
+    "width": 6000,
+    "height": 4000
+  },
+  "classification": "asset",
+  "created": "2018-07-23T13:28:07.055Z",
+  "isManaged": true
+}

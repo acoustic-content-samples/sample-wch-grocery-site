@@ -1,0 +1,24 @@
+{
+  "id": "815bc1bf-80d9-4bc7-9635-b98f319ed15e",
+  "rev": "2-6bb92e3756279bdf739dbe4428e29ea8",
+  "name": "Profile for banner",
+  "classification": "image-profile",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "created": "2017-11-05T12:48:44.003Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-23T13:29:58.271Z",
+  "dimensions": [
+    {
+      "label": "Large",
+      "key": "large",
+      "width": 2500,
+      "height": 1200
+    },
+    {
+      "label": "Medium",
+      "key": "medium",
+      "width": 400,
+      "height": 300
+    }
+  ]
+}

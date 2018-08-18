@@ -1,0 +1,69 @@
+{
+  "id": "1e0ad544-b30e-4a34-9d3c-d0506c7f4c9f",
+  "rev": "2-413d5a453655b7c719c689cd0b32150a",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "3c38285d-e8fd-499e-9f4e-3f40d7bec023",
+  "name": "Snacks",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:34.297Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-23T13:30:30.594Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:30.594Z",
+  "elements": {
+    "bannerImage": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=15ecb204-284f-4a8e-a576-b1e57dd614b8&a=11db1a8d-3c4d-44b2-bda8-71684917ebd3",
+          "source": "/authoring/v1/resources/15ecb204-284f-4a8e-a576-b1e57dd614b8",
+          "width": 3840,
+          "height": 4189
+        },
+        "medium": {
+          "renditionId": "d7f85f72-b5e3-4112-80bb-d48d44602fe1",
+          "source": "/authoring/v1/resources/15ecb204-284f-4a8e-a576-b1e57dd614b8?resize=400px:436px&crop=400:300;0,68",
+          "width": 400,
+          "height": 300
+        },
+        "large": {
+          "renditionId": "b8a6d076-0de1-401c-b182-3f7e0d7a9760",
+          "source": "/authoring/v1/resources/15ecb204-284f-4a8e-a576-b1e57dd614b8?resize=2500px:2727px&crop=2500:1200;0,764",
+          "width": 2500,
+          "height": 1200
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 4189,
+        "fileName": "biscuits.jpg",
+        "id": "11db1a8d-3c4d-44b2-bda8-71684917ebd3",
+        "fileSize": 3420250,
+        "resourceUri": "/authoring/v1/resources/15ecb204-284f-4a8e-a576-b1e57dd614b8",
+        "width": 3840
+      }
+    },
+    "bannerText": {
+      "elementType": "text",
+      "value": "Snacks"
+    },
+    "category": {
+      "elementType": "category",
+      "categoryIds": [
+        "e146dba1-f494-4f18-80b5-2da08b1326a0"
+      ]
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "recipe-category-page-layout"
+      }
+    }
+  ]
+}

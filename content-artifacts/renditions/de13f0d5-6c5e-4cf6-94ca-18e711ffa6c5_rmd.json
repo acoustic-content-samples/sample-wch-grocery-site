@@ -1,0 +1,20 @@
+{
+  "scale": 0.3516998827667057,
+  "locationY": 0,
+  "height": 300,
+  "locationX": 25,
+  "rev": "1-65d886312f3889adf3d5f074988bbe18",
+  "id": "de13f0d5-6c5e-4cf6-94ca-18e711ffa6c5",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 853,
+    "fileName": "truffles.jpg",
+    "id": "806b149b-d354-422e-aee6-85ac63581cf7",
+    "resource": "4b8f4ebf-202b-459e-9113-df75e99d7af8",
+    "fileSize": 144175,
+    "width": 1280
+  },
+  "width": 400,
+  "created": "2018-07-23T13:28:21.156Z"
+}

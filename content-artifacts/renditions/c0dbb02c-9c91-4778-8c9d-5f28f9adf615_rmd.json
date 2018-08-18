@@ -1,0 +1,20 @@
+{
+  "scale": 0.10416666666666667,
+  "locationY": 68,
+  "height": 300,
+  "locationX": 0,
+  "rev": "1-1392e7e2b16c0bea1c307501e3954fec",
+  "id": "c0dbb02c-9c91-4778-8c9d-5f28f9adf615",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 4189,
+    "fileName": "biscuits.jpg",
+    "id": "11db1a8d-3c4d-44b2-bda8-71684917ebd3",
+    "resource": "15ecb204-284f-4a8e-a576-b1e57dd614b8",
+    "fileSize": 3420250,
+    "width": 3840
+  },
+  "width": 400,
+  "created": "2018-07-23T13:28:18.580Z"
+}

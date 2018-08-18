@@ -1,0 +1,93 @@
+{
+  "id": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "rev": "2-1cbe8fbfc2dbc183360e41e304432c87",
+  "name": "Recipe page",
+  "classification": "content-type",
+  "kind": [
+    "standalone",
+    "page"
+  ],
+  "contentThumbnail": {
+    "imageElement": "image",
+    "source": "imageElementOrType"
+  },
+  "description": "",
+  "status": "ready",
+  "tags": [],
+  "elements": [
+    {
+      "elementType": "text",
+      "label": "Title",
+      "key": "title",
+      "required": true,
+      "minLength": 1
+    },
+    {
+      "elementType": "image",
+      "label": "Image",
+      "key": "image",
+      "required": true,
+      "imageProfileId": "c98c7357-009e-46d6-bd25-cfd9313af9be",
+      "acceptType": [
+        "jpg",
+        "jpeg",
+        "png",
+        "gif"
+      ]
+    },
+    {
+      "elementType": "text",
+      "label": "Author",
+      "key": "author",
+      "required": true,
+      "minLength": 1
+    },
+    {
+      "elementType": "datetime",
+      "label": "Date",
+      "key": "date",
+      "required": true
+    },
+    {
+      "elementType": "formattedtext",
+      "label": "Description",
+      "key": "description",
+      "required": true
+    },
+    {
+      "elementType": "formattedtext",
+      "label": "Ingredients",
+      "key": "ingredients",
+      "required": true
+    },
+    {
+      "elementType": "formattedtext",
+      "label": "Method",
+      "key": "method",
+      "required": true
+    },
+    {
+      "elementType": "category",
+      "label": "Category",
+      "key": "category",
+      "required": true,
+      "restrictedParents": [
+        "4659fda4-92bd-4172-9cc9-6fb763c07b8c"
+      ]
+    },
+    {
+      "elementType": "category",
+      "label": "Nutritional Features",
+      "key": "nutritionalFeatures",
+      "required": true,
+      "restrictedParents": [
+        "32588fc6-c8e5-4d3c-b117-266b1f1e4546"
+      ]
+    },
+    {
+      "elementType": "link",
+      "label": "Link",
+      "key": "link"
+    }
+  ]
+}

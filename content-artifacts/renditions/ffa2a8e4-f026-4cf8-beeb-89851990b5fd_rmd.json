@@ -1,0 +1,20 @@
+{
+  "scale": 0.2777777777777778,
+  "locationY": 117,
+  "height": 300,
+  "locationX": 0,
+  "rev": "1-b7a41c6253aea46e90e91b2606f46cb1",
+  "id": "ffa2a8e4-f026-4cf8-beeb-89851990b5fd",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 1920,
+    "fileName": "parfait.jpg",
+    "id": "0f218b75-9184-4b0d-8d81-7ec0a64c3dca",
+    "resource": "e3ae6b97-2bdb-434c-833e-7545908da8db",
+    "fileSize": 399725,
+    "width": 1440
+  },
+  "width": 400,
+  "created": "2018-07-29T07:46:11.454Z"
+}

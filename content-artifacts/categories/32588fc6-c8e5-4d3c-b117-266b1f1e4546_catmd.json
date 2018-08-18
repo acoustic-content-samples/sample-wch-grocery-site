@@ -1,0 +1,21 @@
+{
+  "id": "32588fc6-c8e5-4d3c-b117-266b1f1e4546",
+  "rev": "2-e433a70eda2226a203af036d0783faae",
+  "name": "Nutritional Features",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "creator": "Bruce Wayne",
+  "classification": "taxonomy",
+  "firstClassFor": [
+    ""
+  ],
+  "namePath": [
+    "Nutritional Features"
+  ],
+  "links": {
+    "self": {
+      "href": "/authoring/v1/categories/32588fc6-c8e5-4d3c-b117-266b1f1e4546"
+    }
+  },
+  "created": "2018-07-23T13:26:27.884Z",
+  "lastModified": "2018-07-23T13:29:59.101Z"
+}

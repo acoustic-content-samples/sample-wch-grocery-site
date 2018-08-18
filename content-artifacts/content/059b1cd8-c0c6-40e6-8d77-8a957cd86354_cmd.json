@@ -1,0 +1,87 @@
+{
+  "id": "059b1cd8-c0c6-40e6-8d77-8a957cd86354",
+  "rev": "2-e21dc6c1d1036f9652e51306434ff1e9",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "d16d1ad4-3709-4092-85ea-a8875562475b",
+  "name": "Gourmet Ingredients",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:34.303Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-23T13:30:30.621Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:30.621Z",
+  "elements": {
+    "location": {
+      "elementType": "location",
+      "latitude": -33.82316,
+      "longitude": 151.19676
+    },
+    "endDate": {
+      "elementType": "datetime",
+      "value": "2027-11-17T08:00:00Z"
+    },
+    "image": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=20b88e72-10db-4575-8942-40415363d2f8&a=42d21cfd-6c01-4188-beae-f77aeb83a010",
+          "source": "/authoring/v1/resources/20b88e72-10db-4575-8942-40415363d2f8",
+          "width": 5760,
+          "height": 3840
+        },
+        "large": {
+          "renditionId": "dc698004-b5ea-4b3b-b569-68973e838f93",
+          "source": "/authoring/v1/resources/20b88e72-10db-4575-8942-40415363d2f8?resize=750px:500px&crop=600:500;75,0",
+          "width": 600,
+          "height": 500
+        },
+        "medium": {
+          "renditionId": "92bad730-4781-4d9a-ab0e-03abf54a7fa6",
+          "source": "/authoring/v1/resources/20b88e72-10db-4575-8942-40415363d2f8?resize=450px:300px&crop=400:300;25,0",
+          "width": 400,
+          "height": 300
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 3840,
+        "fileName": "salami.jpg",
+        "id": "42d21cfd-6c01-4188-beae-f77aeb83a010",
+        "fileSize": 3383960,
+        "resourceUri": "/authoring/v1/resources/20b88e72-10db-4575-8942-40415363d2f8",
+        "width": 5760
+      }
+    },
+    "description": {
+      "elementType": "formattedtext",
+      "value": "<p>Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada.</p>\n"
+    },
+    "link": {
+      "elementType": "link"
+    },
+    "address": {
+      "elementType": "formattedtext",
+      "value": "<p>Freshery,<br />\n601 Pacific Highway<br />\nSt Leonards, NSW 2065</p>\n"
+    },
+    "title": {
+      "elementType": "text",
+      "value": "Gourmet Ingredients"
+    },
+    "startDate": {
+      "elementType": "datetime",
+      "value": "2027-11-17T06:00:00Z"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "event-page-layout"
+      }
+    }
+  ]
+}

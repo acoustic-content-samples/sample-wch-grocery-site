@@ -1,0 +1,16 @@
+{
+  "name": "Spaghetti Workshop",
+  "segment": "spaghetti-workshop",
+  "layoutId": "event-page-layout",
+  "description": "",
+  "contentTypeId": "d16d1ad4-3709-4092-85ea-a8875562475b",
+  "title": "Spaghetti Workshop | Freshery",
+  "contentId": "3fc3cb42-bdbb-43e1-aea2-5781688264ee",
+  "hideFromNavigation": false,
+  "contentStatus": "ready",
+  "classification": "page",
+  "position": 6,
+  "id": "ac6295dd-39b4-4b85-9516-93b47c554a63",
+  "rev": "2-fe556f49a76b6fa08edd0ec830c068db",
+  "parentId": "f22e0f36-7998-4ef4-9629-02b3ed2431ec"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "contact-layout",
+  "rev": "2-68ebe13bec63ea48385221263abeb865",
+  "name": "contactLayout",
+  "classification": "layout",
+  "prerender": false,
+  "thumbnail": {
+    "path": "/layouts/thumbnails/contact-layout.jpg"
+  },
+  "template": "contact-layout",
+  "templateType": "angular"
+}

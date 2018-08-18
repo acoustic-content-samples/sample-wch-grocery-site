@@ -1,0 +1,69 @@
+{
+  "id": "393f0927-4c72-424f-b88c-e9e85dc1edbd",
+  "rev": "2-3a57651b770ef23da16e059680068cef",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "3c38285d-e8fd-499e-9f4e-3f40d7bec023",
+  "name": "Salads",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:35.329Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-23T13:30:31.235Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:31.235Z",
+  "elements": {
+    "bannerImage": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=01dea1bf-d354-4379-ac2e-c24550caea6f&a=8f853e88-c647-4edb-bcf8-e222bb680320",
+          "source": "/authoring/v1/resources/01dea1bf-d354-4379-ac2e-c24550caea6f",
+          "width": 4979,
+          "height": 3456
+        },
+        "large": {
+          "renditionId": "09febbad-9ec5-4c3f-81a6-1e90f0a60572",
+          "source": "/authoring/v1/resources/01dea1bf-d354-4379-ac2e-c24550caea6f?resize=2500px:1735px&crop=2500:1200;0,268",
+          "width": 2500,
+          "height": 1200
+        },
+        "medium": {
+          "renditionId": "e8be9496-f77e-4b3d-8fd5-24e620375bf5",
+          "source": "/authoring/v1/resources/01dea1bf-d354-4379-ac2e-c24550caea6f?resize=432px:300px&crop=400:300;16,0",
+          "width": 400,
+          "height": 300
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 3456,
+        "fileName": "salad.jpg",
+        "id": "8f853e88-c647-4edb-bcf8-e222bb680320",
+        "fileSize": 2749853,
+        "resourceUri": "/authoring/v1/resources/01dea1bf-d354-4379-ac2e-c24550caea6f",
+        "width": 4979
+      }
+    },
+    "bannerText": {
+      "elementType": "text",
+      "value": "Salads"
+    },
+    "category": {
+      "elementType": "category",
+      "categoryIds": [
+        "d12e47f4-1b1e-4d63-83bb-48e5acab5852"
+      ]
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "recipe-category-page-layout"
+      }
+    }
+  ]
+}

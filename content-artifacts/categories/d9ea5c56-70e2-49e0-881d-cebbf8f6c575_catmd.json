@@ -1,0 +1,30 @@
+{
+  "id": "d9ea5c56-70e2-49e0-881d-cebbf8f6c575",
+  "rev": "2-203de71922f81e7ae9e800b05325d436",
+  "name": "Breakfast",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "creator": "Bruce Wayne",
+  "classification": "category",
+  "taxonomy": "4659fda4-92bd-4172-9cc9-6fb763c07b8c",
+  "parent": "4659fda4-92bd-4172-9cc9-6fb763c07b8c",
+  "ancestorIds": [
+    "4659fda4-92bd-4172-9cc9-6fb763c07b8c"
+  ],
+  "namePath": [
+    "Recipe Categories",
+    "Breakfast"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/4659fda4-92bd-4172-9cc9-6fb763c07b8c"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/d9ea5c56-70e2-49e0-881d-cebbf8f6c575"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/4659fda4-92bd-4172-9cc9-6fb763c07b8c"
+    }
+  },
+  "created": "2018-07-23T13:26:30.631Z",
+  "lastModified": "2018-07-23T13:30:00.477Z"
+}

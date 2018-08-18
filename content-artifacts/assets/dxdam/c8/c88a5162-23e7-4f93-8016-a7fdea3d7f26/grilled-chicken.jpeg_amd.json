@@ -1,0 +1,98 @@
+{
+  "rev": "3-e0dba99cf3424a5807c8aed3ffac8d63",
+  "id": "c88a5162-23e7-4f93-8016-a7fdea3d7f26",
+  "mediaType": "image/jpeg",
+  "name": "grilled-chicken.jpeg",
+  "path": "/dxdam/c8/c88a5162-23e7-4f93-8016-a7fdea3d7f26/grilled-chicken.jpeg",
+  "digest": "nlqmdISihJd2n3ZHtQc2og==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-23T13:30:16.549Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:cannelloni",
+      "classification:pasta",
+      "classification:dish",
+      "classification:nutrition",
+      "classification:food",
+      "classification:Grilled Salmon",
+      "classification:fish stick",
+      "classification:barbecued wing",
+      "classification:scallopine",
+      "classification:pin",
+      "classification:reddish orange color"
+    ],
+    "declined": [],
+    "suggested": [
+      "classification:cannelloni",
+      "classification:pasta",
+      "classification:dish",
+      "classification:nutrition",
+      "classification:food",
+      "classification:Grilled Salmon",
+      "classification:fish stick",
+      "classification:barbecued wing",
+      "classification:scallopine",
+      "classification:pin",
+      "classification:reddish orange color"
+    ],
+    "analysis": "complete"
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "grilled-chicken.jpeg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:16.549Z",
+  "cognitive": {
+    "classifications": [
+      "cannelloni",
+      "pasta",
+      "dish",
+      "nutrition",
+      "food",
+      "Grilled Salmon",
+      "fish stick",
+      "barbecued wing",
+      "scallopine",
+      "pin",
+      "reddish orange color"
+    ],
+    "faces": [],
+    "colors": {
+      "lightMuted": "#c5cfa0",
+      "darkMuted": "#594246",
+      "lightVibrant": "#fbf7a1",
+      "vibrant": "#d94612",
+      "muted": "#b86c60",
+      "darkVibrant": "#85250c"
+    },
+    "status": "complete"
+  },
+  "resource": "b3353dc7-2220-4392-a250-c06c0ee89873",
+  "fileSize": 207231,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=b3353dc7-2220-4392-a250-c06c0ee89873&a=c88a5162-23e7-4f93-8016-a7fdea3d7f26",
+      "source": "/authoring/v1/resources/b3353dc7-2220-4392-a250-c06c0ee89873"
+    }
+  },
+  "metadata": {
+    "width": 1280,
+    "height": 853,
+    "camera": {
+      "shutterSpeed": "1/100",
+      "model": "Canon EOS REBEL T2i",
+      "aperture": 3.5,
+      "make": "Canon",
+      "focalLength": 50
+    }
+  },
+  "classification": "asset",
+  "created": "2018-07-23T13:27:45.931Z",
+  "isManaged": true
+}

@@ -1,0 +1,69 @@
+{
+  "id": "6a8c50bc-b08e-46e8-b75b-29d563533447",
+  "rev": "2-836cedbff713516dcc6cf0684b6073f2",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "3c38285d-e8fd-499e-9f4e-3f40d7bec023",
+  "name": "Drinks",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:37.322Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-23T13:30:32.154Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:32.154Z",
+  "elements": {
+    "bannerImage": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=ae16f56c-af2b-435e-954b-e7a8e5949812&a=ed0a5ef0-c456-4ed1-b901-07b1c2ea98e6",
+          "source": "/authoring/v1/resources/ae16f56c-af2b-435e-954b-e7a8e5949812",
+          "width": 5759,
+          "height": 3839
+        },
+        "large": {
+          "renditionId": "0f48a5c0-7761-43db-9495-344b15df9a10",
+          "source": "/authoring/v1/resources/ae16f56c-af2b-435e-954b-e7a8e5949812?resize=2500px:1667px&crop=2500:1200;0,233",
+          "width": 2500,
+          "height": 1200
+        },
+        "medium": {
+          "renditionId": "1c043217-2669-46fd-8a21-43418ca1c040",
+          "source": "/authoring/v1/resources/ae16f56c-af2b-435e-954b-e7a8e5949812?resize=450px:300px&crop=400:300;25,0",
+          "width": 400,
+          "height": 300
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 3839,
+        "fileName": "strawberry-drink.jpg",
+        "id": "ed0a5ef0-c456-4ed1-b901-07b1c2ea98e6",
+        "fileSize": 3368749,
+        "resourceUri": "/authoring/v1/resources/ae16f56c-af2b-435e-954b-e7a8e5949812",
+        "width": 5759
+      }
+    },
+    "bannerText": {
+      "elementType": "text",
+      "value": "Drinks"
+    },
+    "category": {
+      "elementType": "category",
+      "categoryIds": [
+        "abe64a12-f970-4410-ba6c-cdfd3462e734"
+      ]
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "recipe-category-page-layout"
+      }
+    }
+  ]
+}

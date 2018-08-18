@@ -1,0 +1,20 @@
+{
+  "scale": 0.3125,
+  "locationY": 117,
+  "height": 300,
+  "locationX": 0,
+  "rev": "1-1b0e269b62b4ee05b785114b7a201cd8",
+  "id": "9c59872e-8176-43a9-94f9-0d91e8c9b90d",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 1706,
+    "fileName": "avocado-egg.jpeg",
+    "id": "1c9fbcd4-19af-4902-b92d-2bbcf6913310",
+    "resource": "52fd31b9-4344-4f84-9497-01d7b9d4b139",
+    "fileSize": 515040,
+    "width": 1280
+  },
+  "width": 400,
+  "created": "2018-07-23T13:28:16.649Z"
+}

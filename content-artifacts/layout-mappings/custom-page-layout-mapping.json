@@ -1,0 +1,21 @@
+{
+  "id": "custom-page-layout-mapping",
+  "rev": "2-d012ed9c715153bc74199e9f34227832",
+  "name": "customPageLayoutMapping",
+  "classification": "layout-mapping",
+  "type": {
+    "id": "f35a691d-7ca7-4106-9c80-e1e617f68e12"
+  },
+  "mappings": [
+    {
+      "defaultLayout": {
+        "id": "custom-page-layout"
+      },
+      "layouts": [
+        {
+          "id": "custom-page-layout"
+        }
+      ]
+    }
+  ]
+}

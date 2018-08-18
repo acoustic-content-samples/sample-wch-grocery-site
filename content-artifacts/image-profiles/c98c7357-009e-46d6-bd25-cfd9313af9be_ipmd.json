@@ -1,0 +1,24 @@
+{
+  "id": "c98c7357-009e-46d6-bd25-cfd9313af9be",
+  "rev": "2-a98f25b6f49447dade578e2041e9a7ec",
+  "name": "Profile for recipe",
+  "classification": "image-profile",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "created": "2017-11-05T11:32:54.930Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-23T13:29:58.265Z",
+  "dimensions": [
+    {
+      "label": "Large",
+      "key": "large",
+      "width": 600,
+      "height": 500
+    },
+    {
+      "label": "Medium",
+      "key": "medium",
+      "width": 400,
+      "height": 300
+    }
+  ]
+}

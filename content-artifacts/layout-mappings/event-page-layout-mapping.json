@@ -1,0 +1,21 @@
+{
+  "id": "event-page-layout-mapping",
+  "rev": "2-332bd413aaf0dced8a82897e39efdbda",
+  "name": "eventPageLayoutMapping",
+  "classification": "layout-mapping",
+  "type": {
+    "id": "d16d1ad4-3709-4092-85ea-a8875562475b"
+  },
+  "mappings": [
+    {
+      "defaultLayout": {
+        "id": "event-page-layout"
+      },
+      "layouts": [
+        {
+          "id": "event-page-layout"
+        }
+      ]
+    }
+  ]
+}

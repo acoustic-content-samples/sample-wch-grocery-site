@@ -1,0 +1,12 @@
+{
+  "id": "slide-layout",
+  "rev": "2-60c749461079beeb85d8f873ac212adf",
+  "name": "slideLayout",
+  "classification": "layout",
+  "prerender": false,
+  "thumbnail": {
+    "path": "/layouts/thumbnails/slide-layout.jpg"
+  },
+  "template": "slide-layout",
+  "templateType": "angular"
+}

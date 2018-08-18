@@ -1,0 +1,82 @@
+{
+  "rev": "3-6c791fd708261338676b925424939f91",
+  "id": "0f218b75-9184-4b0d-8d81-7ec0a64c3dca",
+  "mediaType": "image/jpeg",
+  "name": "parfait.jpg",
+  "path": "/dxdam/0f/0f218b75-9184-4b0d-8d81-7ec0a64c3dca/parfait.jpg",
+  "digest": "5TRc91OdPUbFcQHOc4oSsQ==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-23T13:30:11.013Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:parfait",
+      "classification:dessert",
+      "classification:nutrition",
+      "classification:food",
+      "classification:yogurt",
+      "classification:dairy product",
+      "classification:food product",
+      "classification:chocolate color"
+    ],
+    "declined": [],
+    "suggested": [
+      "classification:parfait",
+      "classification:dessert",
+      "classification:nutrition",
+      "classification:food",
+      "classification:yogurt",
+      "classification:dairy product",
+      "classification:food product",
+      "classification:chocolate color"
+    ],
+    "analysis": "complete"
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "parfait.jpg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:11.013Z",
+  "cognitive": {
+    "classifications": [
+      "parfait",
+      "dessert",
+      "nutrition",
+      "food",
+      "yogurt",
+      "dairy product",
+      "food product",
+      "chocolate color"
+    ],
+    "faces": [],
+    "colors": {
+      "lightMuted": "#c3cda0",
+      "darkMuted": "#374a23",
+      "lightVibrant": "#d0c099",
+      "vibrant": "#ac4454",
+      "muted": "#b39b79",
+      "darkVibrant": "#5c342b"
+    },
+    "status": "complete"
+  },
+  "resource": "e3ae6b97-2bdb-434c-833e-7545908da8db",
+  "fileSize": 399725,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=e3ae6b97-2bdb-434c-833e-7545908da8db&a=0f218b75-9184-4b0d-8d81-7ec0a64c3dca",
+      "source": "/authoring/v1/resources/e3ae6b97-2bdb-434c-833e-7545908da8db"
+    }
+  },
+  "metadata": {
+    "width": 1440,
+    "height": 1920
+  },
+  "classification": "asset",
+  "created": "2018-07-23T13:26:50.923Z",
+  "isManaged": true
+}

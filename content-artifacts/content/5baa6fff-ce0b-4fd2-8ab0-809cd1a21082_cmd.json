@@ -1,0 +1,35 @@
+{
+  "id": "5baa6fff-ce0b-4fd2-8ab0-809cd1a21082",
+  "rev": "2-25dab4a87b474863541368f033311e33",
+  "kind": [],
+  "classification": "content",
+  "typeId": "ef333692-773c-4fcf-999c-5ca16359e03d",
+  "name": "About",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:36.301Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-23T13:30:31.802Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:31.802Z",
+  "elements": {
+    "heading": {
+      "elementType": "text",
+      "value": "Healthy food, healthy cooking"
+    },
+    "body": {
+      "elementType": "formattedtext",
+      "value": "<p>At&nbsp;<strong>Freshery</strong>, we believe in healthy cooking and healthy eating. We are committed to teaching people how to prepare meals that are both nutritious and delicious. We support local growers, and all our suppliers are certified organic, and pesticide and GMO-free.</p>\n\n<p>All our in-store ingredients are, where possible, sourced from local producers. We give preference to organically grown, pesticide-free produce, and our eggs are free-range.</p>\n\n<p>We test-drive all our online recipes. Why not book into one of our cooking classes and see for yourself?</p>\n\n<p>Interested in learning how to cook nutritious but delicious meals that are simple to prepare? Why not sign-up for one of our in-store cooking lessons from our team of friendly and informative chefs?</p>\n\n<p>Like what you see? All the ingredients for our online recipes are available at our store!</p>\n"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "about-layout"
+      }
+    }
+  ],
+  "keywords": [],
+  "locale": "en"
+}

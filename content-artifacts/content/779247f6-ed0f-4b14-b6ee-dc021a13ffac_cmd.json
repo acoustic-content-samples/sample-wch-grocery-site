@@ -1,0 +1,62 @@
+{
+  "id": "779247f6-ed0f-4b14-b6ee-dc021a13ffac",
+  "rev": "3-7aa350c522c2e07179aa63d7b6ba6826",
+  "kind": [],
+  "classification": "content",
+  "typeId": "7f8606a0-eead-4728-8cd2-ed24705412c0",
+  "name": "Featured recipes",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:43.141Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-29T08:27:32.959Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-29T08:27:32.959Z",
+  "elements": {
+    "heading": {
+      "elementType": "text",
+      "value": "Featured Recipes"
+    },
+    "subheading": {
+      "elementType": "text",
+      "value": "Popular meals this season."
+    },
+    "viewAllLink": {
+      "elementType": "link",
+      "linkURL": "/recipes",
+      "linkText": "View all"
+    },
+    "items": {
+      "elementType": "reference",
+      "values": [
+        {
+          "id": "0dd26aef-6bad-4f48-90b7-c00ca9e8912c"
+        },
+        {
+          "id": "4a8a6b1d-1ef8-4d69-9000-9a4748589eaf"
+        },
+        {
+          "id": "96dfb92e-10ba-4064-80fc-f0b47bb94b81"
+        },
+        {
+          "id": "59abc917-be60-4169-b7a6-6584973c41db"
+        },
+        {
+          "id": "29f7bec4-dc65-4c98-9e11-1206a3cd9e39"
+        },
+        {
+          "id": "e065602b-81e3-4962-90ca-4f3f67b6de6b"
+        }
+      ]
+    }
+  },
+  "keywords": [],
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "list-layout"
+      }
+    }
+  ]
+}

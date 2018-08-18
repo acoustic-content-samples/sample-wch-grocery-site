@@ -1,0 +1,99 @@
+{
+  "id": "568a80cc-16ae-48fc-abc9-72f16bab55a0",
+  "rev": "3-5125d38b9f37265e62375e0ca0f29fc1",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "name": "Fried Rice",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:36.346Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-29T08:27:32.120Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-29T08:27:32.120Z",
+  "elements": {
+    "method": {
+      "elementType": "formattedtext",
+      "value": "<ol>\n\t<li>Fry the sliced beef in a wok for three minutes and set aside on a plate when done.</li>\n\t<li>Heat the wok over high heat.</li>\n\t<li>Pour beaten egg into wok, stirring constantly. Cook for 2 minutes until eggs are a little scrambled.</li>\n\t<li>Add sliced beef and stir for 1 minute.</li>\n\t<li>Next add the leftover rice and stir fry for another 3 minutes.</li>\n\t<li>Add soy sauce and sesame oil and stir fry for another 3 minutes.</li>\n\t<li>Sprinkle with chopped spring onions and serve.</li>\n</ol>\n"
+    },
+    "author": {
+      "elementType": "text",
+      "value": "Patrick Wong"
+    },
+    "image": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=5ad796ca-2e89-41ad-b05f-caabd66df805&a=e633cb79-791b-4a58-8c15-02218e34bb73",
+          "source": "/authoring/v1/resources/5ad796ca-2e89-41ad-b05f-caabd66df805",
+          "width": 1280,
+          "height": 955
+        },
+        "large": {
+          "renditionId": "b77f3c06-872c-4176-ac58-3088baa09261",
+          "source": "/authoring/v1/resources/5ad796ca-2e89-41ad-b05f-caabd66df805?resize=670px:500px&crop=600:500;35,0",
+          "width": 600,
+          "height": 500
+        },
+        "medium": {
+          "renditionId": "c53b3f6d-9028-4fa6-9e89-0072411ca72b",
+          "source": "/authoring/v1/resources/5ad796ca-2e89-41ad-b05f-caabd66df805?resize=402px:300px&crop=400:300;1,0",
+          "width": 400,
+          "height": 300
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 955,
+        "fileName": "fried-rice.jpg",
+        "id": "e633cb79-791b-4a58-8c15-02218e34bb73",
+        "fileSize": 343224,
+        "resourceUri": "/authoring/v1/resources/5ad796ca-2e89-41ad-b05f-caabd66df805",
+        "width": 1280
+      }
+    },
+    "description": {
+      "elementType": "formattedtext",
+      "value": "<p>7 servings</p>\n"
+    },
+    "date": {
+      "elementType": "datetime",
+      "value": "2017-11-04T13:00:00Z"
+    },
+    "nutritionalFeatures": {
+      "elementType": "category",
+      "categoryIds": [
+        "28f50fcc-b98e-4399-83a4-9a815164b5a7",
+        "7606a94c-49a7-46ff-b392-00ffebadb3d7"
+      ]
+    },
+    "link": {
+      "elementType": "link"
+    },
+    "ingredients": {
+      "elementType": "formattedtext",
+      "value": "<p>1 tbsp vegetable oil<br />\n1 egg, beaten<br />\n300g sliced beef<br />\n250g leftover cooked rice<br />\n1 tbsp soy sauce<br />\n1 tbsp sesame oil<br />\nSalt<br />\nSpring onions</p>\n"
+    },
+    "category": {
+      "elementType": "category",
+      "categoryIds": [
+        "5a665c19-18d2-4a46-b377-571e0161541c"
+      ]
+    },
+    "title": {
+      "elementType": "text",
+      "value": "Fried Rice"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "recipe-page-layout"
+      }
+    }
+  ]
+}

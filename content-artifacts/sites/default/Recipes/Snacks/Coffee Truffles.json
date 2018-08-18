@@ -1,0 +1,16 @@
+{
+  "name": "Coffee Truffles",
+  "segment": "coffee-truffles",
+  "layoutId": "recipe-page-layout",
+  "description": "",
+  "contentTypeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "title": "Coffee Truffles | Freshery",
+  "contentId": "811a1b53-7423-4ea1-80ad-4066c0dde664",
+  "hideFromNavigation": false,
+  "contentStatus": "ready",
+  "classification": "page",
+  "position": 1,
+  "id": "4ef49770-f49b-43cc-ba89-823cf2530f40",
+  "rev": "4-b2db59813e6f2916fdcf2e9f6d188808",
+  "parentId": "c532613f-57ee-4cbf-8c21-8d2e824d142c"
+}

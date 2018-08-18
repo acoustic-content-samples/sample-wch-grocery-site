@@ -1,0 +1,30 @@
+{
+  "id": "04a7971f-77a3-4fc1-a26c-9b1e433ccb6a",
+  "rev": "2-30d7d09905fa155ecaa9e9a0e6026582",
+  "name": "Paleo",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "creator": "Bruce Wayne",
+  "classification": "category",
+  "taxonomy": "32588fc6-c8e5-4d3c-b117-266b1f1e4546",
+  "parent": "32588fc6-c8e5-4d3c-b117-266b1f1e4546",
+  "ancestorIds": [
+    "32588fc6-c8e5-4d3c-b117-266b1f1e4546"
+  ],
+  "namePath": [
+    "Nutritional Features",
+    "Paleo"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/32588fc6-c8e5-4d3c-b117-266b1f1e4546"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/04a7971f-77a3-4fc1-a26c-9b1e433ccb6a"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/32588fc6-c8e5-4d3c-b117-266b1f1e4546"
+    }
+  },
+  "created": "2018-07-23T13:26:29.173Z",
+  "lastModified": "2018-07-23T13:29:59.711Z"
+}

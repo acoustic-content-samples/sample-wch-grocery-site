@@ -1,0 +1,99 @@
+{
+  "id": "e0f03f7c-964f-40a3-be8e-c74b78c4c5a1",
+  "rev": "31-1d1e1bacb1f93ad121f2ff1c13e4546b",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "name": "Pumpkin soup",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-29T08:15:40.605Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-29T08:27:33.289Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-29T08:27:33.289Z",
+  "elements": {
+    "method": {
+      "elementType": "formattedtext",
+      "value": "<ol>\n\t<li>Heat butter over medium heat in a large saucepan.</li>\n\t<li>Add onion and garlic and saute for 3-4 minutes until tender.</li>\n\t<li>Add pumpkin and potatoes and saute for 5 more minutes.</li>\n\t<li>Pour in the stock and simmer for 15-20 minutes until the potatoes are just tender.</li>\n\t<li>Blend the mixture until smooth. Add a little more water if you prefer a thinner soup.</li>\n\t<li>Serve with chopped chives.</li>\n</ol>\n"
+    },
+    "author": {
+      "elementType": "text",
+      "value": "Victor Chan"
+    },
+    "image": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=51f62c9a-de36-402f-abbe-10eec790c865&a=b900ceff-eefc-44ba-8716-9414de11cba1",
+          "source": "/authoring/v1/resources/51f62c9a-de36-402f-abbe-10eec790c865",
+          "width": 1280,
+          "height": 853
+        },
+        "medium": {
+          "renditionId": "4477de64-bd6b-4ed1-b58f-20908405bf5f",
+          "source": "/authoring/v1/resources/51f62c9a-de36-402f-abbe-10eec790c865?resize=450px:300px&crop=400:300;25,0",
+          "width": 400,
+          "height": 300
+        },
+        "large": {
+          "renditionId": "b2fb528a-3976-4618-bde3-f69118fb52d4",
+          "source": "/authoring/v1/resources/51f62c9a-de36-402f-abbe-10eec790c865?resize=750px:500px&crop=600:500;75,0",
+          "width": 600,
+          "height": 500
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 853,
+        "fileName": "pumpkin-soup.jpg",
+        "id": "b900ceff-eefc-44ba-8716-9414de11cba1",
+        "fileSize": 250386,
+        "resourceUri": "/authoring/v1/resources/51f62c9a-de36-402f-abbe-10eec790c865",
+        "width": 1280
+      }
+    },
+    "description": {
+      "elementType": "formattedtext",
+      "value": "<p>Quick and easy to make pumpkin soup for all occasions.</p>\n"
+    },
+    "date": {
+      "elementType": "datetime",
+      "value": "2018-07-28T14:00:00Z"
+    },
+    "nutritionalFeatures": {
+      "elementType": "category",
+      "categoryIds": [
+        "e2b0aebf-78d5-4057-a303-a02132b81657",
+        "28f50fcc-b98e-4399-83a4-9a815164b5a7"
+      ]
+    },
+    "link": {
+      "elementType": "link"
+    },
+    "ingredients": {
+      "elementType": "formattedtext",
+      "value": "<p>1kg pumpkin, peeled and chopped<br />\n500g potatoes, peeled and chopped<br />\n2 tbsp butter<br />\n1/2 medium onion, chopped<br />\n1 small garlic, chopped<br />\n2 cups chicken or vegetable stock<br />\n2 tbsp chives, chopped</p>\n"
+    },
+    "category": {
+      "elementType": "category",
+      "categoryIds": [
+        "290141be-6ca4-420c-a7e6-cf6bfcfa0380"
+      ]
+    },
+    "title": {
+      "elementType": "text",
+      "value": "Pumpkin soup"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "recipe-page-layout"
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "rev": "3-2969bd78e08b0fd0d3aa1a09d6fe9217",
+  "id": "98fe6aa9-183b-41af-b8c6-e193c27313dd",
+  "mediaType": "image/jpeg",
+  "name": "quinoa-salad.jpg",
+  "path": "/dxdam/98/98fe6aa9-183b-41af-b8c6-e193c27313dd/quinoa-salad.jpg",
+  "digest": "Qc7o7jHUkNSc1gr3uVAW+A==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-23T13:30:15.427Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:arame (seaweed)",
+      "classification:algae",
+      "classification:microorganism",
+      "classification:saute",
+      "classification:dish",
+      "classification:nutrition",
+      "classification:food",
+      "classification:food product",
+      "classification:vegetable",
+      "classification:greenishness color",
+      "classification:emerald color"
+    ],
+    "declined": [],
+    "suggested": [
+      "classification:arame (seaweed)",
+      "classification:algae",
+      "classification:microorganism",
+      "classification:saute",
+      "classification:dish",
+      "classification:nutrition",
+      "classification:food",
+      "classification:food product",
+      "classification:vegetable",
+      "classification:greenishness color",
+      "classification:emerald color"
+    ],
+    "analysis": "complete"
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "quinoa-salad.jpg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:15.427Z",
+  "cognitive": {
+    "classifications": [
+      "arame (seaweed)",
+      "algae",
+      "microorganism",
+      "saute",
+      "dish",
+      "nutrition",
+      "food",
+      "food product",
+      "vegetable",
+      "greenishness color",
+      "emerald color"
+    ],
+    "faces": [],
+    "colors": {
+      "lightMuted": "#cac1a9",
+      "darkMuted": "#355330",
+      "lightVibrant": "#cba873",
+      "vibrant": "#ca4f10",
+      "muted": "#8c806f",
+      "darkVibrant": "#872e08"
+    },
+    "status": "complete"
+  },
+  "resource": "a8ed8677-083f-4f06-b01e-76feb1bf48d5",
+  "fileSize": 240736,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=a8ed8677-083f-4f06-b01e-76feb1bf48d5&a=98fe6aa9-183b-41af-b8c6-e193c27313dd",
+      "source": "/authoring/v1/resources/a8ed8677-083f-4f06-b01e-76feb1bf48d5"
+    }
+  },
+  "metadata": {
+    "width": 1280,
+    "height": 853,
+    "camera": {
+      "shutterSpeed": "1/1000",
+      "model": "ILCE-7M2",
+      "aperture": 0,
+      "make": "SONY",
+      "focalLength": 0
+    }
+  },
+  "classification": "asset",
+  "created": "2018-07-23T13:27:43.582Z",
+  "isManaged": true
+}

@@ -1,0 +1,112 @@
+{
+  "rev": "3-238ab2dcd74d3176cf4f35eab42c6e9e",
+  "id": "8f853e88-c647-4edb-bcf8-e222bb680320",
+  "mediaType": "image/jpeg",
+  "name": "salad.jpg",
+  "path": "/dxdam/8f/8f853e88-c647-4edb-bcf8-e222bb680320/salad.jpg",
+  "digest": "Wvv0tOdJM5WIMreYrGBuCw==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-23T13:30:14.280Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:chef's salad",
+      "classification:tossed salad",
+      "classification:salad",
+      "classification:dish",
+      "classification:nutrition",
+      "classification:food",
+      "classification:arame (seaweed)",
+      "classification:algae",
+      "classification:microorganism",
+      "classification:half-and-half dressing",
+      "classification:dressing",
+      "classification:sauce",
+      "classification:condiment",
+      "classification:food seasoning",
+      "classification:food ingredient",
+      "classification:food product",
+      "classification:green salad",
+      "classification:greenishness color"
+    ],
+    "declined": [],
+    "suggested": [
+      "classification:chef's salad",
+      "classification:tossed salad",
+      "classification:salad",
+      "classification:dish",
+      "classification:nutrition",
+      "classification:food",
+      "classification:arame (seaweed)",
+      "classification:algae",
+      "classification:microorganism",
+      "classification:half-and-half dressing",
+      "classification:dressing",
+      "classification:sauce",
+      "classification:condiment",
+      "classification:food seasoning",
+      "classification:food ingredient",
+      "classification:food product",
+      "classification:green salad",
+      "classification:greenishness color"
+    ],
+    "analysis": "complete"
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "salad.jpg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:14.280Z",
+  "cognitive": {
+    "classifications": [
+      "chef's salad",
+      "tossed salad",
+      "salad",
+      "dish",
+      "nutrition",
+      "food",
+      "arame (seaweed)",
+      "algae",
+      "microorganism",
+      "half-and-half dressing",
+      "dressing",
+      "sauce",
+      "condiment",
+      "food seasoning",
+      "food ingredient",
+      "food product",
+      "green salad",
+      "greenishness color"
+    ],
+    "faces": [],
+    "colors": {
+      "lightMuted": "#cac8b0",
+      "darkMuted": "#3c5630",
+      "lightVibrant": "#c9d18c",
+      "vibrant": "#bf5524",
+      "muted": "#908e5c",
+      "darkVibrant": "#8e4c1f"
+    },
+    "status": "complete"
+  },
+  "resource": "01dea1bf-d354-4379-ac2e-c24550caea6f",
+  "fileSize": 2749853,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=01dea1bf-d354-4379-ac2e-c24550caea6f&a=8f853e88-c647-4edb-bcf8-e222bb680320",
+      "source": "/authoring/v1/resources/01dea1bf-d354-4379-ac2e-c24550caea6f"
+    }
+  },
+  "metadata": {
+    "width": 4979,
+    "height": 3456
+  },
+  "classification": "asset",
+  "created": "2018-07-23T13:27:41.732Z",
+  "isManaged": true
+}

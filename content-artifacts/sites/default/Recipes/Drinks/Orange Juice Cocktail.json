@@ -1,0 +1,16 @@
+{
+  "name": "Orange Juice Cocktail",
+  "hideFromNavigation": false,
+  "segment": "orange-juice-cocktail",
+  "layoutId": "recipe-page-layout",
+  "description": "Orange Juice Cocktail | Freshery",
+  "contentTypeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "title": "Orange Juice Cocktail",
+  "classification": "page",
+  "contentId": "e82b8830-5c20-4009-9176-d07b06c40690",
+  "contentStatus": "ready",
+  "position": 0,
+  "id": "79e140d1-477a-4ba9-af4f-e6f610dbdeff",
+  "rev": "3-e2de43b17c6060e1354aec3696c0f6ce",
+  "parentId": "c387503a-2cc3-4141-aaaf-a10ad1a8bb5b"
+}

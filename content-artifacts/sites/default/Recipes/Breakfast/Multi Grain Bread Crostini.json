@@ -1,0 +1,16 @@
+{
+  "name": "Multi Grain Bread Crostini",
+  "segment": "multi-grain-bread-crostini",
+  "layoutId": "recipe-page-layout",
+  "description": "",
+  "contentTypeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "title": "Multi Grain Bread Crostini | Freshery",
+  "contentId": "729cb66c-06b8-41b5-91d1-e2d96f651f2f",
+  "hideFromNavigation": false,
+  "contentStatus": "ready",
+  "classification": "page",
+  "position": 1,
+  "id": "17ace311-2e87-4eb3-b4fb-7af23a8fc498",
+  "rev": "4-935d177c640266a54edcd95b84d6e7b3",
+  "parentId": "d9286b1d-d203-4ed3-98c2-5d12447781fb"
+}

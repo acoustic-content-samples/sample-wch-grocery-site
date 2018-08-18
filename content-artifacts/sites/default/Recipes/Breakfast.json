@@ -1,0 +1,16 @@
+{
+  "name": "Breakfast",
+  "segment": "breakfast",
+  "layoutId": "recipe-category-page-layout",
+  "description": "",
+  "contentTypeId": "3c38285d-e8fd-499e-9f4e-3f40d7bec023",
+  "title": "Breakfast Recipes | Freshery",
+  "contentId": "b9752c75-b39e-4015-8d0c-6a899c062ad7",
+  "hideFromNavigation": false,
+  "contentStatus": "ready",
+  "classification": "page",
+  "position": 1,
+  "id": "d9286b1d-d203-4ed3-98c2-5d12447781fb",
+  "rev": "5-cfd4280064269446b36e4da6fd5bdac7",
+  "parentId": "7ee0834e-e6f8-48bc-89b3-09ac6e78c452"
+}

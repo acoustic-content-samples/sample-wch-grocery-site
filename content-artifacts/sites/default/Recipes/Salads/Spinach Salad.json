@@ -1,0 +1,16 @@
+{
+  "name": "Spinach Salad",
+  "hideFromNavigation": false,
+  "segment": "spinach-salad",
+  "layoutId": "recipe-page-layout",
+  "description": "Spinach Salad | Freshery",
+  "contentTypeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "title": "Spinach Salad",
+  "classification": "page",
+  "contentId": "0dd26aef-6bad-4f48-90b7-c00ca9e8912c",
+  "contentStatus": "ready",
+  "position": 2,
+  "id": "496af1be-e407-463d-b1c8-d72af2413b1a",
+  "rev": "3-134c56297ecca403474ca624d27cbcfe",
+  "parentId": "cf7c9c0e-4d00-45c8-aadf-480cc98ede2e"
+}

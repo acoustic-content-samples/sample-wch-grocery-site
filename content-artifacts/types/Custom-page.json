@@ -1,0 +1,58 @@
+{
+  "id": "f35a691d-7ca7-4106-9c80-e1e617f68e12",
+  "rev": "2-e76ff203912379f41c21171972c3c1ba",
+  "name": "Custom page",
+  "classification": "content-type",
+  "kind": [
+    "standalone",
+    "page"
+  ],
+  "contentThumbnail": {
+    "imageElement": "bannerImage",
+    "source": "imageElementOrType"
+  },
+  "description": "",
+  "status": "ready",
+  "tags": [],
+  "elements": [
+    {
+      "elementType": "image",
+      "label": "Banner image",
+      "key": "bannerImage",
+      "imageProfileId": "815bc1bf-80d9-4bc7-9635-b98f319ed15e",
+      "acceptType": [
+        "jpg",
+        "jpeg",
+        "png",
+        "gif"
+      ]
+    },
+    {
+      "elementType": "text",
+      "label": "Banner text",
+      "key": "bannerText"
+    },
+    {
+      "elementType": "reference",
+      "label": "Page content",
+      "key": "pageContent",
+      "restrictTypes": [
+        {
+          "id": "ef333692-773c-4fcf-999c-5ca16359e03d"
+        },
+        {
+          "id": "a0827940-d345-4e9c-be0e-fa6bd7d8b63d"
+        },
+        {
+          "id": "367908ac-e711-4662-a531-91d3ada05508"
+        },
+        {
+          "id": "7f8606a0-eead-4728-8cd2-ed24705412c0"
+        },
+        {
+          "id": "02a19c37-22b6-4543-a67b-a09c83f51864"
+        }
+      ]
+    }
+  ]
+}

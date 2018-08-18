@@ -1,0 +1,99 @@
+{
+  "id": "96dfb92e-10ba-4064-80fc-f0b47bb94b81",
+  "rev": "3-06c1990ec9695f3d2e13b21ec50aad2d",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "name": "Blueberry Muffins",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:38.303Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-29T08:27:32.125Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-29T08:27:32.125Z",
+  "elements": {
+    "method": {
+      "elementType": "formattedtext",
+      "value": "<ol>\n\t<li>Preheat oven to 200&deg;C.</li>\n\t<li>Line a 12 hole muffin tray with muffin cases.</li>\n\t<li>Sift the self raising flour into a large bowl. Add sugar and stir together to form a dry mixture.</li>\n\t<li>In a separate bowl, whisk egg, milk and vegetable oil together to form a liquid mixture.</li>\n\t<li>Gently pour the liquid mixture into the bowl of dry mixture. Stir with a spoon until slightly lumpy, without over-mixing.</li>\n\t<li>Evenly fold in blueberries.</li>\n\t<li>Divide mixture evenly into the muffin cases and sprinkle sugar on top.</li>\n\t<li>Bake for 25 minutes until lightly golden.</li>\n\t<li>Allow to cool for 5 minutes in muffin tray, before transferring to wire rack.</li>\n</ol>\n"
+    },
+    "author": {
+      "elementType": "text",
+      "value": "Silvia Bova"
+    },
+    "image": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=ad21151c-32b5-4f77-b4b9-15d4e96e18c9&a=ae9c065a-33a9-4b12-8417-152aae50716e",
+          "source": "/authoring/v1/resources/ad21151c-32b5-4f77-b4b9-15d4e96e18c9",
+          "width": 1280,
+          "height": 853
+        },
+        "large": {
+          "renditionId": "23a331bd-93fc-4d66-a2bd-598c2632888c",
+          "source": "/authoring/v1/resources/ad21151c-32b5-4f77-b4b9-15d4e96e18c9?resize=750px:500px&crop=600:500;75,0",
+          "width": 600,
+          "height": 500
+        },
+        "medium": {
+          "renditionId": "cf95bebe-655f-4c71-9090-84797344ff26",
+          "source": "/authoring/v1/resources/ad21151c-32b5-4f77-b4b9-15d4e96e18c9?resize=450px:300px&crop=400:300;25,0",
+          "width": 400,
+          "height": 300
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 853,
+        "fileName": "blueberry-muffins.jpg",
+        "id": "ae9c065a-33a9-4b12-8417-152aae50716e",
+        "fileSize": 310576,
+        "resourceUri": "/authoring/v1/resources/ad21151c-32b5-4f77-b4b9-15d4e96e18c9",
+        "width": 1280
+      }
+    },
+    "description": {
+      "elementType": "formattedtext",
+      "value": "<p>Delicious and easy to make blueberry muffins.</p>\n"
+    },
+    "date": {
+      "elementType": "datetime",
+      "value": "2017-11-04T13:00:00Z"
+    },
+    "nutritionalFeatures": {
+      "elementType": "category",
+      "categoryIds": [
+        "28f50fcc-b98e-4399-83a4-9a815164b5a7",
+        "e2b0aebf-78d5-4057-a303-a02132b81657"
+      ]
+    },
+    "link": {
+      "elementType": "link"
+    },
+    "ingredients": {
+      "elementType": "formattedtext",
+      "value": "<p>2 cups self-raising flour<br />\n1/2 cup brown sugar<br />\n1 egg, beaten<br />\n1 cup milk<br />\n1/2 cup vegetable oil<br />\n3/4 cup fresh blueberries</p>\n"
+    },
+    "category": {
+      "elementType": "category",
+      "categoryIds": [
+        "e146dba1-f494-4f18-80b5-2da08b1326a0"
+      ]
+    },
+    "title": {
+      "elementType": "text",
+      "value": "Blueberry Muffins"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "recipe-page-layout"
+      }
+    }
+  ]
+}

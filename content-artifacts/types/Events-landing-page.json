@@ -1,0 +1,36 @@
+{
+  "id": "1bd0a2e7-4b14-404a-a117-79147aee560b",
+  "rev": "2-4aa99125d171daa6fe17c8a8a8fd6793",
+  "name": "Events landing page",
+  "classification": "content-type",
+  "kind": [
+    "standalone",
+    "page"
+  ],
+  "contentThumbnail": {
+    "imageElement": "bannerImage",
+    "source": "imageElementOrType"
+  },
+  "description": "",
+  "status": "ready",
+  "tags": [],
+  "elements": [
+    {
+      "elementType": "image",
+      "label": "Banner image",
+      "key": "bannerImage",
+      "imageProfileId": "815bc1bf-80d9-4bc7-9635-b98f319ed15e",
+      "acceptType": [
+        "jpg",
+        "jpeg",
+        "png",
+        "gif"
+      ]
+    },
+    {
+      "elementType": "text",
+      "label": "Banner text",
+      "key": "bannerText"
+    }
+  ]
+}

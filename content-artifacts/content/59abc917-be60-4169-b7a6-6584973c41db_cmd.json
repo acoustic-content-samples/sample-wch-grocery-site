@@ -1,0 +1,98 @@
+{
+  "id": "59abc917-be60-4169-b7a6-6584973c41db",
+  "rev": "26-bbca3919638335686330e6a82d7902af",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "name": "Pork Dumplings",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-29T08:08:41.982Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-29T08:27:32.617Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-29T08:27:32.617Z",
+  "elements": {
+    "method": {
+      "elementType": "formattedtext",
+      "value": "<ol>\n\t<li>In a bowl, mix the pork, egg, flour, cabbage and scallions to make the filling mixture.</li>\n\t<li>Scoop 1tbsp of mixture into the middle of a dumpling sheet. Adjust the amount of filling depending on size of your sheets.</li>\n\t<li>Fold the sheet in half and press the edges together to seal the mixture inside. If you find that the edges don&#39;t stick easily, adding a small amount of water or egg yolk to the edge before pressing may help. Repeat until all of the mixture is used up.</li>\n\t<li>Place the dumplings inside a steamer pot and steam for 15 minutes or until the dumpling skin becomes soft and slightly translucent.</li>\n\t<li>To make the dipping sauce, mix the soy sauce, sugar and a few scallion pieces in a small dish. Ensure that the sugar has been completely disolved before serving.</li>\n\t<li>Enjoy!</li>\n</ol>\n"
+    },
+    "author": {
+      "elementType": "text",
+      "value": "Clarissa Wisan"
+    },
+    "image": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=3237377b-9261-483d-855b-f646f143db89&a=db2041d5-c586-4d44-9ac4-cdd56ae7c4f8",
+          "source": "/authoring/v1/resources/3237377b-9261-483d-855b-f646f143db89",
+          "width": 1920,
+          "height": 1280
+        },
+        "large": {
+          "renditionId": "383a313f-2dd9-4435-893e-07976b058bb4",
+          "source": "/authoring/v1/resources/3237377b-9261-483d-855b-f646f143db89?resize=750px:500px&crop=600:500;75,0",
+          "width": 600,
+          "height": 500
+        },
+        "medium": {
+          "renditionId": "f33524e0-a1dc-4dbf-8023-3f9867094e1d",
+          "source": "/authoring/v1/resources/3237377b-9261-483d-855b-f646f143db89?resize=450px:300px&crop=400:300;25,0",
+          "width": 400,
+          "height": 300
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 1280,
+        "fileName": "dumplings.jpeg",
+        "id": "db2041d5-c586-4d44-9ac4-cdd56ae7c4f8",
+        "fileSize": 403443,
+        "resourceUri": "/authoring/v1/resources/3237377b-9261-483d-855b-f646f143db89",
+        "width": 1920
+      }
+    },
+    "description": {
+      "elementType": "formattedtext",
+      "value": "<p>Delicious and easy to make pork dumplings.</p>\n"
+    },
+    "date": {
+      "elementType": "datetime",
+      "value": "2018-07-29T07:00:00Z"
+    },
+    "nutritionalFeatures": {
+      "elementType": "category",
+      "categoryIds": [
+        "7606a94c-49a7-46ff-b392-00ffebadb3d7"
+      ]
+    },
+    "link": {
+      "elementType": "link"
+    },
+    "ingredients": {
+      "elementType": "formattedtext",
+      "value": "<p>1 egg<br />\n200g pork mince<br />\n50g all-purpose flour<br />\n20g shredded nappa cabbage<br />\nDumpling sheets<br />\n2 stalks of scallion, chopped<br />\nWater<br />\n20ml soy sauce<br />\n1tbsp brown sugar</p>\n"
+    },
+    "category": {
+      "elementType": "category",
+      "categoryIds": [
+        "e146dba1-f494-4f18-80b5-2da08b1326a0"
+      ]
+    },
+    "title": {
+      "elementType": "text",
+      "value": "Pork Dumplings"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "recipe-page-layout"
+      }
+    }
+  ]
+}

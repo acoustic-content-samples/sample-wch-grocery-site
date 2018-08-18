@@ -1,0 +1,40 @@
+{
+  "id": "7a2919d4-ec8e-4dd6-a521-a29af9f9471a",
+  "rev": "2-2b17ead446c2bc193b4c6d1f26769645",
+  "kind": [],
+  "classification": "content",
+  "typeId": "02a19c37-22b6-4543-a67b-a09c83f51864",
+  "name": "Home slideshow",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:43.142Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-23T13:30:32.423Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:32.423Z",
+  "elements": {
+    "slides": {
+      "elementType": "reference",
+      "values": [
+        {
+          "id": "cc460f6d-de84-4046-b950-a21e04b106b1"
+        },
+        {
+          "id": "edf01592-e81c-44ac-b87b-20bb33752263"
+        },
+        {
+          "id": "5d5605e4-61ca-46b1-a47b-c08d30bb977f"
+        }
+      ]
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "slideshow-layout"
+      }
+    }
+  ],
+  "keywords": []
+}

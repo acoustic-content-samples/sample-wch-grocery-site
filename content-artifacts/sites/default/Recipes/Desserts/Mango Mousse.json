@@ -1,0 +1,16 @@
+{
+  "name": "Mango Mousse",
+  "hideFromNavigation": false,
+  "segment": "mango-mousse",
+  "layoutId": "recipe-page-layout",
+  "description": "Mango Mousse | Freshery",
+  "contentTypeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "title": "Mango Mousse",
+  "classification": "page",
+  "contentId": "29f7bec4-dc65-4c98-9e11-1206a3cd9e39",
+  "contentStatus": "ready",
+  "position": 1,
+  "id": "2c375d33-1abc-4399-b73e-2c2ae4cf098d",
+  "rev": "4-e991f0bfd5b145f5cda00d10c626c8e1",
+  "parentId": "acee0ab9-e7ef-4eca-b2a4-0010de068d4b"
+}

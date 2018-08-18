@@ -1,0 +1,16 @@
+{
+  "name": "Burger Essentials",
+  "segment": "burger-essentials",
+  "layoutId": "event-page-layout",
+  "description": "",
+  "contentTypeId": "d16d1ad4-3709-4092-85ea-a8875562475b",
+  "title": "Burger Essentials | Freshery",
+  "contentId": "fbdc2f39-36ba-4a67-8619-12aee52d5a66",
+  "hideFromNavigation": false,
+  "contentStatus": "ready",
+  "classification": "page",
+  "position": 0,
+  "id": "539f8762-a3c7-4e07-9ef0-d024657fc795",
+  "rev": "2-388552937d25f1ac01092091f2a5c3fc",
+  "parentId": "f22e0f36-7998-4ef4-9629-02b3ed2431ec"
+}

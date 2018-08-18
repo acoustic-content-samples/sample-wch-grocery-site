@@ -1,0 +1,15 @@
+{
+  "name": "Events",
+  "segment": "events",
+  "layoutId": "events-landing-page-layout",
+  "description": "",
+  "contentTypeId": "1bd0a2e7-4b14-404a-a117-79147aee560b",
+  "title": "Events | Freshery",
+  "contentId": "a8543b43-abc6-43fe-9d79-0379ce1753e2",
+  "hideFromNavigation": false,
+  "contentStatus": "ready",
+  "classification": "page",
+  "position": 3,
+  "id": "f22e0f36-7998-4ef4-9629-02b3ed2431ec",
+  "rev": "10-c7e1eff81ccd59b4144d783e6d9fd024"
+}

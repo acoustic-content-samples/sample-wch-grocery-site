@@ -1,0 +1,12 @@
+{
+  "id": "list-layout",
+  "rev": "2-0fed050ca41610c32dcda7aabdc9b7cb",
+  "name": "listLayout",
+  "classification": "layout",
+  "prerender": false,
+  "thumbnail": {
+    "path": "/layouts/thumbnails/list-layout.jpg"
+  },
+  "template": "list-layout",
+  "templateType": "angular"
+}

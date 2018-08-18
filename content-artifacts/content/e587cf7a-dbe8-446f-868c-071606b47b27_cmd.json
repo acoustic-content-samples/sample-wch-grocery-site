@@ -1,0 +1,100 @@
+{
+  "id": "e587cf7a-dbe8-446f-868c-071606b47b27",
+  "rev": "3-bfeda84d10b7d79665997b6ac0188c67",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "name": "Fruit Salad",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:40.980Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-29T08:27:32.124Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-29T08:27:32.124Z",
+  "elements": {
+    "method": {
+      "elementType": "formattedtext",
+      "value": "<ol>\n\t<li>Whisk red wine vinegar, olive oil and orange juice in a large bowl.</li>\n\t<li>Add sliced apples and rockmelon to the bowl.</li>\n\t<li>Season with salt and pepper. Toss to combine.</li>\n\t<li>Refrigerate for 1 hour before serving on a plate.</li>\n</ol>\n"
+    },
+    "author": {
+      "elementType": "text",
+      "value": "Linda Hou"
+    },
+    "image": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=5e18588b-ad9a-4da2-b16c-b01bd417fdab&a=1f8c0a68-5d16-40af-b55f-32ff9ef41e6d",
+          "source": "/authoring/v1/resources/5e18588b-ad9a-4da2-b16c-b01bd417fdab",
+          "width": 1280,
+          "height": 853
+        },
+        "medium": {
+          "renditionId": "7375ef2b-4278-4e6a-88f4-1259c4fed1e8",
+          "source": "/authoring/v1/resources/5e18588b-ad9a-4da2-b16c-b01bd417fdab?resize=450px:300px&crop=400:300;25,0",
+          "width": 400,
+          "height": 300
+        },
+        "large": {
+          "renditionId": "962b63d4-b48c-40b4-913c-1edb9dfdf8a2",
+          "source": "/authoring/v1/resources/5e18588b-ad9a-4da2-b16c-b01bd417fdab?resize=750px:500px&crop=600:500;75,0",
+          "width": 600,
+          "height": 500
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 853,
+        "fileName": "fruit-salad.jpg",
+        "id": "1f8c0a68-5d16-40af-b55f-32ff9ef41e6d",
+        "fileSize": 210579,
+        "resourceUri": "/authoring/v1/resources/5e18588b-ad9a-4da2-b16c-b01bd417fdab",
+        "width": 1280
+      }
+    },
+    "description": {
+      "elementType": "formattedtext",
+      "value": "<p>The perfect fruit salad for a backyard BBQ or any occasion. There are never leftovers!</p>\n\n<p>This salad is tastier the longer you can let it soak in its juices.</p>\n"
+    },
+    "date": {
+      "elementType": "datetime",
+      "value": "2017-10-31T13:00:00Z"
+    },
+    "nutritionalFeatures": {
+      "elementType": "category",
+      "categoryIds": [
+        "88e66051-f370-4221-b14d-79fff4052be3",
+        "833f56e0-b96c-4de2-99f0-fd662f91a80d",
+        "19302a65-34ad-45db-a7bb-d834a19437da"
+      ]
+    },
+    "link": {
+      "elementType": "link"
+    },
+    "ingredients": {
+      "elementType": "formattedtext",
+      "value": "<p>2 tbsp red wine vinegar<br />\n2 tbsp extra-virgin olive oil<br />\n2 tbsp orange juice<br />\n2 apples, sliced<br />\n1/2 rockmelon, sliced<br />\n2/3 cup walnuts, chopped<br />\nSalt and pepper</p>\n"
+    },
+    "category": {
+      "elementType": "category",
+      "categoryIds": [
+        "d12e47f4-1b1e-4d63-83bb-48e5acab5852"
+      ]
+    },
+    "title": {
+      "elementType": "text",
+      "value": "Fruit Salad"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "recipe-page-layout"
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "id": "60b3909c-e9fc-40e1-8b0b-8558d5c39419",
+  "rev": "3-592621314b257a394e21f9a10f77ab77",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "name": "Seafood Salad",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:37.308Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-29T08:27:32.121Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-29T08:27:32.121Z",
+  "elements": {
+    "method": {
+      "elementType": "formattedtext",
+      "value": "<ol>\n\t<li>Pour the 6 cups of water in a large saucepan, add salt and boil over medium high heat.</li>\n\t<li>Add squid and cook for 3 minutes until tender. Remove squid with a slotted spoon and drain in ice water. Cut squid into small pieces and place in a large bowl.</li>\n\t<li>Add shrimp to boiling water and cook for 3 minutes until tender. Remove squid with a slotted spoon and drain in ice water. Place squid in the large bowl with squid.</li>\n\t<li>Add octopus to simmering water and simmer for 2 hours until tender. Remove octopus with a slotted spoon and drain in ice water. Cut octopus into small pieces and place in the large bowl.</li>\n\t<li>Add crab stick meat to the bowl of seafood mixture.</li>\n\t<li>Finely chop the fresh herbs.</li>\n\t<li>Add the herbs, olive oil, lemon juice and minced garlic into the seafood bowl. Toss to combine.</li>\n\t<li>Transfer to a plate and serve with lemon wedges as garnish.</li>\n</ol>\n"
+    },
+    "author": {
+      "elementType": "text",
+      "value": "Linda Hou"
+    },
+    "image": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=55599bd1-294c-4c28-bc5d-ea6f7c6922d7&a=2fe802b6-bfff-4023-9184-88d4680d5261",
+          "source": "/authoring/v1/resources/55599bd1-294c-4c28-bc5d-ea6f7c6922d7",
+          "width": 1280,
+          "height": 853
+        },
+        "large": {
+          "renditionId": "041456ec-fc25-4efc-a03b-050edd61dcb5",
+          "source": "/authoring/v1/resources/55599bd1-294c-4c28-bc5d-ea6f7c6922d7?resize=750px:500px&crop=600:500;75,0",
+          "width": 600,
+          "height": 500
+        },
+        "medium": {
+          "renditionId": "3265c0d9-4069-41e8-9877-10f57e4bc1e6",
+          "source": "/authoring/v1/resources/55599bd1-294c-4c28-bc5d-ea6f7c6922d7?resize=450px:300px&crop=400:300;25,0",
+          "width": 400,
+          "height": 300
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 853,
+        "fileName": "seafood-salad.jpg",
+        "id": "2fe802b6-bfff-4023-9184-88d4680d5261",
+        "fileSize": 253160,
+        "resourceUri": "/authoring/v1/resources/55599bd1-294c-4c28-bc5d-ea6f7c6922d7",
+        "width": 1280
+      }
+    },
+    "description": {
+      "elementType": "formattedtext",
+      "value": "<p>A very quick and versatile pasta-free seafood salad. This is a basic recipe - feel free to add your own spin (grated carrots, diced green or red capsicums, red cabbage, seasonings).</p>\n"
+    },
+    "date": {
+      "elementType": "datetime",
+      "value": "2017-11-04T13:00:00Z"
+    },
+    "nutritionalFeatures": {
+      "elementType": "category",
+      "categoryIds": [
+        "28f50fcc-b98e-4399-83a4-9a815164b5a7",
+        "bf37ba27-1bd6-4df9-89c0-67aa19abf2ad",
+        "19302a65-34ad-45db-a7bb-d834a19437da"
+      ]
+    },
+    "link": {
+      "elementType": "link"
+    },
+    "ingredients": {
+      "elementType": "formattedtext",
+      "value": "<p>6 cups water<br />\n1 tsp salt<br />\n300g squid, cleaned<br />\n300g shrimp, peeled and deveined<br />\n300g octopus, cleaned &nbsp;<br />\n300g crab stick meat, chopped<br />\n1/4 cup fresh lemon juice<br />\n&nbsp;3 cups mixed fresh herb leaves (mint, basil, parsley)<br />\n2 tbsp extra virgin olive oil<br />\n2 garlic cloves, minced<br />\nLemon wedges</p>\n"
+    },
+    "category": {
+      "elementType": "category",
+      "categoryIds": [
+        "d12e47f4-1b1e-4d63-83bb-48e5acab5852"
+      ]
+    },
+    "title": {
+      "elementType": "text",
+      "value": "Seafood Salad"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "recipe-page-layout"
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "fbdc2f39-36ba-4a67-8619-12aee52d5a66",
+  "rev": "2-0266443d0e4ce17115228a5c2a812681",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "d16d1ad4-3709-4092-85ea-a8875562475b",
+  "name": "Burger Essentials",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:42.042Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-23T13:30:34.386Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:34.386Z",
+  "elements": {
+    "location": {
+      "elementType": "location",
+      "latitude": -33.82316,
+      "longitude": 151.19676
+    },
+    "endDate": {
+      "elementType": "datetime",
+      "value": "2027-11-25T08:30:00Z"
+    },
+    "image": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=b7e12207-1c0c-42eb-8f9c-3bd059200f60&a=7438a76f-f7a9-447a-b9db-379b4ddab625",
+          "source": "/authoring/v1/resources/b7e12207-1c0c-42eb-8f9c-3bd059200f60",
+          "width": 5184,
+          "height": 3456
+        },
+        "large": {
+          "renditionId": "ee940c79-8ba5-4bc1-9874-b946edad3827",
+          "source": "/authoring/v1/resources/b7e12207-1c0c-42eb-8f9c-3bd059200f60?resize=750px:500px&crop=600:500;75,0",
+          "width": 600,
+          "height": 500
+        },
+        "medium": {
+          "renditionId": "5fe22ce1-0883-4223-a3d1-c3276262d972",
+          "source": "/authoring/v1/resources/b7e12207-1c0c-42eb-8f9c-3bd059200f60?resize=450px:300px&crop=400:300;25,0",
+          "width": 400,
+          "height": 300
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 3456,
+        "fileName": "burger-ingredients.jpg",
+        "id": "7438a76f-f7a9-447a-b9db-379b4ddab625",
+        "fileSize": 2630348,
+        "resourceUri": "/authoring/v1/resources/b7e12207-1c0c-42eb-8f9c-3bd059200f60",
+        "width": 5184
+      }
+    },
+    "description": {
+      "elementType": "formattedtext",
+      "value": "<p>Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada.</p>\n"
+    },
+    "link": {
+      "elementType": "link"
+    },
+    "address": {
+      "elementType": "formattedtext",
+      "value": "<p>Freshery,<br />\n601 Pacific Highway<br />\nSt Leonards, NSW 2065</p>\n"
+    },
+    "title": {
+      "elementType": "text",
+      "value": "Burger Essentials"
+    },
+    "startDate": {
+      "elementType": "datetime",
+      "value": "2027-11-25T06:30:00Z"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "event-page-layout"
+      }
+    }
+  ]
+}

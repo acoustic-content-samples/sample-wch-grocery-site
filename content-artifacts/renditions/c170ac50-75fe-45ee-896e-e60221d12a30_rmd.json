@@ -1,0 +1,20 @@
+{
+  "scale": 0.08223684210526316,
+  "locationY": 0,
+  "height": 300,
+  "locationX": 25,
+  "rev": "1-b74b0c242f39ff6c8abb1499144cf03c",
+  "id": "c170ac50-75fe-45ee-896e-e60221d12a30",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 3648,
+    "fileName": "ingredients.jpg",
+    "id": "60f4eeaa-bbb2-46ac-b702-3fca9a327ee7",
+    "resource": "76696404-9a73-4e23-8859-3b050875be7e",
+    "fileSize": 3652027,
+    "width": 5472
+  },
+  "width": 400,
+  "created": "2018-07-23T13:28:19.296Z"
+}

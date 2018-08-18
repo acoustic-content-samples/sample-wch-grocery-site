@@ -1,0 +1,16 @@
+{
+  "name": "Soups",
+  "segment": "soups",
+  "layoutId": "recipe-category-page-layout",
+  "description": "",
+  "contentTypeId": "3c38285d-e8fd-499e-9f4e-3f40d7bec023",
+  "title": "Soup Recipes | Freshery",
+  "contentId": "f083fc67-ae97-4145-827b-072b915ed2a0",
+  "hideFromNavigation": false,
+  "contentStatus": "ready",
+  "classification": "page",
+  "position": 7,
+  "id": "c71582fa-9e5c-4536-a74a-7d489881c015",
+  "rev": "6-2984e5ef82304d096781d5e984ad40c8",
+  "parentId": "7ee0834e-e6f8-48bc-89b3-09ac6e78c452"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Shrimp Spaghetti",
+  "segment": "shrimp-spaghetti",
+  "layoutId": "recipe-page-layout",
+  "description": "",
+  "contentTypeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "title": "Shrimp Spaghetti | Freshery",
+  "contentId": "e065602b-81e3-4962-90ca-4f3f67b6de6b",
+  "hideFromNavigation": false,
+  "contentStatus": "ready",
+  "classification": "page",
+  "position": 3,
+  "id": "c11dc0aa-e818-4338-af96-bd4f98230bf0",
+  "rev": "4-1c96cd752430b0c13c783d2461b29b2c",
+  "parentId": "22ce37b2-ac77-4f7b-8ba3-c0cccedb4c55"
+}

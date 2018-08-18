@@ -1,0 +1,20 @@
+{
+  "scale": 0.3516998827667057,
+  "locationY": 0,
+  "height": 300,
+  "locationX": 25,
+  "rev": "1-2772e1c2f3a81d7d5ebdf1fcc428b1cc",
+  "id": "cf95bebe-655f-4c71-9090-84797344ff26",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 853,
+    "fileName": "blueberry-muffins.jpg",
+    "id": "ae9c065a-33a9-4b12-8417-152aae50716e",
+    "resource": "ad21151c-32b5-4f77-b4b9-15d4e96e18c9",
+    "fileSize": 310576,
+    "width": 1280
+  },
+  "width": 400,
+  "created": "2018-07-23T13:28:20.253Z"
+}

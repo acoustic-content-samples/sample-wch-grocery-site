@@ -1,0 +1,16 @@
+{
+  "name": "Beef Steak",
+  "segment": "beef-steak",
+  "layoutId": "recipe-page-layout",
+  "description": "",
+  "contentTypeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "title": "Beef Steak | Freshery",
+  "contentId": "af442906-3592-4fc3-ba80-d9cb23ada2fb",
+  "hideFromNavigation": false,
+  "contentStatus": "ready",
+  "classification": "page",
+  "position": 0,
+  "id": "7ece49a5-a5f4-43dc-8648-b4db5fa3775c",
+  "rev": "4-05ef1be29025473639e8d6b2cebec42c",
+  "parentId": "22ce37b2-ac77-4f7b-8ba3-c0cccedb4c55"
+}

@@ -1,0 +1,20 @@
+{
+  "scale": 0.5861664712778429,
+  "locationY": 0,
+  "height": 500,
+  "locationX": 75,
+  "rev": "1-4f8c9596aaca05dc8d6df2a492b665b8",
+  "id": "e0353542-3bc7-4976-bf69-566c50bbb26d",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 853,
+    "fileName": "steak-asparagus.jpeg",
+    "id": "280d62fc-7913-4e60-91fd-4b848f8523d8",
+    "resource": "f2e30641-7228-4165-8fe2-328f6f8687aa",
+    "fileSize": 201568,
+    "width": 1280
+  },
+  "width": 600,
+  "created": "2018-07-23T13:28:21.136Z"
+}

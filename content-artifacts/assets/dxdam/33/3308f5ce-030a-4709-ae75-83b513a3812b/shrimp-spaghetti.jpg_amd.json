@@ -1,0 +1,103 @@
+{
+  "rev": "3-adc0d9d3b9d2c3d44643a1d7d4415ff5",
+  "id": "3308f5ce-030a-4709-ae75-83b513a3812b",
+  "mediaType": "image/jpeg",
+  "name": "shrimp-spaghetti.jpg",
+  "path": "/dxdam/33/3308f5ce-030a-4709-ae75-83b513a3812b/shrimp-spaghetti.jpg",
+  "digest": "nMyZ4cOG6lHdq01+I/QOwQ==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-23T13:30:11.967Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:macaroni salad",
+      "classification:salad",
+      "classification:dish",
+      "classification:nutrition",
+      "classification:food",
+      "classification:seafood Newburg",
+      "classification:jambalaya",
+      "classification:salmagundi",
+      "classification:shrimp butter",
+      "classification:spread",
+      "classification:condiment",
+      "classification:food seasoning",
+      "classification:food ingredient",
+      "classification:food product",
+      "classification:beige color"
+    ],
+    "declined": [],
+    "suggested": [
+      "classification:macaroni salad",
+      "classification:salad",
+      "classification:dish",
+      "classification:nutrition",
+      "classification:food",
+      "classification:seafood Newburg",
+      "classification:jambalaya",
+      "classification:salmagundi",
+      "classification:shrimp butter",
+      "classification:spread",
+      "classification:condiment",
+      "classification:food seasoning",
+      "classification:food ingredient",
+      "classification:food product",
+      "classification:beige color"
+    ],
+    "analysis": "complete"
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "shrimp-spaghetti.jpg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:11.967Z",
+  "cognitive": {
+    "classifications": [
+      "macaroni salad",
+      "salad",
+      "dish",
+      "nutrition",
+      "food",
+      "seafood Newburg",
+      "jambalaya",
+      "salmagundi",
+      "shrimp butter",
+      "spread",
+      "condiment",
+      "food seasoning",
+      "food ingredient",
+      "food product",
+      "beige color"
+    ],
+    "faces": [],
+    "colors": {
+      "lightMuted": "#cab1a0",
+      "darkMuted": "#31301e",
+      "lightVibrant": "#e5c491",
+      "vibrant": "#dcac2c",
+      "muted": "#aa7a54",
+      "darkVibrant": "#8a210d"
+    },
+    "status": "complete"
+  },
+  "resource": "4b21820c-c9fb-4fd3-978c-cf1fd5a6cfad",
+  "fileSize": 168940,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=4b21820c-c9fb-4fd3-978c-cf1fd5a6cfad&a=3308f5ce-030a-4709-ae75-83b513a3812b",
+      "source": "/authoring/v1/resources/4b21820c-c9fb-4fd3-978c-cf1fd5a6cfad"
+    }
+  },
+  "metadata": {
+    "width": 1280,
+    "height": 720
+  },
+  "classification": "asset",
+  "created": "2018-07-23T13:26:56.266Z",
+  "isManaged": true
+}

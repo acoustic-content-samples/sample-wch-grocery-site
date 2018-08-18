@@ -1,0 +1,99 @@
+{
+  "id": "a41f279e-b93f-4de2-b0d0-c55b2ed4cbc1",
+  "rev": "3-26298885924dff668f1fd5f8bdb883d8",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "name": "Strawberry Smoothie",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:38.393Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-29T08:27:32.122Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-29T08:27:32.122Z",
+  "elements": {
+    "method": {
+      "elementType": "formattedtext",
+      "value": "<ol>\n\t<li>Wash and hull the strawberries.</li>\n\t<li>Place strawberries, milk, yoghurt and ice into a blender.</li>\n\t<li>Blend on medium speed about 2 minutes or until smooth.</li>\n\t<li>Pour into glasses and serve.</li>\n</ol>\n"
+    },
+    "author": {
+      "elementType": "text",
+      "value": "Linda Hou"
+    },
+    "image": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=97c68cf6-774d-4ca5-bdc6-1e64fc92ae58&a=e2746d2b-1eb1-486a-804d-1b46eb96f823",
+          "source": "/authoring/v1/resources/97c68cf6-774d-4ca5-bdc6-1e64fc92ae58",
+          "width": 1280,
+          "height": 1280
+        },
+        "medium": {
+          "renditionId": "0b0bdde0-7e5f-4cdd-84c8-35e8ad3d13cb",
+          "source": "/authoring/v1/resources/97c68cf6-774d-4ca5-bdc6-1e64fc92ae58?resize=400px:400px&crop=400:300;0,50",
+          "width": 400,
+          "height": 300
+        },
+        "large": {
+          "renditionId": "c76f1b9b-3576-4c1c-9fe3-4dcb12f8565f",
+          "source": "/authoring/v1/resources/97c68cf6-774d-4ca5-bdc6-1e64fc92ae58?resize=600px:600px&crop=600:500;0,50",
+          "width": 600,
+          "height": 500
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 1280,
+        "fileName": "strawberry-smoothie.jpg",
+        "id": "e2746d2b-1eb1-486a-804d-1b46eb96f823",
+        "fileSize": 361392,
+        "resourceUri": "/authoring/v1/resources/97c68cf6-774d-4ca5-bdc6-1e64fc92ae58",
+        "width": 1280
+      }
+    },
+    "description": {
+      "elementType": "formattedtext",
+      "value": "<p>A beautiful, creamy strawberries flavoured smoothie.</p>\n"
+    },
+    "date": {
+      "elementType": "datetime",
+      "value": "2017-11-04T13:00:00Z"
+    },
+    "nutritionalFeatures": {
+      "elementType": "category",
+      "categoryIds": [
+        "720dfca3-e078-4761-966d-00a3ce878b80",
+        "e2b0aebf-78d5-4057-a303-a02132b81657"
+      ]
+    },
+    "link": {
+      "elementType": "link"
+    },
+    "ingredients": {
+      "elementType": "formattedtext",
+      "value": "<p>1 cup fresh strawberries<br />\n1/2 cup milk<br />\n1/2 cup plain yoghurt<br />\n6 cubes ice, crushed</p>\n"
+    },
+    "category": {
+      "elementType": "category",
+      "categoryIds": [
+        "abe64a12-f970-4410-ba6c-cdfd3462e734"
+      ]
+    },
+    "title": {
+      "elementType": "text",
+      "value": "Strawberry Smoothie"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "recipe-page-layout"
+      }
+    }
+  ]
+}

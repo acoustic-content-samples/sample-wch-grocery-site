@@ -1,0 +1,30 @@
+{
+  "id": "e146dba1-f494-4f18-80b5-2da08b1326a0",
+  "rev": "2-30f5e3047762131febe4f065f9748508",
+  "name": "Snacks",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "creator": "Bruce Wayne",
+  "classification": "category",
+  "taxonomy": "4659fda4-92bd-4172-9cc9-6fb763c07b8c",
+  "parent": "4659fda4-92bd-4172-9cc9-6fb763c07b8c",
+  "ancestorIds": [
+    "4659fda4-92bd-4172-9cc9-6fb763c07b8c"
+  ],
+  "namePath": [
+    "Recipe Categories",
+    "Snacks"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/4659fda4-92bd-4172-9cc9-6fb763c07b8c"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/e146dba1-f494-4f18-80b5-2da08b1326a0"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/4659fda4-92bd-4172-9cc9-6fb763c07b8c"
+    }
+  },
+  "created": "2018-07-23T13:26:29.213Z",
+  "lastModified": "2018-07-23T13:29:59.688Z"
+}

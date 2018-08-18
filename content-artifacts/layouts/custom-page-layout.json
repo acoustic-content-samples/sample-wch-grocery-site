@@ -1,0 +1,12 @@
+{
+  "id": "custom-page-layout",
+  "rev": "2-1c7cd049aa2436763cb390469facf40f",
+  "name": "customPageLayout",
+  "classification": "layout",
+  "prerender": false,
+  "thumbnail": {
+    "path": "/layouts/thumbnails/custom-page-layout.jpg"
+  },
+  "template": "custom-page-layout",
+  "templateType": "angular"
+}

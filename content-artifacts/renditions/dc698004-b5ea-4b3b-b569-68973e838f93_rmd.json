@@ -1,0 +1,20 @@
+{
+  "scale": 0.13020833333333334,
+  "locationY": 0,
+  "height": 500,
+  "locationX": 75,
+  "rev": "1-64804cd1803bd855ad4eb8e4395f789d",
+  "id": "dc698004-b5ea-4b3b-b569-68973e838f93",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 3840,
+    "fileName": "salami.jpg",
+    "id": "42d21cfd-6c01-4188-beae-f77aeb83a010",
+    "resource": "20b88e72-10db-4575-8942-40415363d2f8",
+    "fileSize": 3383960,
+    "width": 5760
+  },
+  "width": 600,
+  "created": "2018-07-23T13:28:22.101Z"
+}

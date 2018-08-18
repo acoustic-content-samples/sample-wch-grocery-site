@@ -1,0 +1,79 @@
+{
+  "rev": "3-b624cf04549f1b6dcec2eb226ad24346",
+  "id": "7ed40aa8-fc72-4ecd-9ef4-94386a071e0c",
+  "mediaType": "image/jpeg",
+  "name": "blueberry-cake.jpeg",
+  "path": "/dxdam/7e/7ed40aa8-fc72-4ecd-9ef4-94386a071e0c/blueberry-cake.jpeg",
+  "digest": "W/hKs1DFrc/91IFU4u2vWw==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-23T13:30:13.360Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:bilberry",
+      "classification:berry",
+      "classification:fruit",
+      "classification:low-bush blueberry",
+      "classification:blueberry",
+      "classification:plant",
+      "classification:ultramarine color"
+    ],
+    "declined": [],
+    "suggested": [
+      "classification:bilberry",
+      "classification:berry",
+      "classification:fruit",
+      "classification:low-bush blueberry",
+      "classification:blueberry",
+      "classification:plant",
+      "classification:ultramarine color"
+    ],
+    "analysis": "complete"
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "blueberry-cake.jpeg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:13.360Z",
+  "cognitive": {
+    "classifications": [
+      "bilberry",
+      "berry",
+      "fruit",
+      "low-bush blueberry",
+      "blueberry",
+      "plant",
+      "ultramarine color"
+    ],
+    "faces": [],
+    "colors": {
+      "lightMuted": "#ccc1b0",
+      "darkMuted": "#30343d",
+      "lightVibrant": "#ecc49c",
+      "vibrant": "#ab8044",
+      "muted": "#70809f",
+      "darkVibrant": "#5e4725"
+    },
+    "status": "complete"
+  },
+  "resource": "2eba02fe-d995-4941-81a5-acd66e270136",
+  "fileSize": 600218,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=2eba02fe-d995-4941-81a5-acd66e270136&a=7ed40aa8-fc72-4ecd-9ef4-94386a071e0c",
+      "source": "/authoring/v1/resources/2eba02fe-d995-4941-81a5-acd66e270136"
+    }
+  },
+  "metadata": {
+    "width": 1920,
+    "height": 1920
+  },
+  "classification": "asset",
+  "created": "2018-07-23T13:27:23.795Z",
+  "isManaged": true
+}

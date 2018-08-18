@@ -1,0 +1,94 @@
+{
+  "rev": "3-a5315e4ecd0c78913e3151ef31e6e74e",
+  "id": "1f8c0a68-5d16-40af-b55f-32ff9ef41e6d",
+  "mediaType": "image/jpeg",
+  "name": "fruit-salad.jpg",
+  "path": "/dxdam/1f/1f8c0a68-5d16-40af-b55f-32ff9ef41e6d/fruit-salad.jpg",
+  "digest": "OJ9HZJqj+TX0PMmC4Xw42A==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-23T13:30:11.946Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:Waldorf salad",
+      "classification:salad",
+      "classification:dish",
+      "classification:nutrition",
+      "classification:food",
+      "classification:fruit salad",
+      "classification:fruit cocktail",
+      "classification:appetizer",
+      "classification:potato salad",
+      "classification:pale yellow color"
+    ],
+    "declined": [],
+    "suggested": [
+      "classification:Waldorf salad",
+      "classification:salad",
+      "classification:dish",
+      "classification:nutrition",
+      "classification:food",
+      "classification:fruit salad",
+      "classification:fruit cocktail",
+      "classification:appetizer",
+      "classification:potato salad",
+      "classification:pale yellow color"
+    ],
+    "analysis": "complete"
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "fruit-salad.jpg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:11.946Z",
+  "cognitive": {
+    "classifications": [
+      "Waldorf salad",
+      "salad",
+      "dish",
+      "nutrition",
+      "food",
+      "fruit salad",
+      "fruit cocktail",
+      "appetizer",
+      "potato salad",
+      "pale yellow color"
+    ],
+    "faces": [],
+    "colors": {
+      "lightMuted": "#cfb7ad",
+      "lightVibrant": "#e4b985",
+      "vibrant": "#f79643",
+      "muted": "#778a75",
+      "darkVibrant": "#704c12"
+    },
+    "status": "complete"
+  },
+  "resource": "5e18588b-ad9a-4da2-b16c-b01bd417fdab",
+  "fileSize": 210579,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=5e18588b-ad9a-4da2-b16c-b01bd417fdab&a=1f8c0a68-5d16-40af-b55f-32ff9ef41e6d",
+      "source": "/authoring/v1/resources/5e18588b-ad9a-4da2-b16c-b01bd417fdab"
+    }
+  },
+  "metadata": {
+    "width": 1280,
+    "height": 853,
+    "camera": {
+      "shutterSpeed": "1/50",
+      "model": "Canon EOS 600D",
+      "aperture": 4.5,
+      "make": "Canon",
+      "focalLength": 30
+    }
+  },
+  "classification": "asset",
+  "created": "2018-07-23T13:26:50.118Z",
+  "isManaged": true
+}

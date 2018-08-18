@@ -1,0 +1,16 @@
+{
+  "name": "Vegetable Essentials",
+  "segment": "vegetable-essentials",
+  "layoutId": "event-page-layout",
+  "description": "",
+  "contentTypeId": "d16d1ad4-3709-4092-85ea-a8875562475b",
+  "title": "Vegetable Essentials | Freshery",
+  "contentId": "bb01b66b-d01d-4f80-83bc-86413033211e",
+  "hideFromNavigation": false,
+  "contentStatus": "ready",
+  "classification": "page",
+  "position": 7,
+  "id": "773abef1-7c7d-44c2-827c-e5269ed526fb",
+  "rev": "2-2c84164fc974018783f4cf288fdd5168",
+  "parentId": "f22e0f36-7998-4ef4-9629-02b3ed2431ec"
+}

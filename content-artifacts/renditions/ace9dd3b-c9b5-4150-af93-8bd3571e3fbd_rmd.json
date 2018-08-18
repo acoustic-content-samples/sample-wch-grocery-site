@@ -1,0 +1,20 @@
+{
+  "scale": 0.075,
+  "locationY": 0,
+  "height": 300,
+  "locationX": 25,
+  "rev": "1-81a69a1ae0a078927a3d9e998f5ff19a",
+  "id": "ace9dd3b-c9b5-4150-af93-8bd3571e3fbd",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 4000,
+    "fileName": "sushi-chef.jpg",
+    "id": "889e0739-0f10-46b6-8fa2-e03dc0f27de1",
+    "resource": "4bd42bcb-3269-487e-9569-767a2254f0d6",
+    "fileSize": 3549670,
+    "width": 6000
+  },
+  "width": 400,
+  "created": "2018-07-23T13:28:17.533Z"
+}

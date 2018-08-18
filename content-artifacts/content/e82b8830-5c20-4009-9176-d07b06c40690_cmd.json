@@ -1,0 +1,101 @@
+{
+  "id": "e82b8830-5c20-4009-9176-d07b06c40690",
+  "rev": "19-c59929596528467d5b2d27b166563cbf",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "name": "Orange Juice Cocktail",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-29T07:39:57.318Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-29T08:27:32.616Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-29T08:27:32.616Z",
+  "elements": {
+    "method": {
+      "elementType": "formattedtext",
+      "value": "<ol>\n\t<li>Fill a glass with ice.</li>\n\t<li>Combine vodka and orange juice in the glass, and mix well.</li>\n\t<li>Garnish with the lemon wedge.</li>\n\t<li>Enjoy!</li>\n</ol>\n"
+    },
+    "author": {
+      "elementType": "text",
+      "value": "Graham Bucknell"
+    },
+    "image": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=a81fb48d-48c5-488e-acf8-4d5e73895789&a=01cffab7-d708-4158-a1de-0b81d968c960",
+          "source": "/authoring/v1/resources/a81fb48d-48c5-488e-acf8-4d5e73895789",
+          "width": 1280,
+          "height": 838
+        },
+        "large": {
+          "renditionId": "99eee024-d818-41ce-adf6-9963b2b40c69",
+          "source": "/authoring/v1/resources/a81fb48d-48c5-488e-acf8-4d5e73895789?resize=764px:500px&crop=600:500;82,0",
+          "width": 600,
+          "height": 500
+        },
+        "medium": {
+          "renditionId": "e139286a-a165-4d7c-bb19-901b33da0efb",
+          "source": "/authoring/v1/resources/a81fb48d-48c5-488e-acf8-4d5e73895789?resize=458px:300px&crop=400:300;29,0",
+          "width": 400,
+          "height": 300
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 838,
+        "fileName": "grape-cocktail.jpeg",
+        "id": "01cffab7-d708-4158-a1de-0b81d968c960",
+        "fileSize": 153056,
+        "resourceUri": "/authoring/v1/resources/a81fb48d-48c5-488e-acf8-4d5e73895789",
+        "width": 1280
+      }
+    },
+    "description": {
+      "elementType": "formattedtext",
+      "value": "<p>Celebrate the season with this essential summer cocktail.</p>\n"
+    },
+    "date": {
+      "elementType": "datetime",
+      "value": "2018-07-29T00:00:00Z"
+    },
+    "nutritionalFeatures": {
+      "elementType": "category",
+      "categoryIds": [
+        "833f56e0-b96c-4de2-99f0-fd662f91a80d",
+        "e2b0aebf-78d5-4057-a303-a02132b81657",
+        "88e66051-f370-4221-b14d-79fff4052be3",
+        "19302a65-34ad-45db-a7bb-d834a19437da"
+      ]
+    },
+    "link": {
+      "elementType": "link"
+    },
+    "ingredients": {
+      "elementType": "formattedtext",
+      "value": "<p>250ml fresh orange juice<br />\n30ml vodka<br />\nLemon wedge</p>\n"
+    },
+    "category": {
+      "elementType": "category",
+      "categoryIds": [
+        "abe64a12-f970-4410-ba6c-cdfd3462e734"
+      ]
+    },
+    "title": {
+      "elementType": "text",
+      "value": "Orange Juice Cocktail"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "recipe-page-layout"
+      }
+    }
+  ]
+}

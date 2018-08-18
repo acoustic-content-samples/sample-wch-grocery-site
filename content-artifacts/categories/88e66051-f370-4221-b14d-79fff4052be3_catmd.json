@@ -1,0 +1,30 @@
+{
+  "id": "88e66051-f370-4221-b14d-79fff4052be3",
+  "rev": "2-35e67984777728dd9c3fd4499468ffb4",
+  "name": "Gluten Free",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "creator": "Bruce Wayne",
+  "classification": "category",
+  "taxonomy": "32588fc6-c8e5-4d3c-b117-266b1f1e4546",
+  "parent": "32588fc6-c8e5-4d3c-b117-266b1f1e4546",
+  "ancestorIds": [
+    "32588fc6-c8e5-4d3c-b117-266b1f1e4546"
+  ],
+  "namePath": [
+    "Nutritional Features",
+    "Gluten Free"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/32588fc6-c8e5-4d3c-b117-266b1f1e4546"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/88e66051-f370-4221-b14d-79fff4052be3"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/32588fc6-c8e5-4d3c-b117-266b1f1e4546"
+    }
+  },
+  "created": "2018-07-23T13:26:30.165Z",
+  "lastModified": "2018-07-23T13:29:59.801Z"
+}

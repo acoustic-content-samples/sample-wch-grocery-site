@@ -1,0 +1,16 @@
+{
+  "name": "Pumpkin soup",
+  "hideFromNavigation": false,
+  "segment": "pumpkin-soup",
+  "layoutId": "recipe-page-layout",
+  "description": "Pumpkin soup | Freshery",
+  "contentTypeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "title": "Pumpkin soup",
+  "classification": "page",
+  "contentId": "e0f03f7c-964f-40a3-be8e-c74b78c4c5a1",
+  "contentStatus": "ready",
+  "position": 1,
+  "id": "070ee08e-2734-44a2-9fba-8f594fa74fd4",
+  "rev": "3-f6cccc627a5db1fe9ac4f2e73e673b5d",
+  "parentId": "c71582fa-9e5c-4536-a74a-7d489881c015"
+}

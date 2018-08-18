@@ -1,0 +1,16 @@
+{
+  "name": "All Recipes",
+  "segment": "all-recipes",
+  "layoutId": "recipe-category-page-layout",
+  "description": "",
+  "contentTypeId": "3c38285d-e8fd-499e-9f4e-3f40d7bec023",
+  "title": "All Recipes | Freshery",
+  "contentId": "f94fb339-cc9e-42d8-a479-d211de2f341c",
+  "hideFromNavigation": false,
+  "contentStatus": "ready",
+  "classification": "page",
+  "position": 0,
+  "id": "15366b72-17c9-4155-9eb6-02818e83af30",
+  "rev": "2-dced9eb909822d71f8976946b7f165a1",
+  "parentId": "7ee0834e-e6f8-48bc-89b3-09ac6e78c452"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "9e57da53-7967-46e4-8e2d-b99a9d847281",
+  "rev": "2-1f36e6fb7d31ea1e96faff61679cdcae",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "d16d1ad4-3709-4092-85ea-a8875562475b",
+  "name": "Seafood Class",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:38.334Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-23T13:30:32.519Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:32.519Z",
+  "elements": {
+    "location": {
+      "elementType": "location",
+      "latitude": -33.82316,
+      "longitude": 151.19676
+    },
+    "endDate": {
+      "elementType": "datetime",
+      "value": "2027-12-12T05:00:00Z"
+    },
+    "image": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=97c88b87-1dff-48f7-9c7a-3899deb6fdd7&a=91a45244-0ed0-4e75-b19e-fe6168d52704",
+          "source": "/authoring/v1/resources/97c88b87-1dff-48f7-9c7a-3899deb6fdd7",
+          "width": 4008,
+          "height": 3006
+        },
+        "large": {
+          "renditionId": "66e39a50-957f-46e6-b49c-4f6a20377575",
+          "source": "/authoring/v1/resources/97c88b87-1dff-48f7-9c7a-3899deb6fdd7?resize=667px:500px&crop=600:500;33,0",
+          "width": 600,
+          "height": 500
+        },
+        "medium": {
+          "renditionId": "46bd85ec-5338-46a5-a602-c635c2356517",
+          "source": "/authoring/v1/resources/97c88b87-1dff-48f7-9c7a-3899deb6fdd7?resize=400px:300px&crop=400:300;0,0",
+          "width": 400,
+          "height": 300
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 3006,
+        "fileName": "oysters.jpg",
+        "id": "91a45244-0ed0-4e75-b19e-fe6168d52704",
+        "fileSize": 1808834,
+        "resourceUri": "/authoring/v1/resources/97c88b87-1dff-48f7-9c7a-3899deb6fdd7",
+        "width": 4008
+      }
+    },
+    "description": {
+      "elementType": "formattedtext",
+      "value": "<p>Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada.</p>\n"
+    },
+    "link": {
+      "elementType": "link"
+    },
+    "address": {
+      "elementType": "formattedtext",
+      "value": "<p>Freshery,<br />\n601 Pacific Highway<br />\nSt Leonards, NSW 2065</p>\n"
+    },
+    "title": {
+      "elementType": "text",
+      "value": "Seafood Class"
+    },
+    "startDate": {
+      "elementType": "datetime",
+      "value": "2027-12-12T03:00:00Z"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "event-page-layout"
+      }
+    }
+  ]
+}

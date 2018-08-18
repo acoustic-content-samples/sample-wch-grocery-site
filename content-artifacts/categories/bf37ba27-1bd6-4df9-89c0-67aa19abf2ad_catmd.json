@@ -1,0 +1,30 @@
+{
+  "id": "bf37ba27-1bd6-4df9-89c0-67aa19abf2ad",
+  "rev": "2-65ace0b1afbd81451b1240c595572a0b",
+  "name": "Cane Sugar Free",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "creator": "Bruce Wayne",
+  "classification": "category",
+  "taxonomy": "32588fc6-c8e5-4d3c-b117-266b1f1e4546",
+  "parent": "32588fc6-c8e5-4d3c-b117-266b1f1e4546",
+  "ancestorIds": [
+    "32588fc6-c8e5-4d3c-b117-266b1f1e4546"
+  ],
+  "namePath": [
+    "Nutritional Features",
+    "Cane Sugar Free"
+  ],
+  "links": {
+    "taxonomy": {
+      "href": "/authoring/v1/categories/32588fc6-c8e5-4d3c-b117-266b1f1e4546"
+    },
+    "self": {
+      "href": "/authoring/v1/categories/bf37ba27-1bd6-4df9-89c0-67aa19abf2ad"
+    },
+    "parent": {
+      "href": "/authoring/v1/categories/32588fc6-c8e5-4d3c-b117-266b1f1e4546"
+    }
+  },
+  "created": "2018-07-23T13:26:30.605Z",
+  "lastModified": "2018-07-23T13:30:00.542Z"
+}

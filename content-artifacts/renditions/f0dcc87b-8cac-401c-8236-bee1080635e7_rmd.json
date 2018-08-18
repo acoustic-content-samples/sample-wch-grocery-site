@@ -1,0 +1,20 @@
+{
+  "scale": 0.45355587808417996,
+  "locationY": 233,
+  "height": 1200,
+  "locationX": 0,
+  "rev": "1-cb17e0b4cb2a1613051a4e70aeba770d",
+  "id": "f0dcc87b-8cac-401c-8236-bee1080635e7",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 3675,
+    "fileName": "vegetables.jpg",
+    "id": "2e18188c-c216-48ec-9e7d-082354e20d58",
+    "resource": "411c23db-c617-48d0-ad70-82f98d0d9ae3",
+    "fileSize": 4926947,
+    "width": 5512
+  },
+  "width": 2500,
+  "created": "2018-07-23T13:28:22.080Z"
+}

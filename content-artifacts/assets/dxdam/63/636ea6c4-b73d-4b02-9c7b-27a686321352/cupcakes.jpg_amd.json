@@ -1,0 +1,112 @@
+{
+  "rev": "3-eb56c8d5fe3c7af33650dbd609ae968b",
+  "id": "636ea6c4-b73d-4b02-9c7b-27a686321352",
+  "mediaType": "image/jpeg",
+  "name": "cupcakes.jpg",
+  "path": "/dxdam/63/636ea6c4-b73d-4b02-9c7b-27a686321352/cupcakes.jpg",
+  "digest": "qHXOe14+lsB9/lGgNC0BBw==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-23T13:30:12.089Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:Cupcake",
+      "classification:dessert",
+      "classification:nutrition",
+      "classification:food",
+      "classification:patisserie (bakery)",
+      "classification:shop",
+      "classification:retail store",
+      "classification:building",
+      "classification:peppermint",
+      "classification:candy",
+      "classification:sweet",
+      "classification:delicacy",
+      "classification:Bakery Shop",
+      "classification:cream cheese",
+      "classification:cheese",
+      "classification:dairy product",
+      "classification:food product",
+      "classification:chocolate color"
+    ],
+    "declined": [],
+    "suggested": [
+      "classification:Cupcake",
+      "classification:dessert",
+      "classification:nutrition",
+      "classification:food",
+      "classification:patisserie (bakery)",
+      "classification:shop",
+      "classification:retail store",
+      "classification:building",
+      "classification:peppermint",
+      "classification:candy",
+      "classification:sweet",
+      "classification:delicacy",
+      "classification:Bakery Shop",
+      "classification:cream cheese",
+      "classification:cheese",
+      "classification:dairy product",
+      "classification:food product",
+      "classification:chocolate color"
+    ],
+    "analysis": "complete"
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "cupcakes.jpg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:12.089Z",
+  "cognitive": {
+    "classifications": [
+      "Cupcake",
+      "dessert",
+      "nutrition",
+      "food",
+      "patisserie (bakery)",
+      "shop",
+      "retail store",
+      "building",
+      "peppermint",
+      "candy",
+      "sweet",
+      "delicacy",
+      "Bakery Shop",
+      "cream cheese",
+      "cheese",
+      "dairy product",
+      "food product",
+      "chocolate color"
+    ],
+    "faces": [],
+    "colors": {
+      "lightMuted": "#cebcac",
+      "darkMuted": "#53333a",
+      "lightVibrant": "#d5ae9c",
+      "vibrant": "#a04138",
+      "muted": "#ac7d64",
+      "darkVibrant": "#763839"
+    },
+    "status": "complete"
+  },
+  "resource": "7878d230-84b8-422c-8887-40004370e5ee",
+  "fileSize": 1645935,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=7878d230-84b8-422c-8887-40004370e5ee&a=636ea6c4-b73d-4b02-9c7b-27a686321352",
+      "source": "/authoring/v1/resources/7878d230-84b8-422c-8887-40004370e5ee"
+    }
+  },
+  "metadata": {
+    "width": 4272,
+    "height": 2848
+  },
+  "classification": "asset",
+  "created": "2018-07-23T13:27:19.117Z",
+  "isManaged": true
+}

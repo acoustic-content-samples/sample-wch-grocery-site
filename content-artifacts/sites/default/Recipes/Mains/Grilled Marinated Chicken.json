@@ -1,0 +1,16 @@
+{
+  "name": "Grilled Marinated Chicken",
+  "segment": "grilled-marinated-chicken",
+  "layoutId": "recipe-page-layout",
+  "description": "",
+  "contentTypeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "title": "Grilled Marinated Chicken | Freshery",
+  "contentId": "4a8a6b1d-1ef8-4d69-9000-9a4748589eaf",
+  "hideFromNavigation": false,
+  "contentStatus": "ready",
+  "classification": "page",
+  "position": 2,
+  "id": "dde5ee2f-45a9-49af-9e99-7342945f284a",
+  "rev": "4-5a76a4c847af5e1c6d69138a36a1cc89",
+  "parentId": "22ce37b2-ac77-4f7b-8ba3-c0cccedb4c55"
+}

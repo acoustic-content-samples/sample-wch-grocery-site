@@ -1,0 +1,112 @@
+{
+  "rev": "3-bd8254ab0fdd9ee65feb9c587b517eff",
+  "id": "4b76a9ab-4c16-408c-9823-3f8d7f2c3b42",
+  "mediaType": "image/jpeg",
+  "name": "breakfast.jpg",
+  "path": "/dxdam/4b/4b76a9ab-4c16-408c-9823-3f8d7f2c3b42/breakfast.jpg",
+  "digest": "skFF2Gs6pGvcP2oiht0u1Q==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-23T13:30:16.529Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:smorgasbord",
+      "classification:meal",
+      "classification:nutrition",
+      "classification:food",
+      "classification:viand",
+      "classification:dish",
+      "classification:marrow",
+      "classification:delicacy",
+      "classification:potluck meal",
+      "classification:duck pate",
+      "classification:spread",
+      "classification:condiment",
+      "classification:food seasoning",
+      "classification:food ingredient",
+      "classification:food product",
+      "classification:balanced diet (food)",
+      "classification:diet (food)",
+      "classification:chocolate color"
+    ],
+    "declined": [],
+    "suggested": [
+      "classification:smorgasbord",
+      "classification:meal",
+      "classification:nutrition",
+      "classification:food",
+      "classification:viand",
+      "classification:dish",
+      "classification:marrow",
+      "classification:delicacy",
+      "classification:potluck meal",
+      "classification:duck pate",
+      "classification:spread",
+      "classification:condiment",
+      "classification:food seasoning",
+      "classification:food ingredient",
+      "classification:food product",
+      "classification:balanced diet (food)",
+      "classification:diet (food)",
+      "classification:chocolate color"
+    ],
+    "analysis": "complete"
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "breakfast.jpg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:16.529Z",
+  "cognitive": {
+    "classifications": [
+      "smorgasbord",
+      "meal",
+      "nutrition",
+      "food",
+      "viand",
+      "dish",
+      "marrow",
+      "delicacy",
+      "potluck meal",
+      "duck pate",
+      "spread",
+      "condiment",
+      "food seasoning",
+      "food ingredient",
+      "food product",
+      "balanced diet (food)",
+      "diet (food)",
+      "chocolate color"
+    ],
+    "faces": [],
+    "colors": {
+      "lightMuted": "#c5c798",
+      "darkMuted": "#3c3546",
+      "lightVibrant": "#e8bb90",
+      "vibrant": "#b08650",
+      "muted": "#aa9765",
+      "darkVibrant": "#6c344c"
+    },
+    "status": "complete"
+  },
+  "resource": "c4309895-be3d-4f2a-a790-e2ef15f2f05b",
+  "fileSize": 5239371,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=c4309895-be3d-4f2a-a790-e2ef15f2f05b&a=4b76a9ab-4c16-408c-9823-3f8d7f2c3b42",
+      "source": "/authoring/v1/resources/c4309895-be3d-4f2a-a790-e2ef15f2f05b"
+    }
+  },
+  "metadata": {
+    "width": 6000,
+    "height": 4000
+  },
+  "classification": "asset",
+  "created": "2018-07-23T13:27:19.987Z",
+  "isManaged": true
+}

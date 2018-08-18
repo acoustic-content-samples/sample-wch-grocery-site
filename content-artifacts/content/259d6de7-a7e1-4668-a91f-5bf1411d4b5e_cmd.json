@@ -1,0 +1,100 @@
+{
+  "id": "259d6de7-a7e1-4668-a91f-5bf1411d4b5e",
+  "rev": "3-a28a19d1330b9531bc8a2e3f87078207",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "name": "Pea Soup",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:35.291Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-29T08:27:32.126Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-29T08:27:32.126Z",
+  "elements": {
+    "method": {
+      "elementType": "formattedtext",
+      "value": "<ol>\n\t<li>Heat butter over medium heat in a large saucepan.</li>\n\t<li>Add onion and garlic and saute for 3-4 minutes until tender.</li>\n\t<li>Add the peas and saute a minute more.</li>\n\t<li>Pour in the stock and simmer for 3-4 minutes until the peas are just tender.</li>\n\t<li>Blend the mixture until smooth. Add a litte more water if you prefer a thinner soup.</li>\n\t<li>Serve with bay leaf and a swirl of creme fraiche.</li>\n</ol>\n"
+    },
+    "author": {
+      "elementType": "text",
+      "value": "Linda Hou"
+    },
+    "image": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=09ebfdd1-57cb-47ad-be90-d3ac49eb04ea&a=14028561-6ba5-4106-9cb4-d7a16b6a51dc",
+          "source": "/authoring/v1/resources/09ebfdd1-57cb-47ad-be90-d3ac49eb04ea",
+          "width": 1280,
+          "height": 720
+        },
+        "large": {
+          "renditionId": "ba21cca0-dbcb-47fe-aa36-f0f788804b9c",
+          "source": "/authoring/v1/resources/09ebfdd1-57cb-47ad-be90-d3ac49eb04ea?resize=889px:500px&crop=600:500;144,0",
+          "width": 600,
+          "height": 500
+        },
+        "medium": {
+          "renditionId": "2861213a-78df-4a85-9b72-db014777e1b0",
+          "source": "/authoring/v1/resources/09ebfdd1-57cb-47ad-be90-d3ac49eb04ea?resize=533px:300px&crop=400:300;67,0",
+          "width": 400,
+          "height": 300
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 720,
+        "fileName": "pea-soup.jpg",
+        "id": "14028561-6ba5-4106-9cb4-d7a16b6a51dc",
+        "fileSize": 222912,
+        "resourceUri": "/authoring/v1/resources/09ebfdd1-57cb-47ad-be90-d3ac49eb04ea",
+        "width": 1280
+      }
+    },
+    "description": {
+      "elementType": "formattedtext",
+      "value": "<p>A simple pea soup makes an elegant start to a spring meal. It&#39;s also a great way to use frozen vegetables when the produce section is looking bleak.</p>\n"
+    },
+    "date": {
+      "elementType": "datetime",
+      "value": "2017-11-23T13:00:00Z"
+    },
+    "nutritionalFeatures": {
+      "elementType": "category",
+      "categoryIds": [
+        "88e66051-f370-4221-b14d-79fff4052be3",
+        "19302a65-34ad-45db-a7bb-d834a19437da",
+        "89239282-65d0-42ea-b824-e72f90356b8c"
+      ]
+    },
+    "link": {
+      "elementType": "link"
+    },
+    "ingredients": {
+      "elementType": "formattedtext",
+      "value": "<p>3 cups peas<br />\n2 tbsp butter<br />\n1/2 medium onion chopped<br />\n1 small garlic chopped<br />\n3 bay leaves<br />\n2 cups chicken or vegetable stock<br />\n150 gm creme fraiche</p>\n"
+    },
+    "category": {
+      "elementType": "category",
+      "categoryIds": [
+        "290141be-6ca4-420c-a7e6-cf6bfcfa0380"
+      ]
+    },
+    "title": {
+      "elementType": "text",
+      "value": "Pea Soup"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "recipe-page-layout"
+      }
+    }
+  ]
+}

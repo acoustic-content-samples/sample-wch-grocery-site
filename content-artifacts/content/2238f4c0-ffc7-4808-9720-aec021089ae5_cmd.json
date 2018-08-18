@@ -1,0 +1,49 @@
+{
+  "id": "2238f4c0-ffc7-4808-9720-aec021089ae5",
+  "rev": "1-4680db4e904d808dd7533b1bcd59baa2",
+  "kind": [],
+  "classification": "content",
+  "typeId": "367908ac-e711-4662-a531-91d3ada05508",
+  "name": "Upcoming events",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:30:30.980Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-23T13:30:30.980Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:30.980Z",
+  "elements": {
+    "heading": {
+      "elementType": "text",
+      "value": "Upcoming Events"
+    },
+    "typeOfItemsToDisplay": {
+      "elementType": "category",
+      "categoryIds": [
+        "42f1be10-b11b-43cd-9745-e088c81e9e22"
+      ]
+    },
+    "maximumNumberOfItems": {
+      "elementType": "number",
+      "value": 4
+    },
+    "viewAllLink": {
+      "elementType": "link",
+      "linkURL": "/events",
+      "linkText": "View all"
+    },
+    "subheading": {
+      "elementType": "text",
+      "value": "Our cooking courses and talks."
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "dynamic-list-layout"
+      }
+    }
+  ],
+  "keywords": []
+}

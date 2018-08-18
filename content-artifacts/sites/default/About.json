@@ -1,0 +1,15 @@
+{
+  "name": "About",
+  "segment": "about",
+  "layoutId": "custom-page-layout",
+  "description": "",
+  "contentTypeId": "f35a691d-7ca7-4106-9c80-e1e617f68e12",
+  "title": "About - Freshery",
+  "contentId": "aa07cf0d-4fb4-4989-ad05-0b5e6b885352",
+  "hideFromNavigation": false,
+  "contentStatus": "ready",
+  "classification": "page",
+  "position": 1,
+  "id": "ce6de93b-2eec-4d49-8f7e-ad5906522a82",
+  "rev": "2-a217974575f5053a1c7e0ba4b6561614"
+}

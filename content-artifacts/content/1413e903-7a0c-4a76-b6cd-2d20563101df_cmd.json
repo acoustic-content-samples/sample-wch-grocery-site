@@ -1,0 +1,99 @@
+{
+  "id": "1413e903-7a0c-4a76-b6cd-2d20563101df",
+  "rev": "4-aab6ad7f01c357cb373f5dea9b703aa7",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "name": "Blueberry Cheesecake",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:34.308Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-29T09:13:51.650Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-29T09:13:51.650Z",
+  "elements": {
+    "method": {
+      "elementType": "formattedtext",
+      "value": "<p>Make crust:<br />\n1. Grease a 6cm-deep, 20cm-round (base) springform pan.<br />\n2. Process biscuits until mixture resembles fine breadcrumbs.<br />\n3. Add butter. Process until just combined.<br />\n4. Press mixture over base and side of prepared pan.<br />\n<br />\nMake topping:<br />\n1. Stir blueberry spread in low heat until melted.<br />\n<br />\nMake filling:<br />\n1. Using electric mixer, beat cream cheese and sugar in large bowl until until smooth.<br />\n2. Add sour cream.<br />\n3. Add eggs 1 at a time.<br />\n4. Sift the flour.<br />\n5. Pour the filling on top of the base<br />\n6. Bake cheesecake in 170C for 1 hours, the cake is slightly puffed and golden brown.<br />\n7. Refrigerate until cold.<br />\n8. Smooth top with the topping over the cheesecake.</p>\n"
+    },
+    "author": {
+      "elementType": "text",
+      "value": "Linda Hou"
+    },
+    "image": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=2eba02fe-d995-4941-81a5-acd66e270136&a=7ed40aa8-fc72-4ecd-9ef4-94386a071e0c",
+          "source": "/authoring/v1/resources/2eba02fe-d995-4941-81a5-acd66e270136",
+          "width": 1920,
+          "height": 1920
+        },
+        "large": {
+          "renditionId": "1cfca5b2-5f00-4091-9dc3-f6c3bec837c0",
+          "source": "/authoring/v1/resources/2eba02fe-d995-4941-81a5-acd66e270136?resize=600px:600px&crop=600:500;0,50",
+          "width": 600,
+          "height": 500
+        },
+        "medium": {
+          "renditionId": "417ee71a-0ab1-4449-8715-1d74339b679b",
+          "source": "/authoring/v1/resources/2eba02fe-d995-4941-81a5-acd66e270136?resize=400px:400px&crop=400:300;0,50",
+          "width": 400,
+          "height": 300
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 1920,
+        "fileName": "blueberry-cake.jpeg",
+        "id": "7ed40aa8-fc72-4ecd-9ef4-94386a071e0c",
+        "fileSize": 600218,
+        "resourceUri": "/authoring/v1/resources/2eba02fe-d995-4941-81a5-acd66e270136",
+        "width": 1920
+      }
+    },
+    "description": {
+      "elementType": "formattedtext",
+      "value": "<p>Delicious easy to make blueberry cheesecake for all occasions.</p>\n"
+    },
+    "date": {
+      "elementType": "datetime",
+      "value": "2017-11-04T13:00:00Z"
+    },
+    "nutritionalFeatures": {
+      "elementType": "category",
+      "categoryIds": [
+        "e2b0aebf-78d5-4057-a303-a02132b81657",
+        "88e66051-f370-4221-b14d-79fff4052be3"
+      ]
+    },
+    "link": {
+      "elementType": "link"
+    },
+    "ingredients": {
+      "elementType": "formattedtext",
+      "value": "<p>For crust:<br />\n80g digestive biscuits<br />\n40g butter, melted</p>\n\n<p>For topping:<br />\n1/3 blueberry spread<br />\n<br />\nFor filling:<br />\n250g Philadelphia cheese block, softened<br />\n2 large eggs<br />\n40g sugar<br />\n15g all purpose flour<br />\n100g sour cream<br />\n&nbsp;</p>\n"
+    },
+    "category": {
+      "elementType": "category",
+      "categoryIds": [
+        "ebd0bdcb-c3ba-4d39-99a2-9e421e33ec3d"
+      ]
+    },
+    "title": {
+      "elementType": "text",
+      "value": "Blueberry Cheesecake"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "recipe-page-layout"
+      }
+    }
+  ]
+}

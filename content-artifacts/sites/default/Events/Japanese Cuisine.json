@@ -1,0 +1,16 @@
+{
+  "name": "Japanese Cuisine",
+  "segment": "japanese-cuisine",
+  "layoutId": "event-page-layout",
+  "description": "",
+  "contentTypeId": "d16d1ad4-3709-4092-85ea-a8875562475b",
+  "title": "Japanese Cuisine | Freshery",
+  "contentId": "4ee1e799-4ce9-494e-922c-c3b9819a2283",
+  "hideFromNavigation": false,
+  "contentStatus": "ready",
+  "classification": "page",
+  "position": 2,
+  "id": "24ecfa4e-f09d-4de6-a7b7-ccb753a93056",
+  "rev": "2-9b77287d105fa18e6192463284c3d1ca",
+  "parentId": "f22e0f36-7998-4ef4-9629-02b3ed2431ec"
+}

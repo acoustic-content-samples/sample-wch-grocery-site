@@ -1,0 +1,99 @@
+{
+  "id": "af442906-3592-4fc3-ba80-d9cb23ada2fb",
+  "rev": "3-8db4303e86b5a119ffa92f70625c6e6b",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "name": "Beef Steak",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:39.396Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-29T08:27:32.122Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-29T08:27:32.122Z",
+  "elements": {
+    "method": {
+      "elementType": "formattedtext",
+      "value": "<ol>\n\t<li>Take the steak from the packet and dry it out with paper towel.</li>\n\t<li>Cover the steak liberally with salt and pepper.</li>\n\t<li>Put the steak in the fridge on a rack for 6 hours to encourage it to dry out. This will enhance the flavour, and the salt will be pulled into the steak.</li>\n\t<li>Heat the flatplate part of your bbq and put the steak on the opposite side, and then close the bbq lid.</li>\n\t<li>Put the ghee in a bowl and leave it in the unheated side of the bbq to melt.</li>\n\t<li>Check the steak every 5 minutes with an instant read thermometer. When it reaches 45 degrees celsius, dump it in the ghee.</li>\n\t<li>Brown the steak up on the flatplate, turning every 10 seconds, and liberally dunking it in the melted ghee.</li>\n\t<li>When it is suitably browned, take the steak off the grill, place on a warmed plate and cover tightly with aluminium foil.</li>\n\t<li>After 10 minutes, it is ready. Serve with roast potatoes, steamed green beans and dijon mustard.</li>\n</ol>\n"
+    },
+    "author": {
+      "elementType": "text",
+      "value": "Graham Bucknell"
+    },
+    "image": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=f2e30641-7228-4165-8fe2-328f6f8687aa&a=280d62fc-7913-4e60-91fd-4b848f8523d8",
+          "source": "/authoring/v1/resources/f2e30641-7228-4165-8fe2-328f6f8687aa",
+          "width": 1280,
+          "height": 853
+        },
+        "large": {
+          "renditionId": "e0353542-3bc7-4976-bf69-566c50bbb26d",
+          "source": "/authoring/v1/resources/f2e30641-7228-4165-8fe2-328f6f8687aa?resize=750px:500px&crop=600:500;75,0",
+          "width": 600,
+          "height": 500
+        },
+        "medium": {
+          "renditionId": "d9a60605-3230-401b-afa7-5c9c3d1ff48c",
+          "source": "/authoring/v1/resources/f2e30641-7228-4165-8fe2-328f6f8687aa?resize=450px:300px&crop=400:300;25,0",
+          "width": 400,
+          "height": 300
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 853,
+        "fileName": "steak-asparagus.jpeg",
+        "id": "280d62fc-7913-4e60-91fd-4b848f8523d8",
+        "fileSize": 201568,
+        "resourceUri": "/authoring/v1/resources/f2e30641-7228-4165-8fe2-328f6f8687aa",
+        "width": 1280
+      }
+    },
+    "description": {
+      "elementType": "formattedtext",
+      "value": "<p>This beef steak&nbsp;is a&nbsp;flavorful way to savor red meat in the spring and summer.</p>\n"
+    },
+    "date": {
+      "elementType": "datetime",
+      "value": "2018-07-28T23:00:00Z"
+    },
+    "nutritionalFeatures": {
+      "elementType": "category",
+      "categoryIds": [
+        "e2b0aebf-78d5-4057-a303-a02132b81657",
+        "7606a94c-49a7-46ff-b392-00ffebadb3d7"
+      ]
+    },
+    "link": {
+      "elementType": "link"
+    },
+    "ingredients": {
+      "elementType": "formattedtext",
+      "value": "<p>250g rump steak<br />\n1 tbsp ghee<br />\nSalt and pepper</p>\n\n<p>&nbsp;</p>\n"
+    },
+    "category": {
+      "elementType": "category",
+      "categoryIds": [
+        "5a665c19-18d2-4a46-b377-571e0161541c"
+      ]
+    },
+    "title": {
+      "elementType": "text",
+      "value": "Beef Steak"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "recipe-page-layout"
+      }
+    }
+  ]
+}

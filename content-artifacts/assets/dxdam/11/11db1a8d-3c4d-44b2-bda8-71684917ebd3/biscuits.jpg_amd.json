@@ -1,0 +1,118 @@
+{
+  "rev": "3-3fc72fc62cde63907e1f949339a2bf9b",
+  "id": "11db1a8d-3c4d-44b2-bda8-71684917ebd3",
+  "mediaType": "image/jpeg",
+  "name": "biscuits.jpg",
+  "path": "/dxdam/11/11db1a8d-3c4d-44b2-bda8-71684917ebd3/biscuits.jpg",
+  "digest": "6lXxIyVJdAsl38kqk0JswA==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-23T13:30:09.897Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:snack bar",
+      "classification:bar",
+      "classification:table",
+      "classification:furniture",
+      "classification:tabbouleh",
+      "classification:salad",
+      "classification:dish",
+      "classification:nutrition",
+      "classification:food",
+      "classification:smorgasbord",
+      "classification:meal",
+      "classification:vegetarianism food",
+      "classification:diet (food)",
+      "classification:punnet (basket)",
+      "classification:handbasket",
+      "classification:platter",
+      "classification:tableware",
+      "classification:utensil",
+      "classification:plant",
+      "classification:berry"
+    ],
+    "declined": [],
+    "suggested": [
+      "classification:snack bar",
+      "classification:bar",
+      "classification:table",
+      "classification:furniture",
+      "classification:tabbouleh",
+      "classification:salad",
+      "classification:dish",
+      "classification:nutrition",
+      "classification:food",
+      "classification:smorgasbord",
+      "classification:meal",
+      "classification:vegetarianism food",
+      "classification:diet (food)",
+      "classification:punnet (basket)",
+      "classification:handbasket",
+      "classification:platter",
+      "classification:tableware",
+      "classification:utensil",
+      "classification:plant",
+      "classification:berry"
+    ],
+    "analysis": "complete"
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "biscuits.jpg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:09.897Z",
+  "cognitive": {
+    "classifications": [
+      "snack bar",
+      "bar",
+      "table",
+      "furniture",
+      "tabbouleh",
+      "salad",
+      "dish",
+      "nutrition",
+      "food",
+      "smorgasbord",
+      "meal",
+      "vegetarianism food",
+      "diet (food)",
+      "punnet (basket)",
+      "handbasket",
+      "platter",
+      "tableware",
+      "utensil",
+      "plant",
+      "berry"
+    ],
+    "faces": [],
+    "colors": {
+      "lightMuted": "#d6c5ae",
+      "darkMuted": "#2c3c52",
+      "lightVibrant": "#e4b4b4",
+      "vibrant": "#ce3e58",
+      "muted": "#a8835d",
+      "darkVibrant": "#09497f"
+    },
+    "status": "complete"
+  },
+  "resource": "15ecb204-284f-4a8e-a576-b1e57dd614b8",
+  "fileSize": 3420250,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=15ecb204-284f-4a8e-a576-b1e57dd614b8&a=11db1a8d-3c4d-44b2-bda8-71684917ebd3",
+      "source": "/authoring/v1/resources/15ecb204-284f-4a8e-a576-b1e57dd614b8"
+    }
+  },
+  "metadata": {
+    "width": 3840,
+    "height": 4189
+  },
+  "classification": "asset",
+  "created": "2018-07-23T13:27:03.797Z",
+  "isManaged": true
+}

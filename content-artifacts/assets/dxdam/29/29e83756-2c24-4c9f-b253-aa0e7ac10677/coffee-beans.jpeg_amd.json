@@ -1,0 +1,101 @@
+{
+  "rev": "3-f3beb2644d9dca001da0a718418afd7b",
+  "id": "29e83756-2c24-4c9f-b253-aa0e7ac10677",
+  "mediaType": "image/jpeg",
+  "name": "coffee-beans.jpeg",
+  "path": "/dxdam/29/29e83756-2c24-4c9f-b253-aa0e7ac10677/coffee-beans.jpeg",
+  "digest": "L/ZgfcpKjo9VFcvfliHLpw==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-23T13:30:10.925Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:tea",
+      "classification:herb",
+      "classification:food seasoning",
+      "classification:food ingredient",
+      "classification:food product",
+      "classification:food",
+      "classification:tea bag",
+      "classification:bag",
+      "classification:coffee cup",
+      "classification:cup",
+      "classification:tableware",
+      "classification:utensil",
+      "classification:beverage",
+      "classification:chocolate color",
+      "classification:beige color"
+    ],
+    "declined": [],
+    "suggested": [
+      "classification:tea",
+      "classification:herb",
+      "classification:food seasoning",
+      "classification:food ingredient",
+      "classification:food product",
+      "classification:food",
+      "classification:tea bag",
+      "classification:bag",
+      "classification:coffee cup",
+      "classification:cup",
+      "classification:tableware",
+      "classification:utensil",
+      "classification:beverage",
+      "classification:chocolate color",
+      "classification:beige color"
+    ],
+    "analysis": "complete"
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "coffee-beans.jpeg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:10.925Z",
+  "cognitive": {
+    "classifications": [
+      "tea",
+      "herb",
+      "food seasoning",
+      "food ingredient",
+      "food product",
+      "food",
+      "tea bag",
+      "bag",
+      "coffee cup",
+      "cup",
+      "tableware",
+      "utensil",
+      "beverage",
+      "chocolate color",
+      "beige color"
+    ],
+    "faces": [],
+    "colors": {
+      "muted": "#967765",
+      "darkMuted": "#4b342e",
+      "lightVibrant": "#e4cac0",
+      "lightMuted": "#d3beb0"
+    },
+    "status": "complete"
+  },
+  "resource": "c39c028e-0e63-4553-9278-8bfaa71c8e3f",
+  "fileSize": 315937,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=c39c028e-0e63-4553-9278-8bfaa71c8e3f&a=29e83756-2c24-4c9f-b253-aa0e7ac10677",
+      "source": "/authoring/v1/resources/c39c028e-0e63-4553-9278-8bfaa71c8e3f"
+    }
+  },
+  "metadata": {
+    "width": 1949,
+    "height": 1301
+  },
+  "classification": "asset",
+  "created": "2018-07-23T13:26:54.405Z",
+  "isManaged": true
+}

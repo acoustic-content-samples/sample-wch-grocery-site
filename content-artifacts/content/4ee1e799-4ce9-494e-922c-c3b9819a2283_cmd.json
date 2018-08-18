@@ -1,0 +1,87 @@
+{
+  "id": "4ee1e799-4ce9-494e-922c-c3b9819a2283",
+  "rev": "2-cf179543f77ecf43508930603f3751af",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "d16d1ad4-3709-4092-85ea-a8875562475b",
+  "name": "Japanese Cuisine",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:36.349Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-23T13:30:31.713Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:31.713Z",
+  "elements": {
+    "location": {
+      "elementType": "location",
+      "latitude": -33.82316,
+      "longitude": 151.19676
+    },
+    "endDate": {
+      "elementType": "datetime",
+      "value": "2027-11-27T07:30:00Z"
+    },
+    "image": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=4bd42bcb-3269-487e-9569-767a2254f0d6&a=889e0739-0f10-46b6-8fa2-e03dc0f27de1",
+          "source": "/authoring/v1/resources/4bd42bcb-3269-487e-9569-767a2254f0d6",
+          "width": 6000,
+          "height": 4000
+        },
+        "medium": {
+          "renditionId": "ace9dd3b-c9b5-4150-af93-8bd3571e3fbd",
+          "source": "/authoring/v1/resources/4bd42bcb-3269-487e-9569-767a2254f0d6?resize=450px:300px&crop=400:300;25,0",
+          "width": 400,
+          "height": 300
+        },
+        "large": {
+          "renditionId": "54e616ac-6e8c-415d-b74f-2dfbaefdb2b7",
+          "source": "/authoring/v1/resources/4bd42bcb-3269-487e-9569-767a2254f0d6?resize=750px:500px&crop=600:500;75,0",
+          "width": 600,
+          "height": 500
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 4000,
+        "fileName": "sushi-chef.jpg",
+        "id": "889e0739-0f10-46b6-8fa2-e03dc0f27de1",
+        "fileSize": 3549670,
+        "resourceUri": "/authoring/v1/resources/4bd42bcb-3269-487e-9569-767a2254f0d6",
+        "width": 6000
+      }
+    },
+    "description": {
+      "elementType": "formattedtext",
+      "value": "<p>Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada.</p>\n"
+    },
+    "link": {
+      "elementType": "link"
+    },
+    "address": {
+      "elementType": "formattedtext",
+      "value": "<p>Freshery,<br />\n601 Pacific Highway<br />\nSt Leonards, NSW 2065</p>\n"
+    },
+    "title": {
+      "elementType": "text",
+      "value": "Japanese Cuisine"
+    },
+    "startDate": {
+      "elementType": "datetime",
+      "value": "2027-11-27T05:30:00Z"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "event-page-layout"
+      }
+    }
+  ]
+}

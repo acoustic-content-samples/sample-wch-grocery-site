@@ -1,0 +1,20 @@
+{
+  "scale": 0.46875,
+  "locationY": 50,
+  "height": 500,
+  "locationX": 0,
+  "rev": "1-a91bed432f10331f18db87fec3a57af5",
+  "id": "c76f1b9b-3576-4c1c-9fe3-4dcb12f8565f",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 1280,
+    "fileName": "strawberry-smoothie.jpg",
+    "id": "e2746d2b-1eb1-486a-804d-1b46eb96f823",
+    "resource": "97c68cf6-774d-4ca5-bdc6-1e64fc92ae58",
+    "fileSize": 361392,
+    "width": 1280
+  },
+  "width": 600,
+  "created": "2018-07-23T13:28:19.262Z"
+}

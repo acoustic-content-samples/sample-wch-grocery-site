@@ -1,0 +1,16 @@
+{
+  "name": "Fried Rice",
+  "segment": "fried-rice",
+  "layoutId": "recipe-page-layout",
+  "description": "",
+  "contentTypeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "title": "Fried Rice | Freshery",
+  "contentId": "568a80cc-16ae-48fc-abc9-72f16bab55a0",
+  "hideFromNavigation": false,
+  "contentStatus": "ready",
+  "classification": "page",
+  "position": 1,
+  "id": "52301db5-82ad-458b-aa5d-1dfdf360ff18",
+  "rev": "4-3927d3c25a065990ed01e907a469cfcd",
+  "parentId": "22ce37b2-ac77-4f7b-8ba3-c0cccedb4c55"
+}

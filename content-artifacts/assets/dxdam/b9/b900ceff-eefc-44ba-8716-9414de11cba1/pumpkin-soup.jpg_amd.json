@@ -1,0 +1,101 @@
+{
+  "rev": "4-14de673a976e6b468c02f3917e471fba",
+  "id": "b900ceff-eefc-44ba-8716-9414de11cba1",
+  "mediaType": "image/jpeg",
+  "name": "pumpkin-soup.jpg",
+  "path": "/dxdam/b9/b900ceff-eefc-44ba-8716-9414de11cba1/pumpkin-soup.jpg",
+  "digest": "A7hhVLoz9M1RRN0X4r2dIw==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-29T08:27:31.803Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:bisque",
+      "classification:soup",
+      "classification:dish",
+      "classification:nutrition",
+      "classification:food",
+      "classification:corn chowder",
+      "classification:chowder",
+      "classification:petite marmite",
+      "classification:lentil soup",
+      "classification:pepper pot",
+      "classification:food product",
+      "classification:orange color"
+    ],
+    "declined": [],
+    "analysis": "complete",
+    "suggested": [
+      "classification:bisque",
+      "classification:soup",
+      "classification:dish",
+      "classification:nutrition",
+      "classification:food",
+      "classification:corn chowder",
+      "classification:chowder",
+      "classification:petite marmite",
+      "classification:lentil soup",
+      "classification:pepper pot",
+      "classification:food product",
+      "classification:orange color"
+    ]
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "pumpkin-soup.jpg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-29T08:27:31.803Z",
+  "cognitive": {
+    "classifications": [
+      "bisque",
+      "soup",
+      "dish",
+      "nutrition",
+      "food",
+      "corn chowder",
+      "chowder",
+      "petite marmite",
+      "lentil soup",
+      "pepper pot",
+      "food product",
+      "orange color"
+    ],
+    "faces": [],
+    "colors": {
+      "lightMuted": "#bdad86",
+      "darkMuted": "#3e4b56",
+      "lightVibrant": "#eed771",
+      "vibrant": "#d98a04",
+      "muted": "#8b7c56",
+      "darkVibrant": "#934d05"
+    },
+    "status": "complete"
+  },
+  "resource": "51f62c9a-de36-402f-abbe-10eec790c865",
+  "fileSize": 250386,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=51f62c9a-de36-402f-abbe-10eec790c865&a=b900ceff-eefc-44ba-8716-9414de11cba1",
+      "source": "/authoring/v1/resources/51f62c9a-de36-402f-abbe-10eec790c865"
+    }
+  },
+  "metadata": {
+    "width": 1280,
+    "height": 853,
+    "camera": {
+      "shutterSpeed": "1/4000",
+      "model": "X-T10",
+      "aperture": 4,
+      "make": "FUJIFILM",
+      "focalLength": 35
+    }
+  },
+  "classification": "asset",
+  "created": "2018-07-29T08:16:46.500Z",
+  "isManaged": true
+}

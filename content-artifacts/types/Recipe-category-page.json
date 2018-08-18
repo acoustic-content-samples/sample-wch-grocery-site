@@ -1,0 +1,47 @@
+{
+  "id": "3c38285d-e8fd-499e-9f4e-3f40d7bec023",
+  "rev": "2-d671cd6204457d403d054b075be339b2",
+  "name": "Recipe category page",
+  "classification": "content-type",
+  "kind": [
+    "standalone",
+    "page"
+  ],
+  "contentThumbnail": {
+    "imageElement": "bannerImage",
+    "source": "imageElementOrType"
+  },
+  "description": "",
+  "status": "ready",
+  "tags": [],
+  "elements": [
+    {
+      "elementType": "image",
+      "label": "Banner image",
+      "key": "bannerImage",
+      "required": true,
+      "imageProfileId": "815bc1bf-80d9-4bc7-9635-b98f319ed15e",
+      "acceptType": [
+        "jpg",
+        "jpeg",
+        "png",
+        "gif"
+      ]
+    },
+    {
+      "elementType": "text",
+      "label": "Banner Text",
+      "key": "bannerText",
+      "required": true,
+      "minLength": 1
+    },
+    {
+      "elementType": "category",
+      "label": "Category",
+      "key": "category",
+      "restrictedParents": [
+        "4659fda4-92bd-4172-9cc9-6fb763c07b8c"
+      ]
+    }
+  ]
+}

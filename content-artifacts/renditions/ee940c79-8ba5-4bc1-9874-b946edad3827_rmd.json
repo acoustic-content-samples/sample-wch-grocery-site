@@ -1,0 +1,20 @@
+{
+  "scale": 0.14467592592592593,
+  "locationY": 0,
+  "height": 500,
+  "locationX": 75,
+  "rev": "1-eb8e3f9c3eda012d21d3810ee8e8113b",
+  "id": "ee940c79-8ba5-4bc1-9874-b946edad3827",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 3456,
+    "fileName": "burger-ingredients.jpg",
+    "id": "7438a76f-f7a9-447a-b9db-379b4ddab625",
+    "resource": "b7e12207-1c0c-42eb-8f9c-3bd059200f60",
+    "fileSize": 2630348,
+    "width": 5184
+  },
+  "width": 600,
+  "created": "2018-07-23T13:28:22.055Z"
+}

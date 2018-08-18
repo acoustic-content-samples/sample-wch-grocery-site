@@ -1,0 +1,44 @@
+{
+  "id": "367908ac-e711-4662-a531-91d3ada05508",
+  "rev": "2-98b07d0d5099a306bba33dcdc8886afc",
+  "name": "Dynamic list",
+  "classification": "content-type",
+  "kind": [
+    "standalone"
+  ],
+  "description": "",
+  "status": "ready",
+  "tags": [],
+  "elements": [
+    {
+      "elementType": "text",
+      "label": "Heading",
+      "key": "heading"
+    },
+    {
+      "elementType": "text",
+      "label": "Subheading",
+      "key": "subheading"
+    },
+    {
+      "elementType": "link",
+      "label": "View all link",
+      "key": "viewAllLink"
+    },
+    {
+      "elementType": "number",
+      "fieldType": "integer",
+      "label": "Maximum number of items",
+      "key": "maximumNumberOfItems"
+    },
+    {
+      "elementType": "category",
+      "label": "Type of items to display",
+      "key": "typeOfItemsToDisplay",
+      "required": true,
+      "restrictedParents": [
+        "68c0e0de-4893-4f55-9a16-800faf7c6baf"
+      ]
+    }
+  ]
+}

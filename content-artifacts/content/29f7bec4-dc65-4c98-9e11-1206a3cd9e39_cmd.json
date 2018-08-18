@@ -1,0 +1,99 @@
+{
+  "id": "29f7bec4-dc65-4c98-9e11-1206a3cd9e39",
+  "rev": "27-e2b07c4b9e2ed39538fde359162800c1",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "name": "Mango Mousse",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-29T07:35:41.065Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-29T08:27:32.615Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-29T08:27:32.615Z",
+  "elements": {
+    "method": {
+      "elementType": "formattedtext",
+      "value": "<ol>\n\t<li>Peel and chop the medium mango. Use a blender to puree the mango pieces until smooth.</li>\n\t<li>Beat the cream cheese in a bowl until smooth with an electric mixer on low speed.</li>\n\t<li>Add in the heavy cream, powdered sugar and gelatin. Beat the mixture on medium speed until it thickens.</li>\n\t<li>Fold in the mango puree and refrigerate for at least two hours.</li>\n\t<li>To serve, assemble in small cups with layers of shortbread cookies and mango cream mixture. Then top with chocolate flakes.</li>\n</ol>\n"
+    },
+    "author": {
+      "elementType": "text",
+      "value": "Linda Hou"
+    },
+    "image": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=de00aa3b-98cd-4088-b3b5-2e2100fb8c6f&a=d52992be-d428-4ac2-8246-082c68747c6f",
+          "source": "/authoring/v1/resources/de00aa3b-98cd-4088-b3b5-2e2100fb8c6f",
+          "width": 1280,
+          "height": 853
+        },
+        "medium": {
+          "renditionId": "94606d2e-8a7e-4cb5-8945-67ef1121ee0b",
+          "source": "/authoring/v1/resources/de00aa3b-98cd-4088-b3b5-2e2100fb8c6f?resize=450px:300px&crop=400:300;25,0",
+          "width": 400,
+          "height": 300
+        },
+        "large": {
+          "renditionId": "154ef142-5cad-4566-826d-c336e1c3e966",
+          "source": "/authoring/v1/resources/de00aa3b-98cd-4088-b3b5-2e2100fb8c6f?resize=750px:500px&crop=600:500;75,0",
+          "width": 600,
+          "height": 500
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 853,
+        "fileName": "pastry-orange.jpg",
+        "id": "d52992be-d428-4ac2-8246-082c68747c6f",
+        "fileSize": 154481,
+        "resourceUri": "/authoring/v1/resources/de00aa3b-98cd-4088-b3b5-2e2100fb8c6f",
+        "width": 1280
+      }
+    },
+    "description": {
+      "elementType": "formattedtext",
+      "value": "<p>Oranges make a sweet and colorful dessert to finish off a great meal.</p>\n"
+    },
+    "date": {
+      "elementType": "datetime",
+      "value": "2018-07-29T06:00:00Z"
+    },
+    "nutritionalFeatures": {
+      "elementType": "category",
+      "categoryIds": [
+        "720dfca3-e078-4761-966d-00a3ce878b80",
+        "e2b0aebf-78d5-4057-a303-a02132b81657"
+      ]
+    },
+    "link": {
+      "elementType": "link"
+    },
+    "ingredients": {
+      "elementType": "formattedtext",
+      "value": "<p>1 medium mango<br />\n250g cream cheese<br />\n1 cup heavy cream<br />\n1/4 cup powdered sugar<br />\n1/2 tsp gelatin<br />\n1/2 cup shortbread cookies<br />\nChocolate flakes</p>\n"
+    },
+    "category": {
+      "elementType": "category",
+      "categoryIds": [
+        "ebd0bdcb-c3ba-4d39-99a2-9e421e33ec3d"
+      ]
+    },
+    "title": {
+      "elementType": "text",
+      "value": "Mango Mousse"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "recipe-page-layout"
+      }
+    }
+  ]
+}

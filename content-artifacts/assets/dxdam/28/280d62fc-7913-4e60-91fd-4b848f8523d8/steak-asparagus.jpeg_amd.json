@@ -1,0 +1,88 @@
+{
+  "rev": "3-2b96036d6936cd745ca1ea9e1e6916fe",
+  "id": "280d62fc-7913-4e60-91fd-4b848f8523d8",
+  "mediaType": "image/jpeg",
+  "name": "steak-asparagus.jpeg",
+  "path": "/dxdam/28/280d62fc-7913-4e60-91fd-4b848f8523d8/steak-asparagus.jpeg",
+  "digest": "y9BdF5zribKwAX/om83NKw==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-23T13:30:10.969Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:steak au poivre",
+      "classification:dish",
+      "classification:nutrition",
+      "classification:food",
+      "classification:pepper steak",
+      "classification:meat loaf",
+      "classification:teriyaki",
+      "classification:food product",
+      "classification:chocolate color",
+      "classification:greenishness color"
+    ],
+    "declined": [],
+    "suggested": [
+      "classification:steak au poivre",
+      "classification:dish",
+      "classification:nutrition",
+      "classification:food",
+      "classification:pepper steak",
+      "classification:meat loaf",
+      "classification:teriyaki",
+      "classification:food product",
+      "classification:chocolate color",
+      "classification:greenishness color"
+    ],
+    "analysis": "complete"
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "steak-asparagus.jpeg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:10.969Z",
+  "cognitive": {
+    "classifications": [
+      "steak au poivre",
+      "dish",
+      "nutrition",
+      "food",
+      "pepper steak",
+      "meat loaf",
+      "teriyaki",
+      "food product",
+      "chocolate color",
+      "greenishness color"
+    ],
+    "faces": [],
+    "colors": {
+      "lightMuted": "#9e86bf",
+      "darkMuted": "#554a38",
+      "lightVibrant": "#ebdc80",
+      "vibrant": "#d82105",
+      "muted": "#937e59",
+      "darkVibrant": "#448404"
+    },
+    "status": "complete"
+  },
+  "resource": "f2e30641-7228-4165-8fe2-328f6f8687aa",
+  "fileSize": 201568,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=f2e30641-7228-4165-8fe2-328f6f8687aa&a=280d62fc-7913-4e60-91fd-4b848f8523d8",
+      "source": "/authoring/v1/resources/f2e30641-7228-4165-8fe2-328f6f8687aa"
+    }
+  },
+  "metadata": {
+    "width": 1280,
+    "height": 853
+  },
+  "classification": "asset",
+  "created": "2018-07-23T13:26:52.786Z",
+  "isManaged": true
+}

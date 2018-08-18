@@ -1,0 +1,87 @@
+{
+  "id": "ac8bab98-e7f5-407b-9561-7dd191e53440",
+  "rev": "2-6421a8031a7fcf75c2ee5aa5f40c6ef4",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "d16d1ad4-3709-4092-85ea-a8875562475b",
+  "name": "Organic Coffee Class",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:39.413Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-23T13:30:33.062Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:33.062Z",
+  "elements": {
+    "location": {
+      "elementType": "location",
+      "latitude": -33.82316,
+      "longitude": 151.19676
+    },
+    "endDate": {
+      "elementType": "datetime",
+      "value": "2027-11-15T08:00:00Z"
+    },
+    "image": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=c39c028e-0e63-4553-9278-8bfaa71c8e3f&a=29e83756-2c24-4c9f-b253-aa0e7ac10677",
+          "source": "/authoring/v1/resources/c39c028e-0e63-4553-9278-8bfaa71c8e3f",
+          "width": 1949,
+          "height": 1301
+        },
+        "medium": {
+          "renditionId": "5ee25b6a-47d4-44ce-97e1-e0acc6bf9ae6",
+          "source": "/authoring/v1/resources/c39c028e-0e63-4553-9278-8bfaa71c8e3f?resize=449px:300px&crop=400:300;25,0",
+          "width": 400,
+          "height": 300
+        },
+        "large": {
+          "renditionId": "cfd64f6e-4dd7-4bc5-b88d-6a844b7bbdec",
+          "source": "/authoring/v1/resources/c39c028e-0e63-4553-9278-8bfaa71c8e3f?resize=749px:500px&crop=600:500;75,0",
+          "width": 600,
+          "height": 500
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 1301,
+        "fileName": "coffee-beans.jpeg",
+        "id": "29e83756-2c24-4c9f-b253-aa0e7ac10677",
+        "fileSize": 315937,
+        "resourceUri": "/authoring/v1/resources/c39c028e-0e63-4553-9278-8bfaa71c8e3f",
+        "width": 1949
+      }
+    },
+    "description": {
+      "elementType": "formattedtext",
+      "value": "<p>Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada.</p>\n"
+    },
+    "link": {
+      "elementType": "link"
+    },
+    "address": {
+      "elementType": "formattedtext",
+      "value": "<p>Freshery,<br />\n601 Pacific Highway<br />\nSt Leonards, NSW 2065</p>\n"
+    },
+    "title": {
+      "elementType": "text",
+      "value": "Organic Coffee Class"
+    },
+    "startDate": {
+      "elementType": "datetime",
+      "value": "2027-11-15T06:00:00Z"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "event-page-layout"
+      }
+    }
+  ]
+}

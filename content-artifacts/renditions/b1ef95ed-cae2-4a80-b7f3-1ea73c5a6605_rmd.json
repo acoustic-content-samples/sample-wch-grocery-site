@@ -1,0 +1,20 @@
+{
+  "scale": 0.2471169686985173,
+  "locationY": 50,
+  "height": 500,
+  "locationX": 0,
+  "rev": "1-4dd8991ef617d40dc4ec791abcbc35f1",
+  "id": "b1ef95ed-cae2-4a80-b7f3-1ea73c5a6605",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 2428,
+    "fileName": "vegetable-board.jpg",
+    "id": "4c37a9d8-0cbd-4d17-8f65-766d9d5e40ef",
+    "resource": "1cc4bda7-bf8a-405b-8dbf-de2f2da960e5",
+    "fileSize": 1023592,
+    "width": 2428
+  },
+  "width": 600,
+  "created": "2018-07-23T13:28:18.360Z"
+}

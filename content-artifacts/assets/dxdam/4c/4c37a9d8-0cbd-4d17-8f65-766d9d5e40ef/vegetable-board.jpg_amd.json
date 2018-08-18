@@ -1,0 +1,91 @@
+{
+  "rev": "3-c394a43590cb2477a6f26f758bdb5023",
+  "id": "4c37a9d8-0cbd-4d17-8f65-766d9d5e40ef",
+  "mediaType": "image/jpeg",
+  "name": "vegetable-board.jpg",
+  "path": "/dxdam/4c/4c37a9d8-0cbd-4d17-8f65-766d9d5e40ef/vegetable-board.jpg",
+  "digest": "OyZdQ37Bw7O86Br/2gZgXA==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-23T13:30:13.050Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:tray",
+      "classification:utensil",
+      "classification:Earrings",
+      "classification:shadow box",
+      "classification:box",
+      "classification:backgammon board",
+      "classification:cheeseboard",
+      "classification:food product",
+      "classification:food",
+      "classification:ball",
+      "classification:chestnut color"
+    ],
+    "declined": [],
+    "suggested": [
+      "classification:tray",
+      "classification:utensil",
+      "classification:Earrings",
+      "classification:shadow box",
+      "classification:box",
+      "classification:backgammon board",
+      "classification:cheeseboard",
+      "classification:food product",
+      "classification:food",
+      "classification:ball",
+      "classification:chestnut color"
+    ],
+    "analysis": "complete"
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "vegetable-board.jpg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:13.050Z",
+  "cognitive": {
+    "classifications": [
+      "tray",
+      "utensil",
+      "Earrings",
+      "shadow box",
+      "box",
+      "backgammon board",
+      "cheeseboard",
+      "food product",
+      "food",
+      "ball",
+      "chestnut color"
+    ],
+    "faces": [],
+    "colors": {
+      "lightMuted": "#bab2ac",
+      "darkMuted": "#5e493d",
+      "lightVibrant": "#c89d7b",
+      "vibrant": "#c4793d",
+      "muted": "#9c6246",
+      "darkVibrant": "#993c34"
+    },
+    "status": "complete"
+  },
+  "resource": "1cc4bda7-bf8a-405b-8dbf-de2f2da960e5",
+  "fileSize": 1023592,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=1cc4bda7-bf8a-405b-8dbf-de2f2da960e5&a=4c37a9d8-0cbd-4d17-8f65-766d9d5e40ef",
+      "source": "/authoring/v1/resources/1cc4bda7-bf8a-405b-8dbf-de2f2da960e5"
+    }
+  },
+  "metadata": {
+    "width": 2428,
+    "height": 2428
+  },
+  "classification": "asset",
+  "created": "2018-07-23T13:27:10.021Z",
+  "isManaged": true
+}

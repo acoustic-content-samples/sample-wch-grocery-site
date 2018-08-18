@@ -1,0 +1,97 @@
+{
+  "rev": "3-aaddef78c52882970933ae55f11ad033",
+  "id": "1c9fbcd4-19af-4902-b92d-2bbcf6913310",
+  "mediaType": "image/jpeg",
+  "name": "avocado-egg.jpeg",
+  "path": "/dxdam/1c/1c9fbcd4-19af-4902-b92d-2bbcf6913310/avocado-egg.jpeg",
+  "digest": "wYQgnzxZALNAsT+gn4b1WA==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-23T13:30:09.929Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:poached egg",
+      "classification:dish",
+      "classification:nutrition",
+      "classification:food",
+      "classification:fried egg",
+      "classification:anchovy dressing",
+      "classification:dressing",
+      "classification:sauce",
+      "classification:condiment",
+      "classification:food seasoning",
+      "classification:food ingredient",
+      "classification:food product",
+      "classification:greenishness color"
+    ],
+    "declined": [],
+    "suggested": [
+      "classification:poached egg",
+      "classification:dish",
+      "classification:nutrition",
+      "classification:food",
+      "classification:fried egg",
+      "classification:anchovy dressing",
+      "classification:dressing",
+      "classification:sauce",
+      "classification:condiment",
+      "classification:food seasoning",
+      "classification:food ingredient",
+      "classification:food product",
+      "classification:greenishness color"
+    ],
+    "analysis": "complete"
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "avocado-egg.jpeg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:09.929Z",
+  "cognitive": {
+    "classifications": [
+      "poached egg",
+      "dish",
+      "nutrition",
+      "food",
+      "fried egg",
+      "anchovy dressing",
+      "dressing",
+      "sauce",
+      "condiment",
+      "food seasoning",
+      "food ingredient",
+      "food product",
+      "greenishness color"
+    ],
+    "faces": [],
+    "colors": {
+      "lightMuted": "#bcb4c4",
+      "darkMuted": "#71693b",
+      "lightVibrant": "#d9c784",
+      "vibrant": "#b7ab68",
+      "muted": "#998e66",
+      "darkVibrant": "#5d6124"
+    },
+    "status": "complete"
+  },
+  "resource": "52fd31b9-4344-4f84-9497-01d7b9d4b139",
+  "fileSize": 515040,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=52fd31b9-4344-4f84-9497-01d7b9d4b139&a=1c9fbcd4-19af-4902-b92d-2bbcf6913310",
+      "source": "/authoring/v1/resources/52fd31b9-4344-4f84-9497-01d7b9d4b139"
+    }
+  },
+  "metadata": {
+    "width": 1280,
+    "height": 1706
+  },
+  "classification": "asset",
+  "created": "2018-07-23T13:26:51.057Z",
+  "isManaged": true
+}

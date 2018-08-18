@@ -1,0 +1,16 @@
+{
+  "name": "Blueberry Muffins",
+  "segment": "blueberry-muffins",
+  "layoutId": "recipe-page-layout",
+  "description": "",
+  "contentTypeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "title": "Blueberry Muffins | Freshery",
+  "contentId": "96dfb92e-10ba-4064-80fc-f0b47bb94b81",
+  "hideFromNavigation": false,
+  "contentStatus": "ready",
+  "classification": "page",
+  "position": 0,
+  "id": "ab8fbbba-95b3-4b22-8e71-c8548c1e2fea",
+  "rev": "4-49746e645dcd0a44f6af2f65fc722615",
+  "parentId": "c532613f-57ee-4cbf-8c21-8d2e824d142c"
+}

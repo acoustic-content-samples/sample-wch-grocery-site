@@ -1,0 +1,73 @@
+{
+  "rev": "3-ed10b9519da12ae01fa3f112da20947d",
+  "id": "db2041d5-c586-4d44-9ac4-cdd56ae7c4f8",
+  "mediaType": "image/jpeg",
+  "name": "dumplings.jpeg",
+  "path": "/dxdam/db/db2041d5-c586-4d44-9ac4-cdd56ae7c4f8/dumplings.jpeg",
+  "digest": "L9RbLgZXqs+/7vsbNODzwg==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-23T13:30:17.551Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:dumpling",
+      "classification:dessert",
+      "classification:nutrition",
+      "classification:food",
+      "classification:alabaster color"
+    ],
+    "declined": [],
+    "suggested": [
+      "classification:dumpling",
+      "classification:dessert",
+      "classification:nutrition",
+      "classification:food",
+      "classification:alabaster color"
+    ],
+    "analysis": "complete"
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "dumplings.jpeg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:17.551Z",
+  "cognitive": {
+    "classifications": [
+      "dumpling",
+      "dessert",
+      "nutrition",
+      "food",
+      "alabaster color"
+    ],
+    "faces": [],
+    "colors": {
+      "lightMuted": "#c7b9a8",
+      "darkMuted": "#4c353d",
+      "lightVibrant": "#dec8b1",
+      "vibrant": "#bc8c5e",
+      "muted": "#987658",
+      "darkVibrant": "#232c5d"
+    },
+    "status": "complete"
+  },
+  "resource": "3237377b-9261-483d-855b-f646f143db89",
+  "fileSize": 403443,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=3237377b-9261-483d-855b-f646f143db89&a=db2041d5-c586-4d44-9ac4-cdd56ae7c4f8",
+      "source": "/authoring/v1/resources/3237377b-9261-483d-855b-f646f143db89"
+    }
+  },
+  "metadata": {
+    "width": 1920,
+    "height": 1280
+  },
+  "classification": "asset",
+  "created": "2018-07-23T13:27:48.352Z",
+  "isManaged": true
+}

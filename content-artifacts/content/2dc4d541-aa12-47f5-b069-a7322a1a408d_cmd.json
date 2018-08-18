@@ -1,0 +1,69 @@
+{
+  "id": "2dc4d541-aa12-47f5-b069-a7322a1a408d",
+  "rev": "2-f0bb40ff2840dc631ca58ae8a9c8ac32",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "3c38285d-e8fd-499e-9f4e-3f40d7bec023",
+  "name": "Desserts",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:35.320Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-23T13:30:31.222Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:31.222Z",
+  "elements": {
+    "bannerImage": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=7878d230-84b8-422c-8887-40004370e5ee&a=636ea6c4-b73d-4b02-9c7b-27a686321352",
+          "source": "/authoring/v1/resources/7878d230-84b8-422c-8887-40004370e5ee",
+          "width": 4272,
+          "height": 2848
+        },
+        "medium": {
+          "renditionId": "e60642a9-2653-4970-8daf-63bb21dc08e0",
+          "source": "/authoring/v1/resources/7878d230-84b8-422c-8887-40004370e5ee?resize=450px:300px&crop=400:300;25,0",
+          "width": 400,
+          "height": 300
+        },
+        "large": {
+          "renditionId": "332d0306-91cb-4964-aa2f-c13d6927d609",
+          "source": "/authoring/v1/resources/7878d230-84b8-422c-8887-40004370e5ee?resize=2500px:1667px&crop=2500:1200;0,233",
+          "width": 2500,
+          "height": 1200
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 2848,
+        "fileName": "cupcakes.jpg",
+        "id": "636ea6c4-b73d-4b02-9c7b-27a686321352",
+        "fileSize": 1645935,
+        "resourceUri": "/authoring/v1/resources/7878d230-84b8-422c-8887-40004370e5ee",
+        "width": 4272
+      }
+    },
+    "bannerText": {
+      "elementType": "text",
+      "value": "Desserts"
+    },
+    "category": {
+      "elementType": "category",
+      "categoryIds": [
+        "ebd0bdcb-c3ba-4d39-99a2-9e421e33ec3d"
+      ]
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "recipe-category-page-layout"
+      }
+    }
+  ]
+}

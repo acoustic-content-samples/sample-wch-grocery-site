@@ -1,0 +1,16 @@
+{
+  "name": "Pea Soup",
+  "segment": "pea-soup",
+  "layoutId": "recipe-page-layout",
+  "description": "",
+  "contentTypeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "title": "Pea Soup | Freshery",
+  "contentId": "259d6de7-a7e1-4668-a91f-5bf1411d4b5e",
+  "hideFromNavigation": false,
+  "contentStatus": "ready",
+  "classification": "page",
+  "position": 0,
+  "id": "81134013-760f-4e73-9755-ca2b6177c3eb",
+  "rev": "6-d69f8047f2ee04ecf3cbbb3f9ccc21a2",
+  "parentId": "c71582fa-9e5c-4536-a74a-7d489881c015"
+}

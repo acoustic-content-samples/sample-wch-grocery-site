@@ -1,0 +1,94 @@
+{
+  "rev": "3-cd38106980425b18d2591ba55594365f",
+  "id": "739536f7-40ca-42db-914e-9ae400e8cec1",
+  "mediaType": "image/jpeg",
+  "name": "spaghetti.jpg",
+  "path": "/dxdam/73/739536f7-40ca-42db-914e-9ae400e8cec1/spaghetti.jpg",
+  "digest": "J9b9GrzFw5WUZQJqvlsEyg==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-23T13:30:13.047Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:person",
+      "classification:wiring",
+      "classification:electrical device",
+      "classification:connector wire",
+      "classification:hookup",
+      "classification:oxyacetylene torch",
+      "classification:burner",
+      "classification:apparatus",
+      "classification:electrical cable",
+      "classification:transmission line",
+      "classification:electrical connector",
+      "classification:steel blue color"
+    ],
+    "declined": [],
+    "suggested": [
+      "classification:person",
+      "classification:wiring",
+      "classification:electrical device",
+      "classification:connector wire",
+      "classification:hookup",
+      "classification:oxyacetylene torch",
+      "classification:burner",
+      "classification:apparatus",
+      "classification:electrical cable",
+      "classification:transmission line",
+      "classification:electrical connector",
+      "classification:steel blue color"
+    ],
+    "analysis": "complete"
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "spaghetti.jpg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:13.047Z",
+  "cognitive": {
+    "classifications": [
+      "person",
+      "wiring",
+      "electrical device",
+      "connector wire",
+      "hookup",
+      "oxyacetylene torch",
+      "burner",
+      "apparatus",
+      "electrical cable",
+      "transmission line",
+      "electrical connector",
+      "steel blue color"
+    ],
+    "faces": [],
+    "colors": {
+      "lightMuted": "#d7c7b3",
+      "darkMuted": "#293244",
+      "lightVibrant": "#eec998",
+      "vibrant": "#a4844c",
+      "muted": "#a38558",
+      "darkVibrant": "#142540"
+    },
+    "status": "complete"
+  },
+  "resource": "903ce6fb-69d8-484f-8f76-5d34a5a1831c",
+  "fileSize": 7093595,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=903ce6fb-69d8-484f-8f76-5d34a5a1831c&a=739536f7-40ca-42db-914e-9ae400e8cec1",
+      "source": "/authoring/v1/resources/903ce6fb-69d8-484f-8f76-5d34a5a1831c"
+    }
+  },
+  "metadata": {
+    "width": 6000,
+    "height": 4000
+  },
+  "classification": "asset",
+  "created": "2018-07-23T13:27:43.158Z",
+  "isManaged": true
+}

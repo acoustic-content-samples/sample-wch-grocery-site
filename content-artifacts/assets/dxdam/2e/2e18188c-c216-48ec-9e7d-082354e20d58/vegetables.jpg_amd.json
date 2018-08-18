@@ -1,0 +1,91 @@
+{
+  "rev": "3-ed76210052604a9b870527faf655ae5d",
+  "id": "2e18188c-c216-48ec-9e7d-082354e20d58",
+  "mediaType": "image/jpeg",
+  "name": "vegetables.jpg",
+  "path": "/dxdam/2e/2e18188c-c216-48ec-9e7d-082354e20d58/vegetables.jpg",
+  "digest": "7l8N2cWic9dR8cjCp5QvWw==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-23T13:30:10.939Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:balanced diet (food)",
+      "classification:diet (food)",
+      "classification:food",
+      "classification:high-vitamin diet food",
+      "classification:vegetarianism food",
+      "classification:vegetable",
+      "classification:plant",
+      "classification:reducing diet food",
+      "classification:dietary (food)",
+      "classification:reddish orange color",
+      "classification:olive color"
+    ],
+    "declined": [],
+    "suggested": [
+      "classification:balanced diet (food)",
+      "classification:diet (food)",
+      "classification:food",
+      "classification:high-vitamin diet food",
+      "classification:vegetarianism food",
+      "classification:vegetable",
+      "classification:plant",
+      "classification:reducing diet food",
+      "classification:dietary (food)",
+      "classification:reddish orange color",
+      "classification:olive color"
+    ],
+    "analysis": "complete"
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "vegetables.jpg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:10.939Z",
+  "cognitive": {
+    "classifications": [
+      "balanced diet (food)",
+      "diet (food)",
+      "food",
+      "high-vitamin diet food",
+      "vegetarianism food",
+      "vegetable",
+      "plant",
+      "reducing diet food",
+      "dietary (food)",
+      "reddish orange color",
+      "olive color"
+    ],
+    "faces": [],
+    "colors": {
+      "lightMuted": "#d8c8bb",
+      "darkMuted": "#4f4832",
+      "lightVibrant": "#e58d42",
+      "vibrant": "#de521e",
+      "muted": "#64748c",
+      "darkVibrant": "#4e6c0b"
+    },
+    "status": "complete"
+  },
+  "resource": "411c23db-c617-48d0-ad70-82f98d0d9ae3",
+  "fileSize": 4926947,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=411c23db-c617-48d0-ad70-82f98d0d9ae3&a=2e18188c-c216-48ec-9e7d-082354e20d58",
+      "source": "/authoring/v1/resources/411c23db-c617-48d0-ad70-82f98d0d9ae3"
+    }
+  },
+  "metadata": {
+    "width": 5512,
+    "height": 3675
+  },
+  "classification": "asset",
+  "created": "2018-07-23T13:27:15.007Z",
+  "isManaged": true
+}

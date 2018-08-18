@@ -1,0 +1,71 @@
+{
+  "id": "5d5605e4-61ca-46b1-a47b-c08d30bb977f",
+  "rev": "2-cb8de0e483df89a18adb5997a1d50746",
+  "kind": [],
+  "classification": "content",
+  "typeId": "2215421a-042e-424e-9544-c2993ca1b0d9",
+  "name": "Events slide",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:36.944Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-23T13:30:31.875Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:31.875Z",
+  "elements": {
+    "heading": {
+      "elementType": "text",
+      "value": "Terrific classes"
+    },
+    "subheading": {
+      "elementType": "text",
+      "value": "Learn from our best chefs"
+    },
+    "image": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=2e25caa2-0b64-4df7-905b-38091661c8b6&a=33568ce8-a09a-4c72-a303-fc74004a6c1e",
+          "source": "/authoring/v1/resources/2e25caa2-0b64-4df7-905b-38091661c8b6",
+          "width": 4032,
+          "height": 3024
+        },
+        "large": {
+          "renditionId": "a1b0ccb5-cc47-4dc2-ae4c-1e72591b6e34",
+          "source": "/authoring/v1/resources/2e25caa2-0b64-4df7-905b-38091661c8b6?resize=2500px:1875px&crop=2500:1200;0,338",
+          "width": 2500,
+          "height": 1200
+        },
+        "medium": {
+          "renditionId": "bad36683-fcfa-48d9-997c-bebfc486810e",
+          "source": "/authoring/v1/resources/2e25caa2-0b64-4df7-905b-38091661c8b6?resize=400px:300px&crop=400:300;0,0",
+          "width": 400,
+          "height": 300
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 3024,
+        "fileName": "salad-ingredients.jpg",
+        "id": "33568ce8-a09a-4c72-a303-fc74004a6c1e",
+        "fileSize": 3060790,
+        "resourceUri": "/authoring/v1/resources/2e25caa2-0b64-4df7-905b-38091661c8b6",
+        "width": 4032
+      }
+    },
+    "actionLink": {
+      "elementType": "link",
+      "linkURL": "/events",
+      "linkText": "Learn more"
+    }
+  },
+  "keywords": [],
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "slide-layout"
+      }
+    }
+  ]
+}

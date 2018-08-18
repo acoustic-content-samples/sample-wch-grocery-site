@@ -1,0 +1,97 @@
+{
+  "rev": "3-7ad982a6d527cd099b0961092b1eebf6",
+  "id": "e2746d2b-1eb1-486a-804d-1b46eb96f823",
+  "mediaType": "image/jpeg",
+  "name": "strawberry-smoothie.jpg",
+  "path": "/dxdam/e2/e2746d2b-1eb1-486a-804d-1b46eb96f823/strawberry-smoothie.jpg",
+  "digest": "x7sWTs4dNb3Wx+J2EFdsag==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-23T13:30:17.575Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:daiquiri",
+      "classification:cocktail",
+      "classification:mixed drink",
+      "classification:alcoholic beverage",
+      "classification:beverage",
+      "classification:food",
+      "classification:strawberry daiquiri",
+      "classification:NADA daiquiri",
+      "classification:syllabub",
+      "classification:dessert",
+      "classification:nutrition",
+      "classification:claret red color",
+      "classification:carnation color"
+    ],
+    "declined": [],
+    "suggested": [
+      "classification:daiquiri",
+      "classification:cocktail",
+      "classification:mixed drink",
+      "classification:alcoholic beverage",
+      "classification:beverage",
+      "classification:food",
+      "classification:strawberry daiquiri",
+      "classification:NADA daiquiri",
+      "classification:syllabub",
+      "classification:dessert",
+      "classification:nutrition",
+      "classification:claret red color",
+      "classification:carnation color"
+    ],
+    "analysis": "complete"
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "strawberry-smoothie.jpg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:17.575Z",
+  "cognitive": {
+    "classifications": [
+      "daiquiri",
+      "cocktail",
+      "mixed drink",
+      "alcoholic beverage",
+      "beverage",
+      "food",
+      "strawberry daiquiri",
+      "NADA daiquiri",
+      "syllabub",
+      "dessert",
+      "nutrition",
+      "claret red color",
+      "carnation color"
+    ],
+    "faces": [],
+    "colors": {
+      "lightMuted": "#b6ccd3",
+      "darkMuted": "#534d44",
+      "lightVibrant": "#e9959c",
+      "vibrant": "#e32636",
+      "muted": "#678d92",
+      "darkVibrant": "#9b982f"
+    },
+    "status": "complete"
+  },
+  "resource": "97c68cf6-774d-4ca5-bdc6-1e64fc92ae58",
+  "fileSize": 361392,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=97c68cf6-774d-4ca5-bdc6-1e64fc92ae58&a=e2746d2b-1eb1-486a-804d-1b46eb96f823",
+      "source": "/authoring/v1/resources/97c68cf6-774d-4ca5-bdc6-1e64fc92ae58"
+    }
+  },
+  "metadata": {
+    "width": 1280,
+    "height": 1280
+  },
+  "classification": "asset",
+  "created": "2018-07-23T13:27:50.105Z",
+  "isManaged": true
+}

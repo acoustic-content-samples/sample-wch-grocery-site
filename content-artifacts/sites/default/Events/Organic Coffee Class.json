@@ -1,0 +1,16 @@
+{
+  "name": "Organic Coffee Class",
+  "segment": "organic-coffee-class",
+  "layoutId": "event-page-layout",
+  "description": "",
+  "contentTypeId": "d16d1ad4-3709-4092-85ea-a8875562475b",
+  "title": "Organic Coffee Class | Freshery",
+  "contentId": "ac8bab98-e7f5-407b-9561-7dd191e53440",
+  "hideFromNavigation": false,
+  "contentStatus": "ready",
+  "classification": "page",
+  "position": 3,
+  "id": "6bed7ee2-4a91-4b13-bc8e-8ce2283f84cd",
+  "rev": "2-81de827e7266604070c9baed3ebba383",
+  "parentId": "f22e0f36-7998-4ef4-9629-02b3ed2431ec"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "e0f2fb4d-1694-46ae-aec0-a867662fba13",
+  "rev": "23-8c1fda300007ef2652e873e45ed43e88",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "name": "Pancake",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-29T07:26:06.833Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-29T08:27:33.290Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-29T08:27:33.290Z",
+  "elements": {
+    "method": {
+      "elementType": "formattedtext",
+      "value": "<ol>\n\t<li>In a jug, whisk eggs and milk.</li>\n\t<li>In a bowl, sift flour and add in sugar.</li>\n\t<li>Add milk mixture into the bowl and whisk until smooth and lump free.</li>\n\t<li>Heat a large frying pan over medium heat and brush with butter over cooking surface.</li>\n\t<li>Pour 1/4 cup of mixture for each pancake and cook for 2 minutes or when bubbles form on the surface. Flip the pancake over and cook for another 2 minutes or when lightly golden.</li>\n\t<li>Serve with maple syrup.</li>\n</ol>\n"
+    },
+    "author": {
+      "elementType": "text",
+      "value": "Victor Chan"
+    },
+    "image": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=4f036ce8-69e7-4c82-a433-7872c7625b0c&a=3413e72d-9da9-4e3b-af57-5b96fc039bb9",
+          "source": "/authoring/v1/resources/4f036ce8-69e7-4c82-a433-7872c7625b0c",
+          "width": 1920,
+          "height": 1172
+        },
+        "medium": {
+          "renditionId": "3693dfa9-f310-42c3-bf83-5c8a63474880",
+          "source": "/authoring/v1/resources/4f036ce8-69e7-4c82-a433-7872c7625b0c?resize=491px:300px&crop=400:300;46,0",
+          "width": 400,
+          "height": 300
+        },
+        "large": {
+          "renditionId": "b185dc4a-1e17-44b8-a1e8-5637eaf736d5",
+          "source": "/authoring/v1/resources/4f036ce8-69e7-4c82-a433-7872c7625b0c?resize=819px:500px&crop=600:500;110,0",
+          "width": 600,
+          "height": 500
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 1172,
+        "fileName": "pancake.jpeg",
+        "id": "3413e72d-9da9-4e3b-af57-5b96fc039bb9",
+        "fileSize": 365149,
+        "resourceUri": "/authoring/v1/resources/4f036ce8-69e7-4c82-a433-7872c7625b0c",
+        "width": 1920
+      }
+    },
+    "description": {
+      "elementType": "formattedtext",
+      "value": "<p>You won&#39;t believe how easy it is to create these classic pancakes.</p>\n"
+    },
+    "date": {
+      "elementType": "datetime",
+      "value": "2018-07-29T05:00:00Z"
+    },
+    "nutritionalFeatures": {
+      "elementType": "category",
+      "categoryIds": [
+        "720dfca3-e078-4761-966d-00a3ce878b80",
+        "e2b0aebf-78d5-4057-a303-a02132b81657"
+      ]
+    },
+    "link": {
+      "elementType": "link"
+    },
+    "ingredients": {
+      "elementType": "formattedtext",
+      "value": "<p>2 eggs<br />\n1 3/4 cup milk<br />\n2 cups self-raising flour<br />\n1/3 cup sugar<br />\n50g butter<br />\nMaple syrup</p>\n"
+    },
+    "category": {
+      "elementType": "category",
+      "categoryIds": [
+        "d9ea5c56-70e2-49e0-881d-cebbf8f6c575"
+      ]
+    },
+    "title": {
+      "elementType": "text",
+      "value": "Pancake"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "recipe-page-layout"
+      }
+    }
+  ]
+}

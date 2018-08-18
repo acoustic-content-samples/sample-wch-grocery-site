@@ -1,0 +1,99 @@
+{
+  "id": "27306e12-2c92-426f-86e2-68e5b5ae1d3d",
+  "rev": "3-f18dadc5f6fe0236e9e24f7c09f3b498",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "name": "Avocado Poached Egg",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:35.339Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-29T08:27:32.117Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-29T08:27:32.117Z",
+  "elements": {
+    "method": {
+      "elementType": "formattedtext",
+      "value": "<ol>\n\t<li>Heat a medium saucepan of water (enough to cover eggs) to a simmer.</li>\n\t<li>Break eggs into a small dish and gently add into the water.</li>\n\t<li>Cook the eggs for 3-4 minutes.</li>\n\t<li>While the eggs are poaching, toast the slices of bread.</li>\n\t<li>Mash the avocado with some lime juice, salt and pepper.</li>\n\t<li>Spread avocado mixture over each toast and sprinkle with some goat cheese.</li>\n\t<li>Top toasts with spinach and poached egg.</li>\n</ol>\n"
+    },
+    "author": {
+      "elementType": "text",
+      "value": "Linda Hou"
+    },
+    "image": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=52fd31b9-4344-4f84-9497-01d7b9d4b139&a=1c9fbcd4-19af-4902-b92d-2bbcf6913310",
+          "source": "/authoring/v1/resources/52fd31b9-4344-4f84-9497-01d7b9d4b139",
+          "width": 1280,
+          "height": 1706
+        },
+        "medium": {
+          "renditionId": "9c59872e-8176-43a9-94f9-0d91e8c9b90d",
+          "source": "/authoring/v1/resources/52fd31b9-4344-4f84-9497-01d7b9d4b139?resize=400px:533px&crop=400:300;0,117",
+          "width": 400,
+          "height": 300
+        },
+        "large": {
+          "renditionId": "1ac9fcf1-effa-402a-8a0d-ea44853ef568",
+          "source": "/authoring/v1/resources/52fd31b9-4344-4f84-9497-01d7b9d4b139?resize=600px:800px&crop=600:500;0,150",
+          "width": 600,
+          "height": 500
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 1706,
+        "fileName": "avocado-egg.jpeg",
+        "id": "1c9fbcd4-19af-4902-b92d-2bbcf6913310",
+        "fileSize": 515040,
+        "resourceUri": "/authoring/v1/resources/52fd31b9-4344-4f84-9497-01d7b9d4b139",
+        "width": 1280
+      }
+    },
+    "description": {
+      "elementType": "formattedtext",
+      "value": "<p>This easy poached egg and avocado toast takes less than 10 minutes from start to finish! A healthy whole&nbsp;food breakfast to start your day right!</p>\n"
+    },
+    "date": {
+      "elementType": "datetime",
+      "value": "2017-11-05T13:00:00Z"
+    },
+    "nutritionalFeatures": {
+      "elementType": "category",
+      "categoryIds": [
+        "13a525e8-c365-4df4-8ace-70bdd0202cb0",
+        "ab376187-afd9-44b3-81a4-71fd3ece1c62"
+      ]
+    },
+    "link": {
+      "elementType": "link"
+    },
+    "ingredients": {
+      "elementType": "formattedtext",
+      "value": "<p>2 eggs<br />\n2 slices of whole grain bread<br />\n1 avocado<br />\n1 tbsp shredded goat cheese<br />\nLime wedges<br />\nHandful of spinach<br />\nSalt and pepper</p>\n"
+    },
+    "category": {
+      "elementType": "category",
+      "categoryIds": [
+        "d9ea5c56-70e2-49e0-881d-cebbf8f6c575"
+      ]
+    },
+    "title": {
+      "elementType": "text",
+      "value": "Avocado Poached Egg"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "recipe-page-layout"
+      }
+    }
+  ]
+}

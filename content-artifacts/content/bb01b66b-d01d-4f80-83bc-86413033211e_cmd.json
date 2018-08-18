@@ -1,0 +1,87 @@
+{
+  "id": "bb01b66b-d01d-4f80-83bc-86413033211e",
+  "rev": "2-0eb48f67b2fe236b5ff5f22c52401772",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "d16d1ad4-3709-4092-85ea-a8875562475b",
+  "name": "Vegetable Essentials",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:40.459Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-23T13:30:33.553Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:33.553Z",
+  "elements": {
+    "location": {
+      "elementType": "location",
+      "latitude": -33.82316,
+      "longitude": 151.19676
+    },
+    "endDate": {
+      "elementType": "datetime",
+      "value": "2028-01-05T08:00:00Z"
+    },
+    "image": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=1cc4bda7-bf8a-405b-8dbf-de2f2da960e5&a=4c37a9d8-0cbd-4d17-8f65-766d9d5e40ef",
+          "source": "/authoring/v1/resources/1cc4bda7-bf8a-405b-8dbf-de2f2da960e5",
+          "width": 2428,
+          "height": 2428
+        },
+        "medium": {
+          "renditionId": "8bc062a0-d59a-4ba1-9c42-0538e9623cb2",
+          "source": "/authoring/v1/resources/1cc4bda7-bf8a-405b-8dbf-de2f2da960e5?resize=400px:400px&crop=400:300;0,50",
+          "width": 400,
+          "height": 300
+        },
+        "large": {
+          "renditionId": "b1ef95ed-cae2-4a80-b7f3-1ea73c5a6605",
+          "source": "/authoring/v1/resources/1cc4bda7-bf8a-405b-8dbf-de2f2da960e5?resize=600px:600px&crop=600:500;0,50",
+          "width": 600,
+          "height": 500
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 2428,
+        "fileName": "vegetable-board.jpg",
+        "id": "4c37a9d8-0cbd-4d17-8f65-766d9d5e40ef",
+        "fileSize": 1023592,
+        "resourceUri": "/authoring/v1/resources/1cc4bda7-bf8a-405b-8dbf-de2f2da960e5",
+        "width": 2428
+      }
+    },
+    "description": {
+      "elementType": "formattedtext",
+      "value": "<p>Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada.</p>\n"
+    },
+    "link": {
+      "elementType": "link"
+    },
+    "address": {
+      "elementType": "formattedtext",
+      "value": "<p>Freshery,<br />\n601 Pacific Highway<br />\nSt Leonards, NSW 2065</p>\n"
+    },
+    "title": {
+      "elementType": "text",
+      "value": "Vegetable Essentials"
+    },
+    "startDate": {
+      "elementType": "datetime",
+      "value": "2028-01-05T06:00:00Z"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "event-page-layout"
+      }
+    }
+  ]
+}

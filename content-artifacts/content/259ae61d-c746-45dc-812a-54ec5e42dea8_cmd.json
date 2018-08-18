@@ -1,0 +1,52 @@
+{
+  "id": "259ae61d-c746-45dc-812a-54ec5e42dea8",
+  "rev": "2-6454003d6a653df77fb06977aa46edf0",
+  "kind": [],
+  "classification": "content",
+  "typeId": "a0827940-d345-4e9c-be0e-fa6bd7d8b63d",
+  "name": "Contact",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:35.295Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-23T13:30:31.191Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:31.191Z",
+  "elements": {
+    "openingHours": {
+      "elementType": "formattedtext",
+      "value": "<p><strong>Monday to Friday:</strong> 9:00am &ndash; 5:00pm<br />\n<strong>Saturday:</strong> 10:00am &ndash; 4:00pm<br />\n<strong>Sunday:</strong> 10:00am &ndash; 1:00pm</p>\n"
+    },
+    "location": {
+      "elementType": "location",
+      "latitude": -33.82316,
+      "longitude": 151.19676
+    },
+    "email": {
+      "elementType": "text",
+      "value": "contact@freshery.com"
+    },
+    "address": {
+      "elementType": "formattedtext",
+      "value": "<p>Freshery,<br />\n601 Pacific Highway<br />\nSt Leonards, NSW 2065</p>\n"
+    },
+    "formHeading": {
+      "elementType": "text",
+      "value": "Get in touch"
+    },
+    "phone": {
+      "elementType": "text",
+      "value": "+61 1234 5678"
+    }
+  },
+  "keywords": [],
+  "locale": "en",
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "contact-layout"
+      }
+    }
+  ]
+}

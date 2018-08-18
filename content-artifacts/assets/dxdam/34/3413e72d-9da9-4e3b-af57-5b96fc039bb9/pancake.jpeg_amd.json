@@ -1,0 +1,103 @@
+{
+  "rev": "4-7c0dc40fba7da922ba804e9ad2c0f895",
+  "id": "3413e72d-9da9-4e3b-af57-5b96fc039bb9",
+  "mediaType": "image/jpeg",
+  "name": "pancake.jpeg",
+  "path": "/dxdam/34/3413e72d-9da9-4e3b-af57-5b96fc039bb9/pancake.jpeg",
+  "digest": "1m7Nw370OMOIleDamG22Kw==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-29T08:27:31.803Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:tiramisu",
+      "classification:dessert",
+      "classification:nutrition",
+      "classification:food",
+      "classification:baked Alaska",
+      "classification:shortcake",
+      "classification:biscuit",
+      "classification:quick bread",
+      "classification:bread",
+      "classification:food product",
+      "classification:club sandwich",
+      "classification:sandwich",
+      "classification:dish",
+      "classification:chocolate color",
+      "classification:light brown color"
+    ],
+    "declined": [],
+    "analysis": "complete",
+    "suggested": [
+      "classification:tiramisu",
+      "classification:dessert",
+      "classification:nutrition",
+      "classification:food",
+      "classification:baked Alaska",
+      "classification:shortcake",
+      "classification:biscuit",
+      "classification:quick bread",
+      "classification:bread",
+      "classification:food product",
+      "classification:club sandwich",
+      "classification:sandwich",
+      "classification:dish",
+      "classification:chocolate color",
+      "classification:light brown color"
+    ]
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "pancake.jpeg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-29T08:27:31.803Z",
+  "cognitive": {
+    "classifications": [
+      "tiramisu",
+      "dessert",
+      "nutrition",
+      "food",
+      "baked Alaska",
+      "shortcake",
+      "biscuit",
+      "quick bread",
+      "bread",
+      "food product",
+      "club sandwich",
+      "sandwich",
+      "dish",
+      "chocolate color",
+      "light brown color"
+    ],
+    "faces": [],
+    "colors": {
+      "lightMuted": "#b4c7d5",
+      "darkMuted": "#64503b",
+      "lightVibrant": "#e4c191",
+      "vibrant": "#bb7121",
+      "muted": "#a28765",
+      "darkVibrant": "#683622"
+    },
+    "status": "complete"
+  },
+  "resource": "4f036ce8-69e7-4c82-a433-7872c7625b0c",
+  "fileSize": 365149,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=4f036ce8-69e7-4c82-a433-7872c7625b0c&a=3413e72d-9da9-4e3b-af57-5b96fc039bb9",
+      "source": "/authoring/v1/resources/4f036ce8-69e7-4c82-a433-7872c7625b0c"
+    }
+  },
+  "metadata": {
+    "width": 1920,
+    "height": 1172
+  },
+  "classification": "asset",
+  "created": "2018-07-29T07:27:08.885Z",
+  "isManaged": true
+}

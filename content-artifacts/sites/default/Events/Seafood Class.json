@@ -1,0 +1,16 @@
+{
+  "name": "Seafood Class",
+  "segment": "seafood-class",
+  "layoutId": "event-page-layout",
+  "description": "",
+  "contentTypeId": "d16d1ad4-3709-4092-85ea-a8875562475b",
+  "title": "Seafood Class | Freshery",
+  "contentId": "9e57da53-7967-46e4-8e2d-b99a9d847281",
+  "hideFromNavigation": false,
+  "contentStatus": "ready",
+  "classification": "page",
+  "position": 5,
+  "id": "1c3981e3-8fad-4ba2-b7c9-a228bee1cb34",
+  "rev": "2-8bb156413a64533ab865ed0b9cd034ea",
+  "parentId": "f22e0f36-7998-4ef4-9629-02b3ed2431ec"
+}

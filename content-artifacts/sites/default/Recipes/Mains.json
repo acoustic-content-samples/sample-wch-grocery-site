@@ -1,0 +1,16 @@
+{
+  "name": "Mains",
+  "segment": "mains",
+  "layoutId": "recipe-category-page-layout",
+  "description": "",
+  "contentTypeId": "3c38285d-e8fd-499e-9f4e-3f40d7bec023",
+  "title": "Main Recipes | Freshery",
+  "contentId": "f1b6c3d0-2c0a-4cb3-85a6-5afc43b857cc",
+  "hideFromNavigation": false,
+  "contentStatus": "ready",
+  "classification": "page",
+  "position": 4,
+  "id": "22ce37b2-ac77-4f7b-8ba3-c0cccedb4c55",
+  "rev": "6-a7a99d4d63b07263d38a89a6fee56376",
+  "parentId": "7ee0834e-e6f8-48bc-89b3-09ac6e78c452"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "ef333692-773c-4fcf-999c-5ca16359e03d",
+  "rev": "2-75725e46a1977fa4632034d2677e813b",
+  "name": "About",
+  "classification": "content-type",
+  "kind": [
+    "standalone"
+  ],
+  "description": "",
+  "status": "ready",
+  "tags": [],
+  "elements": [
+    {
+      "elementType": "text",
+      "label": "Heading",
+      "key": "heading"
+    },
+    {
+      "elementType": "formattedtext",
+      "label": "Body",
+      "key": "body"
+    }
+  ]
+}

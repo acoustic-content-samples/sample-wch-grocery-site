@@ -1,0 +1,94 @@
+{
+  "rev": "3-817548490039f34758290c6113631be4",
+  "id": "2fe802b6-bfff-4023-9184-88d4680d5261",
+  "mediaType": "image/jpeg",
+  "name": "seafood-salad.jpg",
+  "path": "/dxdam/2f/2fe802b6-bfff-4023-9184-88d4680d5261/seafood-salad.jpg",
+  "digest": "ceYJgTfQZ1yW1onL3hKn4w==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-23T13:30:13.048Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:chef's salad",
+      "classification:tossed salad",
+      "classification:salad",
+      "classification:dish",
+      "classification:nutrition",
+      "classification:food",
+      "classification:salad nicoise",
+      "classification:combination salad",
+      "classification:tabbouleh",
+      "classification:food product",
+      "classification:greenishness color",
+      "classification:pale yellow color"
+    ],
+    "declined": [],
+    "suggested": [
+      "classification:chef's salad",
+      "classification:tossed salad",
+      "classification:salad",
+      "classification:dish",
+      "classification:nutrition",
+      "classification:food",
+      "classification:salad nicoise",
+      "classification:combination salad",
+      "classification:tabbouleh",
+      "classification:food product",
+      "classification:greenishness color",
+      "classification:pale yellow color"
+    ],
+    "analysis": "complete"
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "seafood-salad.jpg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:13.048Z",
+  "cognitive": {
+    "classifications": [
+      "chef's salad",
+      "tossed salad",
+      "salad",
+      "dish",
+      "nutrition",
+      "food",
+      "salad nicoise",
+      "combination salad",
+      "tabbouleh",
+      "food product",
+      "greenishness color",
+      "pale yellow color"
+    ],
+    "faces": [],
+    "colors": {
+      "lightMuted": "#b6c9a7",
+      "darkMuted": "#5f4331",
+      "lightVibrant": "#e9d594",
+      "vibrant": "#d87714",
+      "muted": "#9a6a4f",
+      "darkVibrant": "#9f4c11"
+    },
+    "status": "complete"
+  },
+  "resource": "55599bd1-294c-4c28-bc5d-ea6f7c6922d7",
+  "fileSize": 253160,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=55599bd1-294c-4c28-bc5d-ea6f7c6922d7&a=2fe802b6-bfff-4023-9184-88d4680d5261",
+      "source": "/authoring/v1/resources/55599bd1-294c-4c28-bc5d-ea6f7c6922d7"
+    }
+  },
+  "metadata": {
+    "width": 1280,
+    "height": 853
+  },
+  "classification": "asset",
+  "created": "2018-07-23T13:26:54.242Z",
+  "isManaged": true
+}

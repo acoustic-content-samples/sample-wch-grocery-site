@@ -1,0 +1,16 @@
+{
+  "name": "Blueberry Cheesecake",
+  "segment": "blueberry-cheesecake",
+  "layoutId": "recipe-page-layout",
+  "description": "",
+  "contentTypeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "title": "Blueberry Cheesecake | Freshery",
+  "contentId": "1413e903-7a0c-4a76-b6cd-2d20563101df",
+  "hideFromNavigation": false,
+  "contentStatus": "ready",
+  "classification": "page",
+  "position": 0,
+  "id": "78742729-2ae3-4c57-b7e6-7364cd6cc49c",
+  "rev": "6-658fe3d2e98e92f9a0fa49874bcff875",
+  "parentId": "acee0ab9-e7ef-4eca-b2a4-0010de068d4b"
+}

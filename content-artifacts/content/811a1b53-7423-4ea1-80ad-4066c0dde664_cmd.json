@@ -1,0 +1,99 @@
+{
+  "id": "811a1b53-7423-4ea1-80ad-4066c0dde664",
+  "rev": "3-f68c3e8d33fee5a2e5a569cb68d1b013",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "name": "Coffee Truffles",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:37.986Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-29T08:27:32.123Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-29T08:27:32.123Z",
+  "elements": {
+    "method": {
+      "elementType": "formattedtext",
+      "value": "<ol>\n\t<li>Chop chocolate into small pieces and combine it with the cream in a bowl.</li>\n\t<li>Heat the chocolate and cream in a microwave for 2 to 3 minutes on 50% power, stirring every minute.</li>\n\t<li>When the mixture is melted and smooth, stir in coffee powder.</li>\n\t<li>Cover the bowl with plastic wrap and refrigerate for 3 hours until firm.</li>\n\t<li>Roll the chocolate mixture into balls, using 2 teaspoons at a time.</li>\n\t<li>Coat the truffles in chocolate sprinkles and serve, or refrigerate for later.</li>\n</ol>\n"
+    },
+    "author": {
+      "elementType": "text",
+      "value": "Linda Hou"
+    },
+    "image": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=4b8f4ebf-202b-459e-9113-df75e99d7af8&a=806b149b-d354-422e-aee6-85ac63581cf7",
+          "source": "/authoring/v1/resources/4b8f4ebf-202b-459e-9113-df75e99d7af8",
+          "width": 1280,
+          "height": 853
+        },
+        "medium": {
+          "renditionId": "de13f0d5-6c5e-4cf6-94ca-18e711ffa6c5",
+          "source": "/authoring/v1/resources/4b8f4ebf-202b-459e-9113-df75e99d7af8?resize=450px:300px&crop=400:300;25,0",
+          "width": 400,
+          "height": 300
+        },
+        "large": {
+          "renditionId": "72f29c1c-dbd5-4c7c-a41d-98cb034ff555",
+          "source": "/authoring/v1/resources/4b8f4ebf-202b-459e-9113-df75e99d7af8?resize=750px:500px&crop=600:500;75,0",
+          "width": 600,
+          "height": 500
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 853,
+        "fileName": "truffles.jpg",
+        "id": "806b149b-d354-422e-aee6-85ac63581cf7",
+        "fileSize": 144175,
+        "resourceUri": "/authoring/v1/resources/4b8f4ebf-202b-459e-9113-df75e99d7af8",
+        "width": 1280
+      }
+    },
+    "description": {
+      "elementType": "formattedtext",
+      "value": "<p>A perfect sweet treat to accompany your morning cup of tea or coffee.</p>\n"
+    },
+    "date": {
+      "elementType": "datetime",
+      "value": "2017-11-04T13:00:00Z"
+    },
+    "nutritionalFeatures": {
+      "elementType": "category",
+      "categoryIds": [
+        "e2b0aebf-78d5-4057-a303-a02132b81657",
+        "89239282-65d0-42ea-b824-e72f90356b8c"
+      ]
+    },
+    "link": {
+      "elementType": "link"
+    },
+    "ingredients": {
+      "elementType": "formattedtext",
+      "value": "<p>200g dark chocolate<br />\n1/3 cup thickened cream<br />\n2 tsp instant coffee powder<br />\n1/4 cup chocolate sprinkles</p>\n"
+    },
+    "category": {
+      "elementType": "category",
+      "categoryIds": [
+        "e146dba1-f494-4f18-80b5-2da08b1326a0"
+      ]
+    },
+    "title": {
+      "elementType": "text",
+      "value": "Coffee Truffles"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "recipe-page-layout"
+      }
+    }
+  ]
+}

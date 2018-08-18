@@ -1,0 +1,108 @@
+{
+  "rev": "3-a89dcfbd8cd68c1d3cfe95d73a48260c",
+  "id": "60f4eeaa-bbb2-46ac-b702-3fca9a327ee7",
+  "mediaType": "image/jpeg",
+  "name": "ingredients.jpg",
+  "path": "/dxdam/60/60f4eeaa-bbb2-46ac-b702-3fca9a327ee7/ingredients.jpg",
+  "digest": "pY1Hu5Isodu6/F4jHw3Aug==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-23T13:30:13.232Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:vegetarianism food",
+      "classification:diet (food)",
+      "classification:food",
+      "classification:in-basket",
+      "classification:receptacle",
+      "classification:balanced diet (food)",
+      "classification:dietary (food)",
+      "classification:bean",
+      "classification:seed",
+      "classification:fruit",
+      "classification:kidney bean",
+      "classification:legume (pea like pods)",
+      "classification:vegetable",
+      "classification:plant",
+      "classification:food product",
+      "classification:chestnut color",
+      "classification:reddish orange color"
+    ],
+    "declined": [],
+    "suggested": [
+      "classification:vegetarianism food",
+      "classification:diet (food)",
+      "classification:food",
+      "classification:in-basket",
+      "classification:receptacle",
+      "classification:balanced diet (food)",
+      "classification:dietary (food)",
+      "classification:bean",
+      "classification:seed",
+      "classification:fruit",
+      "classification:kidney bean",
+      "classification:legume (pea like pods)",
+      "classification:vegetable",
+      "classification:plant",
+      "classification:food product",
+      "classification:chestnut color",
+      "classification:reddish orange color"
+    ],
+    "analysis": "complete"
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "ingredients.jpg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:13.232Z",
+  "cognitive": {
+    "classifications": [
+      "vegetarianism food",
+      "diet (food)",
+      "food",
+      "in-basket",
+      "receptacle",
+      "balanced diet (food)",
+      "dietary (food)",
+      "bean",
+      "seed",
+      "fruit",
+      "kidney bean",
+      "legume (pea like pods)",
+      "vegetable",
+      "plant",
+      "food product",
+      "chestnut color",
+      "reddish orange color"
+    ],
+    "faces": [],
+    "colors": {
+      "lightMuted": "#aca6a8",
+      "darkMuted": "#5c4e33",
+      "vibrant": "#dc2d18",
+      "muted": "#947758",
+      "darkVibrant": "#920809"
+    },
+    "status": "complete"
+  },
+  "resource": "76696404-9a73-4e23-8859-3b050875be7e",
+  "fileSize": 3652027,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=76696404-9a73-4e23-8859-3b050875be7e&a=60f4eeaa-bbb2-46ac-b702-3fca9a327ee7",
+      "source": "/authoring/v1/resources/76696404-9a73-4e23-8859-3b050875be7e"
+    }
+  },
+  "metadata": {
+    "width": 5472,
+    "height": 3648
+  },
+  "classification": "asset",
+  "created": "2018-07-23T13:27:27.237Z",
+  "isManaged": true
+}

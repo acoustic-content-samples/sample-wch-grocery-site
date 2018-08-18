@@ -1,0 +1,94 @@
+{
+  "rev": "3-b0a93d056f868c35d4dffd735d05eec8",
+  "id": "33568ce8-a09a-4c72-a303-fc74004a6c1e",
+  "mediaType": "image/jpeg",
+  "name": "salad-ingredients.jpg",
+  "path": "/dxdam/33/33568ce8-a09a-4c72-a303-fc74004a6c1e/salad-ingredients.jpg",
+  "digest": "wYXn3nqupfzaBRrSF4pVLA==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-23T13:30:12.022Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:salad bar",
+      "classification:bar",
+      "classification:table",
+      "classification:furniture",
+      "classification:snack bar",
+      "classification:potluck meal",
+      "classification:meal",
+      "classification:nutrition",
+      "classification:food",
+      "classification:buffet",
+      "classification:food product",
+      "classification:Indian red color"
+    ],
+    "declined": [],
+    "suggested": [
+      "classification:salad bar",
+      "classification:bar",
+      "classification:table",
+      "classification:furniture",
+      "classification:snack bar",
+      "classification:potluck meal",
+      "classification:meal",
+      "classification:nutrition",
+      "classification:food",
+      "classification:buffet",
+      "classification:food product",
+      "classification:Indian red color"
+    ],
+    "analysis": "complete"
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "salad-ingredients.jpg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:12.022Z",
+  "cognitive": {
+    "classifications": [
+      "salad bar",
+      "bar",
+      "table",
+      "furniture",
+      "snack bar",
+      "potluck meal",
+      "meal",
+      "nutrition",
+      "food",
+      "buffet",
+      "food product",
+      "Indian red color"
+    ],
+    "faces": [],
+    "colors": {
+      "lightMuted": "#9bcdbe",
+      "darkMuted": "#4b372c",
+      "lightVibrant": "#f5b57f",
+      "vibrant": "#25d1d1",
+      "muted": "#7ba450",
+      "darkVibrant": "#646c21"
+    },
+    "status": "complete"
+  },
+  "resource": "2e25caa2-0b64-4df7-905b-38091661c8b6",
+  "fileSize": 3060790,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=2e25caa2-0b64-4df7-905b-38091661c8b6&a=33568ce8-a09a-4c72-a303-fc74004a6c1e",
+      "source": "/authoring/v1/resources/2e25caa2-0b64-4df7-905b-38091661c8b6"
+    }
+  },
+  "metadata": {
+    "width": 4032,
+    "height": 3024
+  },
+  "classification": "asset",
+  "created": "2018-07-23T13:27:09.265Z",
+  "isManaged": true
+}

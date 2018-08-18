@@ -1,0 +1,15 @@
+{
+  "name": "Recipes",
+  "segment": "recipes",
+  "layoutId": "recipes-landing-page-layout",
+  "description": "",
+  "contentTypeId": "ea6e3333-d6b7-43ec-be90-8a6784506eb5",
+  "title": "Recipes | Freshery",
+  "contentId": "3d684ede-d5dd-4298-939e-c35e4a75b7fa",
+  "hideFromNavigation": false,
+  "contentStatus": "ready",
+  "classification": "page",
+  "position": 2,
+  "id": "7ee0834e-e6f8-48bc-89b3-09ac6e78c452",
+  "rev": "10-48c5e899d6c4b2d83cbcca83a9c0fd58"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "0dd26aef-6bad-4f48-90b7-c00ca9e8912c",
+  "rev": "24-d2d7ee1b8576dfdac76eb7052b770c40",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9",
+  "name": "Spinach Salad",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-29T07:58:07.464Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-29T08:27:32.616Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-29T08:27:32.616Z",
+  "elements": {
+    "method": {
+      "elementType": "formattedtext",
+      "value": "<ol>\n\t<li>Whisk red wine vinegar, olive oil and lemon juice in a large bowl.</li>\n\t<li>Add spinach leaves, red onion and red leaf lettuce.</li>\n\t<li>Season with salt and pepper. Toss to combine.</li>\n\t<li>Serve on a plate.</li>\n</ol>\n"
+    },
+    "author": {
+      "elementType": "text",
+      "value": "Linda Hou"
+    },
+    "image": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=a8ed8677-083f-4f06-b01e-76feb1bf48d5&a=98fe6aa9-183b-41af-b8c6-e193c27313dd",
+          "source": "/authoring/v1/resources/a8ed8677-083f-4f06-b01e-76feb1bf48d5",
+          "width": 1280,
+          "height": 853
+        },
+        "medium": {
+          "renditionId": "8586a863-8ad3-4661-8363-e5767bc988a6",
+          "source": "/authoring/v1/resources/a8ed8677-083f-4f06-b01e-76feb1bf48d5?resize=450px:300px&crop=400:300;25,0",
+          "width": 400,
+          "height": 300
+        },
+        "large": {
+          "renditionId": "1a98c510-3b4f-4ae8-b9fb-0ce1ee45e19c",
+          "source": "/authoring/v1/resources/a8ed8677-083f-4f06-b01e-76feb1bf48d5?resize=750px:500px&crop=600:500;75,0",
+          "width": 600,
+          "height": 500
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 853,
+        "fileName": "quinoa-salad.jpg",
+        "id": "98fe6aa9-183b-41af-b8c6-e193c27313dd",
+        "fileSize": 240736,
+        "resourceUri": "/authoring/v1/resources/a8ed8677-083f-4f06-b01e-76feb1bf48d5",
+        "width": 1280
+      }
+    },
+    "description": {
+      "elementType": "formattedtext",
+      "value": "<p>A wholesome and simple salad made with protein-rich spinach and packed with flavor, color and crunch.</p>\n"
+    },
+    "date": {
+      "elementType": "datetime",
+      "value": "2018-07-29T03:00:00Z"
+    },
+    "nutritionalFeatures": {
+      "elementType": "category",
+      "categoryIds": [
+        "13a525e8-c365-4df4-8ace-70bdd0202cb0",
+        "28f50fcc-b98e-4399-83a4-9a815164b5a7"
+      ]
+    },
+    "link": {
+      "elementType": "link"
+    },
+    "ingredients": {
+      "elementType": "formattedtext",
+      "value": "<p>2 tbsp red wine vinegar<br />\n2 tbsp extra-virgin olive oil<br />\n2 tbsp lemon juice<br />\nfresh spinach leaves<br />\n1 red onion, sliced<br />\n1 red leaf lettuce, cut<br />\nSalt and pepper</p>\n"
+    },
+    "category": {
+      "elementType": "category",
+      "categoryIds": [
+        "d12e47f4-1b1e-4d63-83bb-48e5acab5852"
+      ]
+    },
+    "title": {
+      "elementType": "text",
+      "value": "Spinach Salad"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "recipe-page-layout"
+      }
+    }
+  ]
+}

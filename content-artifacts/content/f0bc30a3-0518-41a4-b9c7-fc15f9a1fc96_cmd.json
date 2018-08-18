@@ -1,0 +1,87 @@
+{
+  "id": "f0bc30a3-0518-41a4-b9c7-fc15f9a1fc96",
+  "rev": "2-ead32c4b91408ed3e8ed5315161e373e",
+  "kind": [
+    "page"
+  ],
+  "classification": "content",
+  "typeId": "d16d1ad4-3709-4092-85ea-a8875562475b",
+  "name": "Ravioli Workshop",
+  "description": "",
+  "tags": [],
+  "status": "ready",
+  "created": "2018-07-23T13:28:41.448Z",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "lastModified": "2018-07-23T13:30:34.151Z",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:34.151Z",
+  "elements": {
+    "location": {
+      "elementType": "location",
+      "latitude": -33.82316,
+      "longitude": 151.19676
+    },
+    "endDate": {
+      "elementType": "datetime",
+      "value": "2027-11-30T02:00:00Z"
+    },
+    "image": {
+      "elementType": "image",
+      "renditions": {
+        "default": {
+          "renditionId": "r=21a9fe9a-d8fd-489e-9110-04f2152a3bae&a=a46afc1d-44d3-4e52-ab12-a5734c69f35d",
+          "source": "/authoring/v1/resources/21a9fe9a-d8fd-489e-9110-04f2152a3bae",
+          "width": 3216,
+          "height": 2136
+        },
+        "medium": {
+          "renditionId": "43ca60c9-b0b5-4f5d-b56e-64846ecf7444",
+          "source": "/authoring/v1/resources/21a9fe9a-d8fd-489e-9110-04f2152a3bae?resize=452px:300px&crop=400:300;26,0",
+          "width": 400,
+          "height": 300
+        },
+        "large": {
+          "renditionId": "65a3e046-914d-4d34-bbe0-21c06be9da67",
+          "source": "/authoring/v1/resources/21a9fe9a-d8fd-489e-9110-04f2152a3bae?resize=753px:500px&crop=600:500;76,0",
+          "width": 600,
+          "height": 500
+        }
+      },
+      "asset": {
+        "mediaType": "image/jpeg",
+        "height": 2136,
+        "fileName": "ravioli.jpg",
+        "id": "a46afc1d-44d3-4e52-ab12-a5734c69f35d",
+        "fileSize": 1931307,
+        "resourceUri": "/authoring/v1/resources/21a9fe9a-d8fd-489e-9110-04f2152a3bae",
+        "width": 3216
+      }
+    },
+    "description": {
+      "elementType": "formattedtext",
+      "value": "<p>Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada.</p>\n"
+    },
+    "link": {
+      "elementType": "link"
+    },
+    "address": {
+      "elementType": "formattedtext",
+      "value": "<p>Freshery,<br />\n601 Pacific Highway<br />\nSt Leonards, NSW 2065</p>\n"
+    },
+    "title": {
+      "elementType": "text",
+      "value": "Ravioli Workshop"
+    },
+    "startDate": {
+      "elementType": "datetime",
+      "value": "2027-11-30T00:00:00Z"
+    }
+  },
+  "selectedLayouts": [
+    {
+      "layout": {
+        "id": "event-page-layout"
+      }
+    }
+  ]
+}

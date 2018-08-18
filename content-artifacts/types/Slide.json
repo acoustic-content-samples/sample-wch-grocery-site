@@ -1,0 +1,45 @@
+{
+  "id": "2215421a-042e-424e-9544-c2993ca1b0d9",
+  "rev": "2-cf018942aec3b2acd1a0bad66ea031e9",
+  "name": "Slide",
+  "classification": "content-type",
+  "kind": [
+    "standalone"
+  ],
+  "contentThumbnail": {
+    "imageElement": "image",
+    "source": "imageElementOrType"
+  },
+  "description": "",
+  "status": "ready",
+  "tags": [],
+  "elements": [
+    {
+      "elementType": "text",
+      "label": "Heading",
+      "key": "heading"
+    },
+    {
+      "elementType": "text",
+      "label": "Subheading",
+      "key": "subheading"
+    },
+    {
+      "elementType": "image",
+      "label": "Image",
+      "key": "image",
+      "imageProfileId": "815bc1bf-80d9-4bc7-9635-b98f319ed15e",
+      "acceptType": [
+        "jpg",
+        "jpeg",
+        "png",
+        "gif"
+      ]
+    },
+    {
+      "elementType": "link",
+      "label": "Action link",
+      "key": "actionLink"
+    }
+  ]
+}

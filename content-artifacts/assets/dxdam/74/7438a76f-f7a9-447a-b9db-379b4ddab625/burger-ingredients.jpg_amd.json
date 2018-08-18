@@ -1,0 +1,67 @@
+{
+  "rev": "3-3e389d04394a6c58b7449f8913d64393",
+  "id": "7438a76f-f7a9-447a-b9db-379b4ddab625",
+  "mediaType": "image/jpeg",
+  "name": "burger-ingredients.jpg",
+  "path": "/dxdam/74/7438a76f-f7a9-447a-b9db-379b4ddab625/burger-ingredients.jpg",
+  "digest": "qrK3VL6iOf7xMogzUKXVyg==",
+  "usageRights": {
+    "categories": []
+  },
+  "assetType": "image",
+  "lastModified": "2018-07-23T13:30:14.252Z",
+  "description": "",
+  "tags": {
+    "values": [
+      "classification:loofa",
+      "classification:food",
+      "classification:pale yellow color"
+    ],
+    "declined": [],
+    "suggested": [
+      "classification:loofa",
+      "classification:food",
+      "classification:pale yellow color"
+    ],
+    "analysis": "complete"
+  },
+  "altText": "",
+  "categoryIds": [],
+  "fileName": "burger-ingredients.jpg",
+  "creatorId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "systemModified": "2018-07-23T13:30:14.252Z",
+  "cognitive": {
+    "classifications": [
+      "loofa",
+      "food",
+      "pale yellow color"
+    ],
+    "faces": [],
+    "colors": {
+      "lightMuted": "#d5c4b5",
+      "darkMuted": "#744d35",
+      "lightVibrant": "#eea788",
+      "vibrant": "#31804c",
+      "muted": "#a9785e",
+      "darkVibrant": "#043c24"
+    },
+    "status": "complete"
+  },
+  "resource": "b7e12207-1c0c-42eb-8f9c-3bd059200f60",
+  "fileSize": 2630348,
+  "status": "ready",
+  "lastModifierId": "300d3290-5c3d-48d6-bf22-c2b0735003f9",
+  "renditions": {
+    "default": {
+      "id": "r=b7e12207-1c0c-42eb-8f9c-3bd059200f60&a=7438a76f-f7a9-447a-b9db-379b4ddab625",
+      "source": "/authoring/v1/resources/b7e12207-1c0c-42eb-8f9c-3bd059200f60"
+    }
+  },
+  "metadata": {
+    "width": 5184,
+    "height": 3456
+  },
+  "classification": "asset",
+  "created": "2018-07-23T13:27:28.591Z",
+  "isManaged": true
+}

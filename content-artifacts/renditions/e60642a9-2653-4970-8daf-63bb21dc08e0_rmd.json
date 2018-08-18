@@ -1,0 +1,20 @@
+{
+  "scale": 0.10533707865168539,
+  "locationY": 0,
+  "height": 300,
+  "locationX": 25,
+  "rev": "1-96d75ae472258fd7fcf2b6fd9776fcf3",
+  "id": "e60642a9-2653-4970-8daf-63bb21dc08e0",
+  "classification": "rendition",
+  "asset": {
+    "mediaType": "image/jpeg",
+    "height": 2848,
+    "fileName": "cupcakes.jpg",
+    "id": "636ea6c4-b73d-4b02-9c7b-27a686321352",
+    "resource": "7878d230-84b8-422c-8887-40004370e5ee",
+    "fileSize": 1645935,
+    "width": 4272
+  },
+  "width": 400,
+  "created": "2018-07-23T13:28:22.072Z"
+}

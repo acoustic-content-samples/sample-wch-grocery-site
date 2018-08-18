@@ -1,0 +1,46 @@
+{
+  "id": "7f8606a0-eead-4728-8cd2-ed24705412c0",
+  "rev": "2-e4c799140d06d5ca62d679d169b795b6",
+  "name": "List",
+  "classification": "content-type",
+  "kind": [
+    "standalone"
+  ],
+  "description": "",
+  "status": "ready",
+  "tags": [],
+  "elements": [
+    {
+      "elementType": "text",
+      "label": "Heading",
+      "key": "heading"
+    },
+    {
+      "elementType": "text",
+      "label": "Subheading",
+      "key": "subheading"
+    },
+    {
+      "elementType": "link",
+      "label": "View all link",
+      "key": "viewAllLink"
+    },
+    {
+      "elementType": "reference",
+      "label": "Items",
+      "key": "items",
+      "restrictTypes": [
+        {
+          "id": "d16d1ad4-3709-4092-85ea-a8875562475b"
+        },
+        {
+          "id": "d2b1abfc-c63e-4e6b-a098-03a629ee59d9"
+        }
+      ],
+      "allowMultipleValues": true,
+      "minimumValues": 1,
+      "fieldLabel": "Item",
+      "required": true
+    }
+  ]
+}
