@@ -5,7 +5,7 @@ Freshery is a sample grocery store website that showcases IBM Watson Content Hub
 
 ## Freshery Live
 
-If you wish to just see Freshery, you can use the version hosted at [freshery.rocks](http://freshery.rocks/) and also at [ibm.biz/wch-freshery](http://ibm.biz/wch-freshery).
+If you wish to just see Freshery, you can use the version hosted at [https://my1.digitalexperience.ibm.com/06b21b25-591a-4dd3-a189-197363ea3d1f/home](https://my1.digitalexperience.ibm.com/06b21b25-591a-4dd3-a189-197363ea3d1f/home).
 
 ## Installing and modifying Freshery
 
