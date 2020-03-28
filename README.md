@@ -1,5 +1,5 @@
 # Freshery Sample Site
-Freshery is a sample grocery store website that showcases IBM Watson Content Hub (WCH) site capabilities. It provides an alternative to the Oslo sample that is installed with WCH.
+Freshery is a sample grocery store website that showcases Acoustic Content (formerly Watson Content Hub) site capabilities. It provides an alternative to the Oslo sample that is installed with Content.
 
 <img src="/screenshots/screenshot-home.png?raw=true" width="433" title="Freshery home page" alt="Freshery home page"/> <img src="/screenshots/screenshot-recipes.png?raw=true" width="433" title="Freshery recipes page" alt="Freshery recipes page"/>
 
