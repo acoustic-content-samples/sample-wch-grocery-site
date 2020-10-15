@@ -5,7 +5,7 @@ Freshery is a sample grocery store website that showcases Acoustic Content (form
 
 ## Freshery Live
 
-If you wish to just see Freshery, you can use the version hosted at [https://my1.digitalexperience.ibm.com/06b21b25-591a-4dd3-a189-197363ea3d1f/home](https://my1.digitalexperience.ibm.com/06b21b25-591a-4dd3-a189-197363ea3d1f/home).
+If you wish to just see Freshery, you can use the version hosted at [https://content-us-1.content-cms.com/06b21b25-591a-4dd3-a189-197363ea3d1f/home](https://content-us-1.content-cms.com/06b21b25-591a-4dd3-a189-197363ea3d1f/home).
 
 ## Installing and modifying Freshery
 
